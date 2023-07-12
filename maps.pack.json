@@ -1,0 +1,7388 @@
+{
+  "mountPoint": "/www/maps",
+  "type": "sync",
+  "binary": "maps.pack.bin",
+  "compress": true,
+  "children": {
+    "blackspacetemplate.aubrey": {
+      "originalName": "blackspacetemplate.AUBREY",
+      "type": "file",
+      "base": 0,
+      "length": 88336
+    },
+    "blackspacetemplate.json": {
+      "originalName": "blackspacetemplate.json",
+      "type": "file",
+      "base": 88336,
+      "length": 88320
+    },
+    "blkbasilmeadow.aubrey": {
+      "originalName": "BLKBasilMeadow.AUBREY",
+      "type": "file",
+      "base": 176656,
+      "length": 108271
+    },
+    "blkbasilmeadow.json": {
+      "originalName": "BLKBasilMeadow.json",
+      "type": "file",
+      "base": 284927,
+      "length": 108255
+    },
+    "blktemplate.aubrey": {
+      "originalName": "BLKTemplate.AUBREY",
+      "type": "file",
+      "base": 393182,
+      "length": 274291
+    },
+    "blktemplate.json": {
+      "originalName": "BLKTemplate.json",
+      "type": "file",
+      "base": 667473,
+      "length": 274275
+    },
+    "boringroom.aubrey": {
+      "originalName": "boringroom.AUBREY",
+      "type": "file",
+      "base": 941748,
+      "length": 27101
+    },
+    "boringroom.json": {
+      "originalName": "boringroom.json",
+      "type": "file",
+      "base": 968849,
+      "length": 27085
+    },
+    "branch_coral.aubrey": {
+      "originalName": "branch_coral.AUBREY",
+      "type": "file",
+      "base": 995934,
+      "length": 250177
+    },
+    "branch_coral.json": {
+      "originalName": "branch_coral.json",
+      "type": "file",
+      "base": 1246111,
+      "length": 250161
+    },
+    "bs_basildeathtrap.aubrey": {
+      "originalName": "BS_BasilDeathTrap.AUBREY",
+      "type": "file",
+      "base": 1496272,
+      "length": 6792
+    },
+    "bs_basildeathtrap.json": {
+      "originalName": "BS_BasilDeathTrap.json",
+      "type": "file",
+      "base": 1503064,
+      "length": 6776
+    },
+    "bs_basilmeadow.aubrey": {
+      "originalName": "BS_BasilMeadow.AUBREY",
+      "type": "file",
+      "base": 1509840,
+      "length": 258
+    },
+    "bs_basilmeadow.json": {
+      "originalName": "BS_BasilMeadow.json",
+      "type": "file",
+      "base": 1510098,
+      "length": 242
+    },
+    "bs_beach.aubrey": {
+      "originalName": "BS_Beach.AUBREY",
+      "type": "file",
+      "base": 1510340,
+      "length": 248
+    },
+    "bs_beach.json": {
+      "originalName": "BS_Beach.json",
+      "type": "file",
+      "base": 1510588,
+      "length": 232
+    },
+    "bs_blackspace.aubrey": {
+      "originalName": "BS_Blackspace.AUBREY",
+      "type": "file",
+      "base": 1510820,
+      "length": 1901
+    },
+    "bs_blackspace.json": {
+      "originalName": "BS_Blackspace.json",
+      "type": "file",
+      "base": 1512721,
+      "length": 1885
+    },
+    "bs_blackspace3.aubrey": {
+      "originalName": "BS_Blackspace3.AUBREY",
+      "type": "file",
+      "base": 1514606,
+      "length": 2455
+    },
+    "bs_blackspace3.json": {
+      "originalName": "BS_Blackspace3.json",
+      "type": "file",
+      "base": 1517061,
+      "length": 2439
+    },
+    "bs_faraway_bighouses.aubrey": {
+      "originalName": "BS_FARAWAY_BIGHOUSES.AUBREY",
+      "type": "file",
+      "base": 1519500,
+      "length": 273
+    },
+    "bs_faraway_bighouses.json": {
+      "originalName": "BS_FARAWAY_BIGHOUSES.json",
+      "type": "file",
+      "base": 1519773,
+      "length": 257
+    },
+    "bs_faraway_exterior.aubrey": {
+      "originalName": "BS_Faraway_Exterior.AUBREY",
+      "type": "file",
+      "base": 1520030,
+      "length": 270
+    },
+    "bs_faraway_exterior.json": {
+      "originalName": "BS_Faraway_Exterior.json",
+      "type": "file",
+      "base": 1520300,
+      "length": 254
+    },
+    "bs_faraway_objects.aubrey": {
+      "originalName": "BS_FARAWAY_OBJECTS.AUBREY",
+      "type": "file",
+      "base": 1520554,
+      "length": 6022
+    },
+    "bs_faraway_objects.json": {
+      "originalName": "BS_FARAWAY_OBJECTS.json",
+      "type": "file",
+      "base": 1526576,
+      "length": 6006
+    },
+    "bs_faraway_objects_night.aubrey": {
+      "originalName": "BS_FARAWAY_OBJECTS_NIGHT.AUBREY",
+      "type": "file",
+      "base": 1532582,
+      "length": 6025
+    },
+    "bs_faraway_objects_night.json": {
+      "originalName": "BS_FARAWAY_OBJECTS_NIGHT.json",
+      "type": "file",
+      "base": 1538607,
+      "length": 6009
+    },
+    "bs_faraway_objects_sunset.aubrey": {
+      "originalName": "BS_FARAWAY_OBJECTS_SUNSET.AUBREY",
+      "type": "file",
+      "base": 1544616,
+      "length": 6026
+    },
+    "bs_faraway_objects_sunset.json": {
+      "originalName": "BS_FARAWAY_OBJECTS_SUNSET.json",
+      "type": "file",
+      "base": 1550642,
+      "length": 6010
+    },
+    "bs_hallucination_interior.aubrey": {
+      "originalName": "BS_Hallucination_Interior.AUBREY",
+      "type": "file",
+      "base": 1556652,
+      "length": 279
+    },
+    "bs_hallucination_interior.json": {
+      "originalName": "BS_Hallucination_Interior.json",
+      "type": "file",
+      "base": 1556931,
+      "length": 263
+    },
+    "bs_hallucination_vastforest.aubrey": {
+      "originalName": "BS_Hallucination_VastForest.AUBREY",
+      "type": "file",
+      "base": 1557194,
+      "length": 6940
+    },
+    "bs_hallucination_vastforest.json": {
+      "originalName": "BS_Hallucination_VastForest.json",
+      "type": "file",
+      "base": 1564134,
+      "length": 6924
+    },
+    "bs_hospital.aubrey": {
+      "originalName": "BS_HOSPITAL.AUBREY",
+      "type": "file",
+      "base": 1571058,
+      "length": 265
+    },
+    "bs_hospital.json": {
+      "originalName": "BS_HOSPITAL.json",
+      "type": "file",
+      "base": 1571323,
+      "length": 249
+    },
+    "bs_light.aubrey": {
+      "originalName": "BS_Light.AUBREY",
+      "type": "file",
+      "base": 1571572,
+      "length": 248
+    },
+    "bs_light.json": {
+      "originalName": "BS_Light.json",
+      "type": "file",
+      "base": 1571820,
+      "length": 232
+    },
+    "bs_objects_hallucination.aubrey": {
+      "originalName": "BS_OBJECTS_Hallucination.AUBREY",
+      "type": "file",
+      "base": 1572052,
+      "length": 8431
+    },
+    "bs_objects_hallucination.json": {
+      "originalName": "BS_OBJECTS_Hallucination.json",
+      "type": "file",
+      "base": 1580483,
+      "length": 8415
+    },
+    "bs_redspace1.aubrey": {
+      "originalName": "BS_Redspace1.AUBREY",
+      "type": "file",
+      "base": 1588898,
+      "length": 258
+    },
+    "bs_redspace1.json": {
+      "originalName": "BS_Redspace1.json",
+      "type": "file",
+      "base": 1589156,
+      "length": 242
+    },
+    "bs_redspace2.aubrey": {
+      "originalName": "BS_Redspace2.AUBREY",
+      "type": "file",
+      "base": 1589398,
+      "length": 258
+    },
+    "bs_redspace2.json": {
+      "originalName": "BS_Redspace2.json",
+      "type": "file",
+      "base": 1589656,
+      "length": 242
+    },
+    "bs_redspace3.aubrey": {
+      "originalName": "BS_Redspace3.AUBREY",
+      "type": "file",
+      "base": 1589898,
+      "length": 258
+    },
+    "bs_redspace3.json": {
+      "originalName": "BS_Redspace3.json",
+      "type": "file",
+      "base": 1590156,
+      "length": 242
+    },
+    "bs_spill.aubrey": {
+      "originalName": "BS_SPILL.AUBREY",
+      "type": "file",
+      "base": 1590398,
+      "length": 948
+    },
+    "bs_spill.json": {
+      "originalName": "BS_SPILL.json",
+      "type": "file",
+      "base": 1591346,
+      "length": 932
+    },
+    "bs_stage.aubrey": {
+      "originalName": "BS_Stage.AUBREY",
+      "type": "file",
+      "base": 1592278,
+      "length": 1021
+    },
+    "bs_stage.json": {
+      "originalName": "BS_Stage.json",
+      "type": "file",
+      "base": 1593299,
+      "length": 1005
+    },
+    "bs_static.aubrey": {
+      "originalName": "BS_STATIC.AUBREY",
+      "type": "file",
+      "base": 1594304,
+      "length": 6237
+    },
+    "bs_static.json": {
+      "originalName": "BS_STATIC.json",
+      "type": "file",
+      "base": 1600541,
+      "length": 6221
+    },
+    "bs_sway.aubrey": {
+      "originalName": "BS_Sway.AUBREY",
+      "type": "file",
+      "base": 1606762,
+      "length": 732
+    },
+    "bs_sway.json": {
+      "originalName": "BS_Sway.json",
+      "type": "file",
+      "base": 1607494,
+      "length": 716
+    },
+    "bs_treehouse.aubrey": {
+      "originalName": "BS_TREEHOUSE.AUBREY",
+      "type": "file",
+      "base": 1608210,
+      "length": 254
+    },
+    "bs_treehouse.json": {
+      "originalName": "BS_TREEHOUSE.json",
+      "type": "file",
+      "base": 1608464,
+      "length": 238
+    },
+    "bs_treehouse_hallucination.aubrey": {
+      "originalName": "BS_Treehouse_Hallucination.AUBREY",
+      "type": "file",
+      "base": 1608702,
+      "length": 279
+    },
+    "bs_treehouse_hallucination.json": {
+      "originalName": "BS_Treehouse_Hallucination.json",
+      "type": "file",
+      "base": 1608981,
+      "length": 263
+    },
+    "clubsandwich.aubrey": {
+      "originalName": "clubsandwich.AUBREY",
+      "type": "file",
+      "base": 1609244,
+      "length": 168347
+    },
+    "clubsandwich.json": {
+      "originalName": "clubsandwich.json",
+      "type": "file",
+      "base": 1777591,
+      "length": 168331
+    },
+    "deeperwell_path.aubrey": {
+      "originalName": "deeperwell_path.AUBREY",
+      "type": "file",
+      "base": 1945922,
+      "length": 140097
+    },
+    "deeperwell_path.json": {
+      "originalName": "deeperwell_path.json",
+      "type": "file",
+      "base": 2086019,
+      "length": 140081
+    },
+    "deep_trench.aubrey": {
+      "originalName": "deep_trench.AUBREY",
+      "type": "file",
+      "base": 2226100,
+      "length": 338141
+    },
+    "deep_trench.json": {
+      "originalName": "deep_trench.json",
+      "type": "file",
+      "base": 2564241,
+      "length": 338125
+    },
+    "dinodigsweets.aubrey": {
+      "originalName": "dinodigsweets.AUBREY",
+      "type": "file",
+      "base": 2902366,
+      "length": 45262
+    },
+    "dinodigsweets.json": {
+      "originalName": "dinodigsweets.json",
+      "type": "file",
+      "base": 2947628,
+      "length": 45246
+    },
+    "dw_abyss.aubrey": {
+      "originalName": "DW_Abyss.AUBREY",
+      "type": "file",
+      "base": 2992874,
+      "length": 4542
+    },
+    "dw_abyss.json": {
+      "originalName": "DW_Abyss.json",
+      "type": "file",
+      "base": 2997416,
+      "length": 4526
+    },
+    "dw_backdrop_1.aubrey": {
+      "originalName": "DW_BACKDROP_1.AUBREY",
+      "type": "file",
+      "base": 3001942,
+      "length": 258
+    },
+    "dw_backdrop_1.json": {
+      "originalName": "DW_BACKDROP_1.json",
+      "type": "file",
+      "base": 3002200,
+      "length": 242
+    },
+    "dw_backdrop_2.aubrey": {
+      "originalName": "DW_BACKDROP_2.AUBREY",
+      "type": "file",
+      "base": 3002442,
+      "length": 258
+    },
+    "dw_backdrop_2.json": {
+      "originalName": "DW_BACKDROP_2.json",
+      "type": "file",
+      "base": 3002700,
+      "length": 242
+    },
+    "dw_beach.aubrey": {
+      "originalName": "DW_Beach.AUBREY",
+      "type": "file",
+      "base": 3002942,
+      "length": 20263
+    },
+    "dw_beach.json": {
+      "originalName": "DW_Beach.json",
+      "type": "file",
+      "base": 3023205,
+      "length": 20247
+    },
+    "dw_beachpiece.aubrey": {
+      "originalName": "DW_BeachPiece.AUBREY",
+      "type": "file",
+      "base": 3043452,
+      "length": 848
+    },
+    "dw_beachpiece.json": {
+      "originalName": "DW_BeachPiece.json",
+      "type": "file",
+      "base": 3044300,
+      "length": 832
+    },
+    "dw_cattail.aubrey": {
+      "originalName": "DW_Cattail.AUBREY",
+      "type": "file",
+      "base": 3045132,
+      "length": 766
+    },
+    "dw_cattail.json": {
+      "originalName": "DW_Cattail.json",
+      "type": "file",
+      "base": 3045898,
+      "length": 750
+    },
+    "dw_deadforest1.aubrey": {
+      "originalName": "DW_DeadForest1.AUBREY",
+      "type": "file",
+      "base": 3046648,
+      "length": 928
+    },
+    "dw_deadforest1.json": {
+      "originalName": "DW_DeadForest1.json",
+      "type": "file",
+      "base": 3047576,
+      "length": 912
+    },
+    "dw_deadforest2.aubrey": {
+      "originalName": "DW_DeadForest2.AUBREY",
+      "type": "file",
+      "base": 3048488,
+      "length": 659
+    },
+    "dw_deadforest2.json": {
+      "originalName": "DW_DeadForest2.json",
+      "type": "file",
+      "base": 3049147,
+      "length": 643
+    },
+    "dw_deepreef.aubrey": {
+      "originalName": "DW_DeepReef.AUBREY",
+      "type": "file",
+      "base": 3049790,
+      "length": 4284
+    },
+    "dw_deepreef.json": {
+      "originalName": "DW_DeepReef.json",
+      "type": "file",
+      "base": 3054074,
+      "length": 4268
+    },
+    "dw_doughdungeon.aubrey": {
+      "originalName": "DW_DoughDungeon.AUBREY",
+      "type": "file",
+      "base": 3058342,
+      "length": 4657
+    },
+    "dw_doughdungeon.json": {
+      "originalName": "DW_DoughDungeon.json",
+      "type": "file",
+      "base": 3062999,
+      "length": 4641
+    },
+    "dw_doughdungeon2.aubrey": {
+      "originalName": "DW_DoughDungeon2.AUBREY",
+      "type": "file",
+      "base": 3067640,
+      "length": 9597
+    },
+    "dw_doughdungeon2.json": {
+      "originalName": "DW_DoughDungeon2.json",
+      "type": "file",
+      "base": 3077237,
+      "length": 9581
+    },
+    "dw_ghostpuddle.aubrey": {
+      "originalName": "DW_GhostPuddle.AUBREY",
+      "type": "file",
+      "base": 3086818,
+      "length": 751
+    },
+    "dw_ghostpuddle.json": {
+      "originalName": "DW_GhostPuddle.json",
+      "type": "file",
+      "base": 3087569,
+      "length": 735
+    },
+    "dw_hedges.aubrey": {
+      "originalName": "DW_Hedges.AUBREY",
+      "type": "file",
+      "base": 3088304,
+      "length": 266
+    },
+    "dw_hedges.json": {
+      "originalName": "DW_Hedges.json",
+      "type": "file",
+      "base": 3088570,
+      "length": 250
+    },
+    "dw_hiddenlibrary.aubrey": {
+      "originalName": "DW_HiddenLibrary.AUBREY",
+      "type": "file",
+      "base": 3088820,
+      "length": 6079
+    },
+    "dw_hiddenlibrary.json": {
+      "originalName": "DW_HiddenLibrary.json",
+      "type": "file",
+      "base": 3094899,
+      "length": 6063
+    },
+    "dw_interior.aubrey": {
+      "originalName": "DW_INTERIOR.AUBREY",
+      "type": "file",
+      "base": 3100962,
+      "length": 23246
+    },
+    "dw_interior.json": {
+      "originalName": "DW_INTERIOR.json",
+      "type": "file",
+      "base": 3124208,
+      "length": 23230
+    },
+    "dw_junkyard.aubrey": {
+      "originalName": "DW_Junkyard.AUBREY",
+      "type": "file",
+      "base": 3147438,
+      "length": 8935
+    },
+    "dw_junkyard.json": {
+      "originalName": "DW_Junkyard.json",
+      "type": "file",
+      "base": 3156373,
+      "length": 8919
+    },
+    "dw_lastresort.aubrey": {
+      "originalName": "DW_LastResort.AUBREY",
+      "type": "file",
+      "base": 3165292,
+      "length": 1398
+    },
+    "dw_lastresort.json": {
+      "originalName": "DW_LastResort.json",
+      "type": "file",
+      "base": 3166690,
+      "length": 1382
+    },
+    "dw_lastresortship.aubrey": {
+      "originalName": "DW_LastResortShip.AUBREY",
+      "type": "file",
+      "base": 3168072,
+      "length": 20580
+    },
+    "dw_lastresortship.json": {
+      "originalName": "DW_LastResortShip.json",
+      "type": "file",
+      "base": 3188652,
+      "length": 20564
+    },
+    "dw_lr_sign.aubrey": {
+      "originalName": "DW_LR_SIGN.AUBREY",
+      "type": "file",
+      "base": 3209216,
+      "length": 654
+    },
+    "dw_lr_sign.json": {
+      "originalName": "DW_LR_SIGN.json",
+      "type": "file",
+      "base": 3209870,
+      "length": 638
+    },
+    "dw_neighborsroom_stairs.aubrey": {
+      "originalName": "DW_NeighborsRoom_Stairs.AUBREY",
+      "type": "file",
+      "base": 3210508,
+      "length": 1698
+    },
+    "dw_neighborsroom_stairs.json": {
+      "originalName": "DW_NeighborsRoom_Stairs.json",
+      "type": "file",
+      "base": 3212206,
+      "length": 1682
+    },
+    "dw_neighbors_room.aubrey": {
+      "originalName": "DW_NEIGHBORS_ROOM.AUBREY",
+      "type": "file",
+      "base": 3213888,
+      "length": 817
+    },
+    "dw_neighbors_room.json": {
+      "originalName": "DW_NEIGHBORS_ROOM.json",
+      "type": "file",
+      "base": 3214705,
+      "length": 801
+    },
+    "dw_northlake.aubrey": {
+      "originalName": "DW_NorthLake.AUBREY",
+      "type": "file",
+      "base": 3215506,
+      "length": 7520
+    },
+    "dw_northlake.json": {
+      "originalName": "DW_NorthLake.json",
+      "type": "file",
+      "base": 3223026,
+      "length": 7504
+    },
+    "dw_orange.aubrey": {
+      "originalName": "DW_ORANGE.AUBREY",
+      "type": "file",
+      "base": 3230530,
+      "length": 918
+    },
+    "dw_orange.json": {
+      "originalName": "DW_ORANGE.json",
+      "type": "file",
+      "base": 3231448,
+      "length": 902
+    },
+    "dw_otherworld.aubrey": {
+      "originalName": "DW_OTHERWORLD.AUBREY",
+      "type": "file",
+      "base": 3232350,
+      "length": 7153
+    },
+    "dw_otherworld.json": {
+      "originalName": "DW_OTHERWORLD.json",
+      "type": "file",
+      "base": 3239503,
+      "length": 7137
+    },
+    "dw_pyrefly.aubrey": {
+      "originalName": "DW_Pyrefly.AUBREY",
+      "type": "file",
+      "base": 3246640,
+      "length": 8119
+    },
+    "dw_pyrefly.json": {
+      "originalName": "DW_Pyrefly.json",
+      "type": "file",
+      "base": 3254759,
+      "length": 8103
+    },
+    "dw_raintown.aubrey": {
+      "originalName": "DW_RAINTOWN.AUBREY",
+      "type": "file",
+      "base": 3262862,
+      "length": 1232
+    },
+    "dw_raintown.json": {
+      "originalName": "DW_RAINTOWN.json",
+      "type": "file",
+      "base": 3264094,
+      "length": 1216
+    },
+    "dw_seaweed.aubrey": {
+      "originalName": "DW_Seaweed.AUBREY",
+      "type": "file",
+      "base": 3265310,
+      "length": 738
+    },
+    "dw_seaweed.json": {
+      "originalName": "DW_Seaweed.json",
+      "type": "file",
+      "base": 3266048,
+      "length": 722
+    },
+    "dw_sg_cage.aubrey": {
+      "originalName": "DW_SG_Cage.AUBREY",
+      "type": "file",
+      "base": 3266770,
+      "length": 738
+    },
+    "dw_sg_cage.json": {
+      "originalName": "DW_SG_Cage.json",
+      "type": "file",
+      "base": 3267508,
+      "length": 722
+    },
+    "dw_slimegirllair.aubrey": {
+      "originalName": "DW_SlimegirlLair.AUBREY",
+      "type": "file",
+      "base": 3268230,
+      "length": 10092
+    },
+    "dw_slimegirllair.json": {
+      "originalName": "DW_SlimegirlLair.json",
+      "type": "file",
+      "base": 3278322,
+      "length": 10076
+    },
+    "dw_slimegirllair2.aubrey": {
+      "originalName": "DW_SlimeGirlLair2.AUBREY",
+      "type": "file",
+      "base": 3288398,
+      "length": 7806
+    },
+    "dw_slimegirllair2.json": {
+      "originalName": "DW_SlimeGirlLair2.json",
+      "type": "file",
+      "base": 3296204,
+      "length": 7790
+    },
+    "dw_smallwaves.aubrey": {
+      "originalName": "DW_SmallWaves.AUBREY",
+      "type": "file",
+      "base": 3303994,
+      "length": 847
+    },
+    "dw_smallwaves.json": {
+      "originalName": "DW_SmallWaves.json",
+      "type": "file",
+      "base": 3304841,
+      "length": 831
+    },
+    "dw_snowforest.aubrey": {
+      "originalName": "DW_SnowForest.AUBREY",
+      "type": "file",
+      "base": 3305672,
+      "length": 1127
+    },
+    "dw_snowforest.json": {
+      "originalName": "DW_SnowForest.json",
+      "type": "file",
+      "base": 3306799,
+      "length": 1111
+    },
+    "dw_sproutmolebachelor.aubrey": {
+      "originalName": "DW_SproutMoleBachelor.AUBREY",
+      "type": "file",
+      "base": 3307910,
+      "length": 266
+    },
+    "dw_sproutmolebachelor.json": {
+      "originalName": "DW_SproutMoleBachelor.json",
+      "type": "file",
+      "base": 3308176,
+      "length": 250
+    },
+    "dw_sproutmolecolony.aubrey": {
+      "originalName": "DW_SproutMoleColony.AUBREY",
+      "type": "file",
+      "base": 3308426,
+      "length": 270
+    },
+    "dw_sproutmolecolony.json": {
+      "originalName": "DW_SproutMoleColony.json",
+      "type": "file",
+      "base": 3308696,
+      "length": 254
+    },
+    "dw_sproutmoletown.aubrey": {
+      "originalName": "DW_SproutMoleTown.AUBREY",
+      "type": "file",
+      "base": 3308950,
+      "length": 1998
+    },
+    "dw_sproutmoletown.json": {
+      "originalName": "DW_SproutMoleTown.json",
+      "type": "file",
+      "base": 3310948,
+      "length": 1982
+    },
+    "dw_stage.aubrey": {
+      "originalName": "DW_Stage.AUBREY",
+      "type": "file",
+      "base": 3312930,
+      "length": 269
+    },
+    "dw_stage.json": {
+      "originalName": "DW_Stage.json",
+      "type": "file",
+      "base": 3313199,
+      "length": 253
+    },
+    "dw_sweetheart.aubrey": {
+      "originalName": "DW_Sweetheart.AUBREY",
+      "type": "file",
+      "base": 3313452,
+      "length": 7157
+    },
+    "dw_sweetheart.json": {
+      "originalName": "DW_Sweetheart.json",
+      "type": "file",
+      "base": 3320609,
+      "length": 7141
+    },
+    "dw_sweetheartcastlepaintings.aubrey": {
+      "originalName": "DW_SweetheartCastlePaintings.AUBREY",
+      "type": "file",
+      "base": 3327750,
+      "length": 4807
+    },
+    "dw_sweetheartcastlepaintings.json": {
+      "originalName": "DW_SweetheartCastlePaintings.json",
+      "type": "file",
+      "base": 3332557,
+      "length": 4791
+    },
+    "dw_swfountain.aubrey": {
+      "originalName": "DW_SWFountain.AUBREY",
+      "type": "file",
+      "base": 3337348,
+      "length": 745
+    },
+    "dw_swfountain.json": {
+      "originalName": "DW_SWFountain.json",
+      "type": "file",
+      "base": 3338093,
+      "length": 729
+    },
+    "dw_train_interior.aubrey": {
+      "originalName": "DW_Train_interior.AUBREY",
+      "type": "file",
+      "base": 3338822,
+      "length": 5050
+    },
+    "dw_train_interior.json": {
+      "originalName": "DW_Train_interior.json",
+      "type": "file",
+      "base": 3343872,
+      "length": 5034
+    },
+    "dw_treestumpanim.aubrey": {
+      "originalName": "DW_TreeStumpAnim.AUBREY",
+      "type": "file",
+      "base": 3348906,
+      "length": 2463
+    },
+    "dw_treestumpanim.json": {
+      "originalName": "DW_TreeStumpAnim.json",
+      "type": "file",
+      "base": 3351369,
+      "length": 2447
+    },
+    "dw_underwater_anim.aubrey": {
+      "originalName": "DW_Underwater_Anim.AUBREY",
+      "type": "file",
+      "base": 3353816,
+      "length": 1225
+    },
+    "dw_underwater_anim.json": {
+      "originalName": "DW_Underwater_Anim.json",
+      "type": "file",
+      "base": 3355041,
+      "length": 1209
+    },
+    "dw_upsidedownsproutmole.aubrey": {
+      "originalName": "DW_UpsideDownSproutmole.AUBREY",
+      "type": "file",
+      "base": 3356250,
+      "length": 283
+    },
+    "dw_upsidedownsproutmole.json": {
+      "originalName": "DW_UpsideDownSproutmole.json",
+      "type": "file",
+      "base": 3356533,
+      "length": 267
+    },
+    "dw_uw_anim.aubrey": {
+      "originalName": "DW_UW_Anim.AUBREY",
+      "type": "file",
+      "base": 3356800,
+      "length": 739
+    },
+    "dw_uw_anim.json": {
+      "originalName": "DW_UW_Anim.json",
+      "type": "file",
+      "base": 3357539,
+      "length": 723
+    },
+    "dw_vastforest.aubrey": {
+      "originalName": "DW_VastForest.AUBREY",
+      "type": "file",
+      "base": 3358262,
+      "length": 4123
+    },
+    "dw_vastforest.json": {
+      "originalName": "DW_VastForest.json",
+      "type": "file",
+      "base": 3362385,
+      "length": 4107
+    },
+    "dw_vastforestpinwheel.aubrey": {
+      "originalName": "DW_VastForestPINWHEEL.AUBREY",
+      "type": "file",
+      "base": 3366492,
+      "length": 658
+    },
+    "dw_vastforestpinwheel.json": {
+      "originalName": "DW_VastForestPINWHEEL.json",
+      "type": "file",
+      "base": 3367150,
+      "length": 642
+    },
+    "dw_vastforest_after.aubrey": {
+      "originalName": "DW_VastForest_After.AUBREY",
+      "type": "file",
+      "base": 3367792,
+      "length": 4140
+    },
+    "dw_vastforest_after.json": {
+      "originalName": "DW_VastForest_After.json",
+      "type": "file",
+      "base": 3371932,
+      "length": 4124
+    },
+    "dw_wave3.aubrey": {
+      "originalName": "DW_Wave3.AUBREY",
+      "type": "file",
+      "base": 3376056,
+      "length": 7753
+    },
+    "dw_wave3.json": {
+      "originalName": "DW_Wave3.json",
+      "type": "file",
+      "base": 3383809,
+      "length": 7737
+    },
+    "dw_waves.aubrey": {
+      "originalName": "DW_Waves.AUBREY",
+      "type": "file",
+      "base": 3391546,
+      "length": 625
+    },
+    "dw_waves.json": {
+      "originalName": "DW_Waves.json",
+      "type": "file",
+      "base": 3392171,
+      "length": 609
+    },
+    "dw_waves2.aubrey": {
+      "originalName": "DW_WAVES2.AUBREY",
+      "type": "file",
+      "base": 3392780,
+      "length": 944
+    },
+    "dw_waves2.json": {
+      "originalName": "DW_WAVES2.json",
+      "type": "file",
+      "base": 3393724,
+      "length": 928
+    },
+    "dw_whitespace.aubrey": {
+      "originalName": "DW_WHITESPACE.AUBREY",
+      "type": "file",
+      "base": 3394652,
+      "length": 642
+    },
+    "dw_whitespace.json": {
+      "originalName": "DW_WHITESPACE.json",
+      "type": "file",
+      "base": 3395294,
+      "length": 626
+    },
+    "endless_highway.aubrey": {
+      "originalName": "endless_highway.AUBREY",
+      "type": "file",
+      "base": 3395920,
+      "length": 40048
+    },
+    "endless_highway.json": {
+      "originalName": "endless_highway.json",
+      "type": "file",
+      "base": 3435968,
+      "length": 40032
+    },
+    "fannight.aubrey": {
+      "originalName": "FanNight.AUBREY",
+      "type": "file",
+      "base": 3476000,
+      "length": 654
+    },
+    "fannight.json": {
+      "originalName": "FanNight.json",
+      "type": "file",
+      "base": 3476654,
+      "length": 638
+    },
+    "fa_church.aubrey": {
+      "originalName": "FA_Church.AUBREY",
+      "type": "file",
+      "base": 3477292,
+      "length": 2158
+    },
+    "fa_church.json": {
+      "originalName": "FA_Church.json",
+      "type": "file",
+      "base": 3479450,
+      "length": 2142
+    },
+    "fa_hallucination.aubrey": {
+      "originalName": "FA_HALLUCINATION.AUBREY",
+      "type": "file",
+      "base": 3481592,
+      "length": 3085
+    },
+    "fa_hallucination.json": {
+      "originalName": "FA_HALLUCINATION.json",
+      "type": "file",
+      "base": 3484677,
+      "length": 3069
+    },
+    "fa_hospital.aubrey": {
+      "originalName": "FA_HOSPITAL.AUBREY",
+      "type": "file",
+      "base": 3487746,
+      "length": 259
+    },
+    "fa_hospital.json": {
+      "originalName": "FA_HOSPITAL.json",
+      "type": "file",
+      "base": 3488005,
+      "length": 243
+    },
+    "fa_interior.aubrey": {
+      "originalName": "FA_Interior.AUBREY",
+      "type": "file",
+      "base": 3488248,
+      "length": 1580
+    },
+    "fa_interior.json": {
+      "originalName": "FA_Interior.json",
+      "type": "file",
+      "base": 3489828,
+      "length": 1564
+    },
+    "fa_interior2.aubrey": {
+      "originalName": "FA_interior2.AUBREY",
+      "type": "file",
+      "base": 3491392,
+      "length": 4930
+    },
+    "fa_interior2.json": {
+      "originalName": "FA_interior2.json",
+      "type": "file",
+      "base": 3496322,
+      "length": 4914
+    },
+    "fa_interiorfan.aubrey": {
+      "originalName": "FA_InteriorFan.AUBREY",
+      "type": "file",
+      "base": 3501236,
+      "length": 646
+    },
+    "fa_interiorfan.json": {
+      "originalName": "FA_InteriorFan.json",
+      "type": "file",
+      "base": 3501882,
+      "length": 630
+    },
+    "fa_minigame_bighouses.aubrey": {
+      "originalName": "FA_MINIGAME_BIGHOUSES.AUBREY",
+      "type": "file",
+      "base": 3502512,
+      "length": 266
+    },
+    "fa_minigame_bighouses.json": {
+      "originalName": "FA_MINIGAME_BIGHOUSES.json",
+      "type": "file",
+      "base": 3502778,
+      "length": 250
+    },
+    "fa_minigame_downhouses.aubrey": {
+      "originalName": "FA_MINIGAME_DOWNHOUSES.AUBREY",
+      "type": "file",
+      "base": 3503028,
+      "length": 264
+    },
+    "fa_minigame_downhouses.json": {
+      "originalName": "FA_MINIGAME_DOWNHOUSES.json",
+      "type": "file",
+      "base": 3503292,
+      "length": 248
+    },
+    "fa_night_bighouses.aubrey": {
+      "originalName": "FA_NIGHT_BIGHOUSES.AUBREY",
+      "type": "file",
+      "base": 3503540,
+      "length": 269
+    },
+    "fa_night_bighouses.json": {
+      "originalName": "FA_NIGHT_BIGHOUSES.json",
+      "type": "file",
+      "base": 3503809,
+      "length": 253
+    },
+    "fa_night_cars.aubrey": {
+      "originalName": "FA_NIGHT_CARS.AUBREY",
+      "type": "file",
+      "base": 3504062,
+      "length": 258
+    },
+    "fa_night_cars.json": {
+      "originalName": "FA_NIGHT_CARS.json",
+      "type": "file",
+      "base": 3504320,
+      "length": 242
+    },
+    "fa_night_downhouses.aubrey": {
+      "originalName": "FA_NIGHT_DOWNHOUSES.AUBREY",
+      "type": "file",
+      "base": 3504562,
+      "length": 267
+    },
+    "fa_night_downhouses.json": {
+      "originalName": "FA_NIGHT_DOWNHOUSES.json",
+      "type": "file",
+      "base": 3504829,
+      "length": 251
+    },
+    "fa_night_interior.aubrey": {
+      "originalName": "FA_NIGHT_INTERIOR.AUBREY",
+      "type": "file",
+      "base": 3505080,
+      "length": 266
+    },
+    "fa_night_interior.json": {
+      "originalName": "FA_NIGHT_INTERIOR.json",
+      "type": "file",
+      "base": 3505346,
+      "length": 250
+    },
+    "fa_night_interior2.aubrey": {
+      "originalName": "FA_NIGHT_INTERIOR2.AUBREY",
+      "type": "file",
+      "base": 3505596,
+      "length": 267
+    },
+    "fa_night_interior2.json": {
+      "originalName": "FA_NIGHT_INTERIOR2.json",
+      "type": "file",
+      "base": 3505863,
+      "length": 251
+    },
+    "fa_night_objects.aubrey": {
+      "originalName": "FA_NIGHT_OBJECTS.AUBREY",
+      "type": "file",
+      "base": 3506114,
+      "length": 7956
+    },
+    "fa_night_objects.json": {
+      "originalName": "FA_NIGHT_OBJECTS.json",
+      "type": "file",
+      "base": 3514070,
+      "length": 7940
+    },
+    "fa_night_shop.aubrey": {
+      "originalName": "FA_NIGHT_SHOP.AUBREY",
+      "type": "file",
+      "base": 3522010,
+      "length": 258
+    },
+    "fa_night_shop.json": {
+      "originalName": "FA_NIGHT_SHOP.json",
+      "type": "file",
+      "base": 3522268,
+      "length": 242
+    },
+    "fa_outside_bighouses.aubrey": {
+      "originalName": "FA_OUTSIDE_BIGHOUSES.AUBREY",
+      "type": "file",
+      "base": 3522510,
+      "length": 257
+    },
+    "fa_outside_bighouses.json": {
+      "originalName": "FA_OUTSIDE_BIGHOUSES.json",
+      "type": "file",
+      "base": 3522767,
+      "length": 241
+    },
+    "fa_outside_bighouses_rain.aubrey": {
+      "originalName": "FA_OUTSIDE_BIGHOUSES_RAIN.AUBREY",
+      "type": "file",
+      "base": 3523008,
+      "length": 267
+    },
+    "fa_outside_bighouses_rain.json": {
+      "originalName": "FA_OUTSIDE_BIGHOUSES_RAIN.json",
+      "type": "file",
+      "base": 3523275,
+      "length": 251
+    },
+    "fa_outside_cars.aubrey": {
+      "originalName": "FA_OUTSIDE_CARS.AUBREY",
+      "type": "file",
+      "base": 3523526,
+      "length": 246
+    },
+    "fa_outside_cars.json": {
+      "originalName": "FA_OUTSIDE_CARS.json",
+      "type": "file",
+      "base": 3523772,
+      "length": 230
+    },
+    "fa_outside_downhouses.aubrey": {
+      "originalName": "FA_OUTSIDE_DOWNHOUSES.AUBREY",
+      "type": "file",
+      "base": 3524002,
+      "length": 255
+    },
+    "fa_outside_downhouses.json": {
+      "originalName": "FA_OUTSIDE_DOWNHOUSES.json",
+      "type": "file",
+      "base": 3524257,
+      "length": 239
+    },
+    "fa_outside_objects.aubrey": {
+      "originalName": "FA_OUTSIDE_OBJECTS.AUBREY",
+      "type": "file",
+      "base": 3524496,
+      "length": 8049
+    },
+    "fa_outside_objects.json": {
+      "originalName": "FA_OUTSIDE_OBJECTS.json",
+      "type": "file",
+      "base": 3532545,
+      "length": 8033
+    },
+    "fa_outside_objects_rain.aubrey": {
+      "originalName": "FA_OUTSIDE_OBJECTS_RAIN.AUBREY",
+      "type": "file",
+      "base": 3540578,
+      "length": 8261
+    },
+    "fa_outside_objects_rain.json": {
+      "originalName": "FA_OUTSIDE_OBJECTS_RAIN.json",
+      "type": "file",
+      "base": 3548839,
+      "length": 8245
+    },
+    "fa_shop.aubrey": {
+      "originalName": "FA_Shop.AUBREY",
+      "type": "file",
+      "base": 3557084,
+      "length": 259
+    },
+    "fa_shop.json": {
+      "originalName": "FA_Shop.json",
+      "type": "file",
+      "base": 3557343,
+      "length": 243
+    },
+    "fa_sunset_bighouses.aubrey": {
+      "originalName": "FA_SUNSET_BIGHOUSES.AUBREY",
+      "type": "file",
+      "base": 3557586,
+      "length": 271
+    },
+    "fa_sunset_bighouses.json": {
+      "originalName": "FA_SUNSET_BIGHOUSES.json",
+      "type": "file",
+      "base": 3557857,
+      "length": 255
+    },
+    "fa_sunset_cars.aubrey": {
+      "originalName": "FA_SUNSET_CARS.AUBREY",
+      "type": "file",
+      "base": 3558112,
+      "length": 260
+    },
+    "fa_sunset_cars.json": {
+      "originalName": "FA_SUNSET_CARS.json",
+      "type": "file",
+      "base": 3558372,
+      "length": 244
+    },
+    "fa_sunset_downhouses.aubrey": {
+      "originalName": "FA_SUNSET_DOWNHOUSES.AUBREY",
+      "type": "file",
+      "base": 3558616,
+      "length": 269
+    },
+    "fa_sunset_downhouses.json": {
+      "originalName": "FA_SUNSET_DOWNHOUSES.json",
+      "type": "file",
+      "base": 3558885,
+      "length": 253
+    },
+    "fa_sunset_interior.aubrey": {
+      "originalName": "FA_SUNSET_INTERIOR.AUBREY",
+      "type": "file",
+      "base": 3559138,
+      "length": 1582
+    },
+    "fa_sunset_interior.json": {
+      "originalName": "FA_SUNSET_INTERIOR.json",
+      "type": "file",
+      "base": 3560720,
+      "length": 1566
+    },
+    "fa_sunset_interior2.aubrey": {
+      "originalName": "FA_SUNSET_INTERIOR2.AUBREY",
+      "type": "file",
+      "base": 3562286,
+      "length": 3602
+    },
+    "fa_sunset_interior2.json": {
+      "originalName": "FA_SUNSET_INTERIOR2.json",
+      "type": "file",
+      "base": 3565888,
+      "length": 3586
+    },
+    "fa_sunset_objects.aubrey": {
+      "originalName": "FA_SUNSET_OBJECTS.AUBREY",
+      "type": "file",
+      "base": 3569474,
+      "length": 7127
+    },
+    "fa_sunset_objects.json": {
+      "originalName": "FA_SUNSET_OBJECTS.json",
+      "type": "file",
+      "base": 3576601,
+      "length": 7111
+    },
+    "fa_sunset_shop.aubrey": {
+      "originalName": "FA_SUNSET_SHOP.AUBREY",
+      "type": "file",
+      "base": 3583712,
+      "length": 260
+    },
+    "fa_sunset_shop.json": {
+      "originalName": "FA_SUNSET_SHOP.json",
+      "type": "file",
+      "base": 3583972,
+      "length": 244
+    },
+    "fa_treehouse.aubrey": {
+      "originalName": "FA_Treehouse.AUBREY",
+      "type": "file",
+      "base": 3584216,
+      "length": 261
+    },
+    "fa_treehouse.json": {
+      "originalName": "FA_Treehouse.json",
+      "type": "file",
+      "base": 3584477,
+      "length": 245
+    },
+    "fa_treehousecombined.aubrey": {
+      "originalName": "FA_TreehouseCombined.AUBREY",
+      "type": "file",
+      "base": 3584722,
+      "length": 270
+    },
+    "fa_treehousecombined.json": {
+      "originalName": "FA_TreehouseCombined.json",
+      "type": "file",
+      "base": 3584992,
+      "length": 254
+    },
+    "fa_treehousenight.aubrey": {
+      "originalName": "FA_TreehouseNight.AUBREY",
+      "type": "file",
+      "base": 3585246,
+      "length": 264
+    },
+    "fa_treehousenight.json": {
+      "originalName": "FA_TreehouseNight.json",
+      "type": "file",
+      "base": 3585510,
+      "length": 248
+    },
+    "fa_treehouse_exterior.aubrey": {
+      "originalName": "FA_Treehouse_Exterior.AUBREY",
+      "type": "file",
+      "base": 3585758,
+      "length": 256
+    },
+    "fa_treehouse_exterior.json": {
+      "originalName": "FA_Treehouse_Exterior.json",
+      "type": "file",
+      "base": 3586014,
+      "length": 240
+    },
+    "forestalcoves.aubrey": {
+      "originalName": "forestalcoves.AUBREY",
+      "type": "file",
+      "base": 3586254,
+      "length": 122757
+    },
+    "forestalcoves.json": {
+      "originalName": "forestalcoves.json",
+      "type": "file",
+      "base": 3709011,
+      "length": 122741
+    },
+    "general_use.aubrey": {
+      "originalName": "general_use.AUBREY",
+      "type": "file",
+      "base": 3831752,
+      "length": 13558
+    },
+    "general_use.json": {
+      "originalName": "general_use.json",
+      "type": "file",
+      "base": 3845310,
+      "length": 13542
+    },
+    "hallucination_hands.aubrey": {
+      "originalName": "Hallucination_Hands.AUBREY",
+      "type": "file",
+      "base": 3858852,
+      "length": 1077
+    },
+    "hallucination_hands.json": {
+      "originalName": "Hallucination_Hands.json",
+      "type": "file",
+      "base": 3859929,
+      "length": 1061
+    },
+    "junkyardtunnels.aubrey": {
+      "originalName": "junkyardtunnels.AUBREY",
+      "type": "file",
+      "base": 3860990,
+      "length": 203739
+    },
+    "junkyardtunnels.json": {
+      "originalName": "junkyardtunnels.json",
+      "type": "file",
+      "base": 4064729,
+      "length": 203723
+    },
+    "junkyardtunnels2.aubrey": {
+      "originalName": "junkyardtunnels2.AUBREY",
+      "type": "file",
+      "base": 4268452,
+      "length": 79432
+    },
+    "junkyardtunnels2.json": {
+      "originalName": "junkyardtunnels2.json",
+      "type": "file",
+      "base": 4347884,
+      "length": 79416
+    },
+    "junkyard_extra.aubrey": {
+      "originalName": "junkyard_extra.AUBREY",
+      "type": "file",
+      "base": 4427300,
+      "length": 79495
+    },
+    "junkyard_extra.json": {
+      "originalName": "junkyard_extra.json",
+      "type": "file",
+      "base": 4506795,
+      "length": 79479
+    },
+    "keeperofcastle.aubrey": {
+      "originalName": "keeperofcastle.AUBREY",
+      "type": "file",
+      "base": 4586274,
+      "length": 332823
+    },
+    "keeperofcastle.json": {
+      "originalName": "keeperofcastle.json",
+      "type": "file",
+      "base": 4919097,
+      "length": 332807
+    },
+    "map00_template_32x32.aubrey": {
+      "originalName": "map00_Template_32x32.AUBREY",
+      "type": "file",
+      "base": 5251904,
+      "length": 28953
+    },
+    "map00_template_32x32.json": {
+      "originalName": "map00_Template_32x32.json",
+      "type": "file",
+      "base": 5280857,
+      "length": 28937
+    },
+    "map1.aubrey": {
+      "originalName": "map1.AUBREY",
+      "type": "file",
+      "base": 5309794,
+      "length": 28764
+    },
+    "map1.json": {
+      "originalName": "map1.json",
+      "type": "file",
+      "base": 5338558,
+      "length": 28748
+    },
+    "map100.aubrey": {
+      "originalName": "map100.AUBREY",
+      "type": "file",
+      "base": 5367306,
+      "length": 115840
+    },
+    "map100.json": {
+      "originalName": "map100.json",
+      "type": "file",
+      "base": 5483146,
+      "length": 115824
+    },
+    "map101.aubrey": {
+      "originalName": "map101.AUBREY",
+      "type": "file",
+      "base": 5598970,
+      "length": 170036
+    },
+    "map101.json": {
+      "originalName": "map101.json",
+      "type": "file",
+      "base": 5769006,
+      "length": 170020
+    },
+    "map102.aubrey": {
+      "originalName": "map102.AUBREY",
+      "type": "file",
+      "base": 5939026,
+      "length": 32590
+    },
+    "map102.json": {
+      "originalName": "map102.json",
+      "type": "file",
+      "base": 5971616,
+      "length": 32574
+    },
+    "map103.aubrey": {
+      "originalName": "map103.AUBREY",
+      "type": "file",
+      "base": 6004190,
+      "length": 238026
+    },
+    "map103.json": {
+      "originalName": "map103.json",
+      "type": "file",
+      "base": 6242216,
+      "length": 238010
+    },
+    "map104.aubrey": {
+      "originalName": "map104.AUBREY",
+      "type": "file",
+      "base": 6480226,
+      "length": 33619
+    },
+    "map104.json": {
+      "originalName": "map104.json",
+      "type": "file",
+      "base": 6513845,
+      "length": 33603
+    },
+    "map105.aubrey": {
+      "originalName": "map105.AUBREY",
+      "type": "file",
+      "base": 6547448,
+      "length": 57262
+    },
+    "map105.json": {
+      "originalName": "map105.json",
+      "type": "file",
+      "base": 6604710,
+      "length": 57246
+    },
+    "map106.aubrey": {
+      "originalName": "map106.AUBREY",
+      "type": "file",
+      "base": 6661956,
+      "length": 560346
+    },
+    "map106.json": {
+      "originalName": "map106.json",
+      "type": "file",
+      "base": 7222302,
+      "length": 560330
+    },
+    "map107.aubrey": {
+      "originalName": "map107.AUBREY",
+      "type": "file",
+      "base": 7782632,
+      "length": 113914
+    },
+    "map107.json": {
+      "originalName": "map107.json",
+      "type": "file",
+      "base": 7896546,
+      "length": 113898
+    },
+    "map108.aubrey": {
+      "originalName": "map108.AUBREY",
+      "type": "file",
+      "base": 8010444,
+      "length": 204724
+    },
+    "map108.json": {
+      "originalName": "map108.json",
+      "type": "file",
+      "base": 8215168,
+      "length": 204708
+    },
+    "map109.aubrey": {
+      "originalName": "map109.AUBREY",
+      "type": "file",
+      "base": 8419876,
+      "length": 111807
+    },
+    "map109.json": {
+      "originalName": "map109.json",
+      "type": "file",
+      "base": 8531683,
+      "length": 111791
+    },
+    "map11.aubrey": {
+      "originalName": "map11.AUBREY",
+      "type": "file",
+      "base": 8643474,
+      "length": 28764
+    },
+    "map11.json": {
+      "originalName": "map11.json",
+      "type": "file",
+      "base": 8672238,
+      "length": 28748
+    },
+    "map110.aubrey": {
+      "originalName": "map110.AUBREY",
+      "type": "file",
+      "base": 8700986,
+      "length": 38925
+    },
+    "map110.json": {
+      "originalName": "map110.json",
+      "type": "file",
+      "base": 8739911,
+      "length": 38909
+    },
+    "map111.aubrey": {
+      "originalName": "map111.AUBREY",
+      "type": "file",
+      "base": 8778820,
+      "length": 96882
+    },
+    "map111.json": {
+      "originalName": "map111.json",
+      "type": "file",
+      "base": 8875702,
+      "length": 96866
+    },
+    "map112.aubrey": {
+      "originalName": "map112.AUBREY",
+      "type": "file",
+      "base": 8972568,
+      "length": 167594
+    },
+    "map112.json": {
+      "originalName": "map112.json",
+      "type": "file",
+      "base": 9140162,
+      "length": 167578
+    },
+    "map113.aubrey": {
+      "originalName": "map113.AUBREY",
+      "type": "file",
+      "base": 9307740,
+      "length": 43311
+    },
+    "map113.json": {
+      "originalName": "map113.json",
+      "type": "file",
+      "base": 9351051,
+      "length": 43295
+    },
+    "map114.aubrey": {
+      "originalName": "map114.AUBREY",
+      "type": "file",
+      "base": 9394346,
+      "length": 71031
+    },
+    "map114.json": {
+      "originalName": "map114.json",
+      "type": "file",
+      "base": 9465377,
+      "length": 71015
+    },
+    "map115.aubrey": {
+      "originalName": "map115.AUBREY",
+      "type": "file",
+      "base": 9536392,
+      "length": 56363
+    },
+    "map115.json": {
+      "originalName": "map115.json",
+      "type": "file",
+      "base": 9592755,
+      "length": 56347
+    },
+    "map116.aubrey": {
+      "originalName": "map116.AUBREY",
+      "type": "file",
+      "base": 9649102,
+      "length": 659863
+    },
+    "map116.json": {
+      "originalName": "map116.json",
+      "type": "file",
+      "base": 10308965,
+      "length": 659847
+    },
+    "map117.aubrey": {
+      "originalName": "map117.AUBREY",
+      "type": "file",
+      "base": 10968812,
+      "length": 113123
+    },
+    "map117.json": {
+      "originalName": "map117.json",
+      "type": "file",
+      "base": 11081935,
+      "length": 113107
+    },
+    "map118.aubrey": {
+      "originalName": "map118.AUBREY",
+      "type": "file",
+      "base": 11195042,
+      "length": 30380
+    },
+    "map118.json": {
+      "originalName": "map118.json",
+      "type": "file",
+      "base": 11225422,
+      "length": 30364
+    },
+    "map119.aubrey": {
+      "originalName": "map119.AUBREY",
+      "type": "file",
+      "base": 11255786,
+      "length": 286484
+    },
+    "map119.json": {
+      "originalName": "map119.json",
+      "type": "file",
+      "base": 11542270,
+      "length": 286468
+    },
+    "map120.aubrey": {
+      "originalName": "map120.AUBREY",
+      "type": "file",
+      "base": 11828738,
+      "length": 216415
+    },
+    "map120.json": {
+      "originalName": "map120.json",
+      "type": "file",
+      "base": 12045153,
+      "length": 216399
+    },
+    "map121.aubrey": {
+      "originalName": "map121.AUBREY",
+      "type": "file",
+      "base": 12261552,
+      "length": 146859
+    },
+    "map121.json": {
+      "originalName": "map121.json",
+      "type": "file",
+      "base": 12408411,
+      "length": 146843
+    },
+    "map122.aubrey": {
+      "originalName": "map122.AUBREY",
+      "type": "file",
+      "base": 12555254,
+      "length": 47681
+    },
+    "map122.json": {
+      "originalName": "map122.json",
+      "type": "file",
+      "base": 12602935,
+      "length": 47665
+    },
+    "map123.aubrey": {
+      "originalName": "map123.AUBREY",
+      "type": "file",
+      "base": 12650600,
+      "length": 118964
+    },
+    "map123.json": {
+      "originalName": "map123.json",
+      "type": "file",
+      "base": 12769564,
+      "length": 118948
+    },
+    "map124.aubrey": {
+      "originalName": "map124.AUBREY",
+      "type": "file",
+      "base": 12888512,
+      "length": 141231
+    },
+    "map124.json": {
+      "originalName": "map124.json",
+      "type": "file",
+      "base": 13029743,
+      "length": 141215
+    },
+    "map125.aubrey": {
+      "originalName": "map125.AUBREY",
+      "type": "file",
+      "base": 13170958,
+      "length": 158602
+    },
+    "map125.json": {
+      "originalName": "map125.json",
+      "type": "file",
+      "base": 13329560,
+      "length": 158586
+    },
+    "map126.aubrey": {
+      "originalName": "map126.AUBREY",
+      "type": "file",
+      "base": 13488146,
+      "length": 69236
+    },
+    "map126.json": {
+      "originalName": "map126.json",
+      "type": "file",
+      "base": 13557382,
+      "length": 69220
+    },
+    "map127.aubrey": {
+      "originalName": "map127.AUBREY",
+      "type": "file",
+      "base": 13626602,
+      "length": 55344
+    },
+    "map127.json": {
+      "originalName": "map127.json",
+      "type": "file",
+      "base": 13681946,
+      "length": 55328
+    },
+    "map128.aubrey": {
+      "originalName": "map128.AUBREY",
+      "type": "file",
+      "base": 13737274,
+      "length": 88864
+    },
+    "map128.json": {
+      "originalName": "map128.json",
+      "type": "file",
+      "base": 13826138,
+      "length": 88848
+    },
+    "map129.aubrey": {
+      "originalName": "map129.AUBREY",
+      "type": "file",
+      "base": 13914986,
+      "length": 135438
+    },
+    "map129.json": {
+      "originalName": "map129.json",
+      "type": "file",
+      "base": 14050424,
+      "length": 135422
+    },
+    "map13.aubrey": {
+      "originalName": "map13.AUBREY",
+      "type": "file",
+      "base": 14185846,
+      "length": 266891
+    },
+    "map13.json": {
+      "originalName": "map13.json",
+      "type": "file",
+      "base": 14452737,
+      "length": 266875
+    },
+    "map130.aubrey": {
+      "originalName": "map130.AUBREY",
+      "type": "file",
+      "base": 14719612,
+      "length": 24770
+    },
+    "map130.json": {
+      "originalName": "map130.json",
+      "type": "file",
+      "base": 14744382,
+      "length": 24754
+    },
+    "map131.aubrey": {
+      "originalName": "map131.AUBREY",
+      "type": "file",
+      "base": 14769136,
+      "length": 56552
+    },
+    "map131.json": {
+      "originalName": "map131.json",
+      "type": "file",
+      "base": 14825688,
+      "length": 56536
+    },
+    "map132.aubrey": {
+      "originalName": "map132.AUBREY",
+      "type": "file",
+      "base": 14882224,
+      "length": 115456
+    },
+    "map132.json": {
+      "originalName": "map132.json",
+      "type": "file",
+      "base": 14997680,
+      "length": 115440
+    },
+    "map133.aubrey": {
+      "originalName": "map133.AUBREY",
+      "type": "file",
+      "base": 15113120,
+      "length": 58018
+    },
+    "map133.json": {
+      "originalName": "map133.json",
+      "type": "file",
+      "base": 15171138,
+      "length": 58002
+    },
+    "map134.aubrey": {
+      "originalName": "map134.AUBREY",
+      "type": "file",
+      "base": 15229140,
+      "length": 1248929
+    },
+    "map134.json": {
+      "originalName": "map134.json",
+      "type": "file",
+      "base": 16478069,
+      "length": 1248913
+    },
+    "map135.aubrey": {
+      "originalName": "map135.AUBREY",
+      "type": "file",
+      "base": 17726982,
+      "length": 316294
+    },
+    "map135.json": {
+      "originalName": "map135.json",
+      "type": "file",
+      "base": 18043276,
+      "length": 316278
+    },
+    "map136.aubrey": {
+      "originalName": "map136.AUBREY",
+      "type": "file",
+      "base": 18359554,
+      "length": 50301
+    },
+    "map136.json": {
+      "originalName": "map136.json",
+      "type": "file",
+      "base": 18409855,
+      "length": 50285
+    },
+    "map137.aubrey": {
+      "originalName": "map137.AUBREY",
+      "type": "file",
+      "base": 18460140,
+      "length": 67899
+    },
+    "map137.json": {
+      "originalName": "map137.json",
+      "type": "file",
+      "base": 18528039,
+      "length": 67883
+    },
+    "map138.aubrey": {
+      "originalName": "map138.AUBREY",
+      "type": "file",
+      "base": 18595922,
+      "length": 57709
+    },
+    "map138.json": {
+      "originalName": "map138.json",
+      "type": "file",
+      "base": 18653631,
+      "length": 57693
+    },
+    "map139.aubrey": {
+      "originalName": "map139.AUBREY",
+      "type": "file",
+      "base": 18711324,
+      "length": 82297
+    },
+    "map139.json": {
+      "originalName": "map139.json",
+      "type": "file",
+      "base": 18793621,
+      "length": 82281
+    },
+    "map14.aubrey": {
+      "originalName": "map14.AUBREY",
+      "type": "file",
+      "base": 18875902,
+      "length": 304199
+    },
+    "map14.json": {
+      "originalName": "map14.json",
+      "type": "file",
+      "base": 19180101,
+      "length": 304183
+    },
+    "map140.aubrey": {
+      "originalName": "map140.AUBREY",
+      "type": "file",
+      "base": 19484284,
+      "length": 248893
+    },
+    "map140.json": {
+      "originalName": "map140.json",
+      "type": "file",
+      "base": 19733177,
+      "length": 248877
+    },
+    "map141.aubrey": {
+      "originalName": "map141.AUBREY",
+      "type": "file",
+      "base": 19982054,
+      "length": 218861
+    },
+    "map141.json": {
+      "originalName": "map141.json",
+      "type": "file",
+      "base": 20200915,
+      "length": 218845
+    },
+    "map142.aubrey": {
+      "originalName": "map142.AUBREY",
+      "type": "file",
+      "base": 20419760,
+      "length": 50430
+    },
+    "map142.json": {
+      "originalName": "map142.json",
+      "type": "file",
+      "base": 20470190,
+      "length": 50414
+    },
+    "map143.aubrey": {
+      "originalName": "map143.AUBREY",
+      "type": "file",
+      "base": 20520604,
+      "length": 85689
+    },
+    "map143.json": {
+      "originalName": "map143.json",
+      "type": "file",
+      "base": 20606293,
+      "length": 85673
+    },
+    "map144.aubrey": {
+      "originalName": "map144.AUBREY",
+      "type": "file",
+      "base": 20691966,
+      "length": 105212
+    },
+    "map144.json": {
+      "originalName": "map144.json",
+      "type": "file",
+      "base": 20797178,
+      "length": 105196
+    },
+    "map145.aubrey": {
+      "originalName": "map145.AUBREY",
+      "type": "file",
+      "base": 20902374,
+      "length": 92556
+    },
+    "map145.json": {
+      "originalName": "map145.json",
+      "type": "file",
+      "base": 20994930,
+      "length": 92540
+    },
+    "map146.aubrey": {
+      "originalName": "map146.AUBREY",
+      "type": "file",
+      "base": 21087470,
+      "length": 67067
+    },
+    "map146.json": {
+      "originalName": "map146.json",
+      "type": "file",
+      "base": 21154537,
+      "length": 67051
+    },
+    "map147.aubrey": {
+      "originalName": "map147.AUBREY",
+      "type": "file",
+      "base": 21221588,
+      "length": 167679
+    },
+    "map147.json": {
+      "originalName": "map147.json",
+      "type": "file",
+      "base": 21389267,
+      "length": 167663
+    },
+    "map148.aubrey": {
+      "originalName": "map148.AUBREY",
+      "type": "file",
+      "base": 21556930,
+      "length": 64764
+    },
+    "map148.json": {
+      "originalName": "map148.json",
+      "type": "file",
+      "base": 21621694,
+      "length": 64748
+    },
+    "map149.aubrey": {
+      "originalName": "map149.AUBREY",
+      "type": "file",
+      "base": 21686442,
+      "length": 66587
+    },
+    "map149.json": {
+      "originalName": "map149.json",
+      "type": "file",
+      "base": 21753029,
+      "length": 66571
+    },
+    "map15.aubrey": {
+      "originalName": "map15.AUBREY",
+      "type": "file",
+      "base": 21819600,
+      "length": 325717
+    },
+    "map15.json": {
+      "originalName": "map15.json",
+      "type": "file",
+      "base": 22145317,
+      "length": 325701
+    },
+    "map150.aubrey": {
+      "originalName": "map150.AUBREY",
+      "type": "file",
+      "base": 22471018,
+      "length": 119796
+    },
+    "map150.json": {
+      "originalName": "map150.json",
+      "type": "file",
+      "base": 22590814,
+      "length": 119780
+    },
+    "map151.aubrey": {
+      "originalName": "map151.AUBREY",
+      "type": "file",
+      "base": 22710594,
+      "length": 45139
+    },
+    "map151.json": {
+      "originalName": "map151.json",
+      "type": "file",
+      "base": 22755733,
+      "length": 45123
+    },
+    "map152.aubrey": {
+      "originalName": "map152.AUBREY",
+      "type": "file",
+      "base": 22800856,
+      "length": 63271
+    },
+    "map152.json": {
+      "originalName": "map152.json",
+      "type": "file",
+      "base": 22864127,
+      "length": 63255
+    },
+    "map153.aubrey": {
+      "originalName": "map153.AUBREY",
+      "type": "file",
+      "base": 22927382,
+      "length": 77122
+    },
+    "map153.json": {
+      "originalName": "map153.json",
+      "type": "file",
+      "base": 23004504,
+      "length": 77106
+    },
+    "map154.aubrey": {
+      "originalName": "map154.AUBREY",
+      "type": "file",
+      "base": 23081610,
+      "length": 36646
+    },
+    "map154.json": {
+      "originalName": "map154.json",
+      "type": "file",
+      "base": 23118256,
+      "length": 36630
+    },
+    "map155.aubrey": {
+      "originalName": "map155.AUBREY",
+      "type": "file",
+      "base": 23154886,
+      "length": 32903
+    },
+    "map155.json": {
+      "originalName": "map155.json",
+      "type": "file",
+      "base": 23187789,
+      "length": 32887
+    },
+    "map156.aubrey": {
+      "originalName": "map156.AUBREY",
+      "type": "file",
+      "base": 23220676,
+      "length": 36661
+    },
+    "map156.json": {
+      "originalName": "map156.json",
+      "type": "file",
+      "base": 23257337,
+      "length": 36645
+    },
+    "map157.aubrey": {
+      "originalName": "map157.AUBREY",
+      "type": "file",
+      "base": 23293982,
+      "length": 34793
+    },
+    "map157.json": {
+      "originalName": "map157.json",
+      "type": "file",
+      "base": 23328775,
+      "length": 34777
+    },
+    "map158.aubrey": {
+      "originalName": "map158.AUBREY",
+      "type": "file",
+      "base": 23363552,
+      "length": 31442
+    },
+    "map158.json": {
+      "originalName": "map158.json",
+      "type": "file",
+      "base": 23394994,
+      "length": 31426
+    },
+    "map159.aubrey": {
+      "originalName": "map159.AUBREY",
+      "type": "file",
+      "base": 23426420,
+      "length": 41326
+    },
+    "map159.json": {
+      "originalName": "map159.json",
+      "type": "file",
+      "base": 23467746,
+      "length": 41310
+    },
+    "map16.aubrey": {
+      "originalName": "map16.AUBREY",
+      "type": "file",
+      "base": 23509056,
+      "length": 303128
+    },
+    "map16.json": {
+      "originalName": "map16.json",
+      "type": "file",
+      "base": 23812184,
+      "length": 303112
+    },
+    "map160.aubrey": {
+      "originalName": "map160.AUBREY",
+      "type": "file",
+      "base": 24115296,
+      "length": 43239
+    },
+    "map160.json": {
+      "originalName": "map160.json",
+      "type": "file",
+      "base": 24158535,
+      "length": 43223
+    },
+    "map161.aubrey": {
+      "originalName": "map161.AUBREY",
+      "type": "file",
+      "base": 24201758,
+      "length": 204212
+    },
+    "map161.json": {
+      "originalName": "map161.json",
+      "type": "file",
+      "base": 24405970,
+      "length": 204196
+    },
+    "map162.aubrey": {
+      "originalName": "map162.AUBREY",
+      "type": "file",
+      "base": 24610166,
+      "length": 47428
+    },
+    "map162.json": {
+      "originalName": "map162.json",
+      "type": "file",
+      "base": 24657594,
+      "length": 47412
+    },
+    "map163.aubrey": {
+      "originalName": "map163.AUBREY",
+      "type": "file",
+      "base": 24705006,
+      "length": 41716
+    },
+    "map163.json": {
+      "originalName": "map163.json",
+      "type": "file",
+      "base": 24746722,
+      "length": 41700
+    },
+    "map164.aubrey": {
+      "originalName": "map164.AUBREY",
+      "type": "file",
+      "base": 24788422,
+      "length": 181726
+    },
+    "map164.json": {
+      "originalName": "map164.json",
+      "type": "file",
+      "base": 24970148,
+      "length": 181710
+    },
+    "map165.aubrey": {
+      "originalName": "map165.AUBREY",
+      "type": "file",
+      "base": 25151858,
+      "length": 58665
+    },
+    "map165.json": {
+      "originalName": "map165.json",
+      "type": "file",
+      "base": 25210523,
+      "length": 58649
+    },
+    "map166.aubrey": {
+      "originalName": "map166.AUBREY",
+      "type": "file",
+      "base": 25269172,
+      "length": 104604
+    },
+    "map166.json": {
+      "originalName": "map166.json",
+      "type": "file",
+      "base": 25373776,
+      "length": 104588
+    },
+    "map167.aubrey": {
+      "originalName": "map167.AUBREY",
+      "type": "file",
+      "base": 25478364,
+      "length": 76198
+    },
+    "map167.json": {
+      "originalName": "map167.json",
+      "type": "file",
+      "base": 25554562,
+      "length": 76182
+    },
+    "map168.aubrey": {
+      "originalName": "map168.AUBREY",
+      "type": "file",
+      "base": 25630744,
+      "length": 89213
+    },
+    "map168.json": {
+      "originalName": "map168.json",
+      "type": "file",
+      "base": 25719957,
+      "length": 89197
+    },
+    "map169.aubrey": {
+      "originalName": "map169.AUBREY",
+      "type": "file",
+      "base": 25809154,
+      "length": 195130
+    },
+    "map169.json": {
+      "originalName": "map169.json",
+      "type": "file",
+      "base": 26004284,
+      "length": 195114
+    },
+    "map17.aubrey": {
+      "originalName": "map17.AUBREY",
+      "type": "file",
+      "base": 26199398,
+      "length": 350275
+    },
+    "map17.json": {
+      "originalName": "map17.json",
+      "type": "file",
+      "base": 26549673,
+      "length": 350259
+    },
+    "map170.aubrey": {
+      "originalName": "map170.AUBREY",
+      "type": "file",
+      "base": 26899932,
+      "length": 67821
+    },
+    "map170.json": {
+      "originalName": "map170.json",
+      "type": "file",
+      "base": 26967753,
+      "length": 67805
+    },
+    "map171.aubrey": {
+      "originalName": "map171.AUBREY",
+      "type": "file",
+      "base": 27035558,
+      "length": 102727
+    },
+    "map171.json": {
+      "originalName": "map171.json",
+      "type": "file",
+      "base": 27138285,
+      "length": 102711
+    },
+    "map172.aubrey": {
+      "originalName": "map172.AUBREY",
+      "type": "file",
+      "base": 27240996,
+      "length": 229311
+    },
+    "map172.json": {
+      "originalName": "map172.json",
+      "type": "file",
+      "base": 27470307,
+      "length": 229295
+    },
+    "map173.aubrey": {
+      "originalName": "map173.AUBREY",
+      "type": "file",
+      "base": 27699602,
+      "length": 108631
+    },
+    "map173.json": {
+      "originalName": "map173.json",
+      "type": "file",
+      "base": 27808233,
+      "length": 108615
+    },
+    "map174.aubrey": {
+      "originalName": "map174.AUBREY",
+      "type": "file",
+      "base": 27916848,
+      "length": 44539
+    },
+    "map174.json": {
+      "originalName": "map174.json",
+      "type": "file",
+      "base": 27961387,
+      "length": 44523
+    },
+    "map175.aubrey": {
+      "originalName": "map175.AUBREY",
+      "type": "file",
+      "base": 28005910,
+      "length": 91584
+    },
+    "map175.json": {
+      "originalName": "map175.json",
+      "type": "file",
+      "base": 28097494,
+      "length": 91568
+    },
+    "map176.aubrey": {
+      "originalName": "map176.AUBREY",
+      "type": "file",
+      "base": 28189062,
+      "length": 82061
+    },
+    "map176.json": {
+      "originalName": "map176.json",
+      "type": "file",
+      "base": 28271123,
+      "length": 82045
+    },
+    "map177.aubrey": {
+      "originalName": "map177.AUBREY",
+      "type": "file",
+      "base": 28353168,
+      "length": 130563
+    },
+    "map177.json": {
+      "originalName": "map177.json",
+      "type": "file",
+      "base": 28483731,
+      "length": 130547
+    },
+    "map178.aubrey": {
+      "originalName": "map178.AUBREY",
+      "type": "file",
+      "base": 28614278,
+      "length": 77528
+    },
+    "map178.json": {
+      "originalName": "map178.json",
+      "type": "file",
+      "base": 28691806,
+      "length": 77512
+    },
+    "map179.aubrey": {
+      "originalName": "map179.AUBREY",
+      "type": "file",
+      "base": 28769318,
+      "length": 43410
+    },
+    "map179.json": {
+      "originalName": "map179.json",
+      "type": "file",
+      "base": 28812728,
+      "length": 43394
+    },
+    "map18.aubrey": {
+      "originalName": "map18.AUBREY",
+      "type": "file",
+      "base": 28856122,
+      "length": 302940
+    },
+    "map18.json": {
+      "originalName": "map18.json",
+      "type": "file",
+      "base": 29159062,
+      "length": 302924
+    },
+    "map180.aubrey": {
+      "originalName": "map180.AUBREY",
+      "type": "file",
+      "base": 29461986,
+      "length": 68080
+    },
+    "map180.json": {
+      "originalName": "map180.json",
+      "type": "file",
+      "base": 29530066,
+      "length": 68064
+    },
+    "map181.aubrey": {
+      "originalName": "map181.AUBREY",
+      "type": "file",
+      "base": 29598130,
+      "length": 75634
+    },
+    "map181.json": {
+      "originalName": "map181.json",
+      "type": "file",
+      "base": 29673764,
+      "length": 75618
+    },
+    "map182.aubrey": {
+      "originalName": "map182.AUBREY",
+      "type": "file",
+      "base": 29749382,
+      "length": 93450
+    },
+    "map182.json": {
+      "originalName": "map182.json",
+      "type": "file",
+      "base": 29842832,
+      "length": 93434
+    },
+    "map183.aubrey": {
+      "originalName": "map183.AUBREY",
+      "type": "file",
+      "base": 29936266,
+      "length": 116446
+    },
+    "map183.json": {
+      "originalName": "map183.json",
+      "type": "file",
+      "base": 30052712,
+      "length": 116430
+    },
+    "map184.aubrey": {
+      "originalName": "map184.AUBREY",
+      "type": "file",
+      "base": 30169142,
+      "length": 60257
+    },
+    "map184.json": {
+      "originalName": "map184.json",
+      "type": "file",
+      "base": 30229399,
+      "length": 60241
+    },
+    "map185.aubrey": {
+      "originalName": "map185.AUBREY",
+      "type": "file",
+      "base": 30289640,
+      "length": 178308
+    },
+    "map185.json": {
+      "originalName": "map185.json",
+      "type": "file",
+      "base": 30467948,
+      "length": 178292
+    },
+    "map186.aubrey": {
+      "originalName": "map186.AUBREY",
+      "type": "file",
+      "base": 30646240,
+      "length": 44304
+    },
+    "map186.json": {
+      "originalName": "map186.json",
+      "type": "file",
+      "base": 30690544,
+      "length": 44288
+    },
+    "map187.aubrey": {
+      "originalName": "map187.AUBREY",
+      "type": "file",
+      "base": 30734832,
+      "length": 271722
+    },
+    "map187.json": {
+      "originalName": "map187.json",
+      "type": "file",
+      "base": 31006554,
+      "length": 271706
+    },
+    "map189.aubrey": {
+      "originalName": "map189.AUBREY",
+      "type": "file",
+      "base": 31278260,
+      "length": 149390
+    },
+    "map189.json": {
+      "originalName": "map189.json",
+      "type": "file",
+      "base": 31427650,
+      "length": 149374
+    },
+    "map19.aubrey": {
+      "originalName": "map19.AUBREY",
+      "type": "file",
+      "base": 31577024,
+      "length": 325898
+    },
+    "map19.json": {
+      "originalName": "map19.json",
+      "type": "file",
+      "base": 31902922,
+      "length": 325882
+    },
+    "map190.aubrey": {
+      "originalName": "map190.AUBREY",
+      "type": "file",
+      "base": 32228804,
+      "length": 26520
+    },
+    "map190.json": {
+      "originalName": "map190.json",
+      "type": "file",
+      "base": 32255324,
+      "length": 26504
+    },
+    "map191.aubrey": {
+      "originalName": "map191.AUBREY",
+      "type": "file",
+      "base": 32281828,
+      "length": 188172
+    },
+    "map191.json": {
+      "originalName": "map191.json",
+      "type": "file",
+      "base": 32470000,
+      "length": 188156
+    },
+    "map192.aubrey": {
+      "originalName": "map192.AUBREY",
+      "type": "file",
+      "base": 32658156,
+      "length": 428330
+    },
+    "map192.json": {
+      "originalName": "map192.json",
+      "type": "file",
+      "base": 33086486,
+      "length": 428314
+    },
+    "map193.aubrey": {
+      "originalName": "map193.AUBREY",
+      "type": "file",
+      "base": 33514800,
+      "length": 194134
+    },
+    "map193.json": {
+      "originalName": "map193.json",
+      "type": "file",
+      "base": 33708934,
+      "length": 194118
+    },
+    "map194.aubrey": {
+      "originalName": "map194.AUBREY",
+      "type": "file",
+      "base": 33903052,
+      "length": 191700
+    },
+    "map194.json": {
+      "originalName": "map194.json",
+      "type": "file",
+      "base": 34094752,
+      "length": 191684
+    },
+    "map195.aubrey": {
+      "originalName": "map195.AUBREY",
+      "type": "file",
+      "base": 34286436,
+      "length": 58662
+    },
+    "map195.json": {
+      "originalName": "map195.json",
+      "type": "file",
+      "base": 34345098,
+      "length": 58646
+    },
+    "map196.aubrey": {
+      "originalName": "map196.AUBREY",
+      "type": "file",
+      "base": 34403744,
+      "length": 101662
+    },
+    "map196.json": {
+      "originalName": "map196.json",
+      "type": "file",
+      "base": 34505406,
+      "length": 101646
+    },
+    "map197.aubrey": {
+      "originalName": "map197.AUBREY",
+      "type": "file",
+      "base": 34607052,
+      "length": 262596
+    },
+    "map197.json": {
+      "originalName": "map197.json",
+      "type": "file",
+      "base": 34869648,
+      "length": 262580
+    },
+    "map198.aubrey": {
+      "originalName": "map198.AUBREY",
+      "type": "file",
+      "base": 35132228,
+      "length": 57240
+    },
+    "map198.json": {
+      "originalName": "map198.json",
+      "type": "file",
+      "base": 35189468,
+      "length": 57224
+    },
+    "map199.aubrey": {
+      "originalName": "map199.AUBREY",
+      "type": "file",
+      "base": 35246692,
+      "length": 35865
+    },
+    "map199.json": {
+      "originalName": "map199.json",
+      "type": "file",
+      "base": 35282557,
+      "length": 35849
+    },
+    "map2.aubrey": {
+      "originalName": "map2.AUBREY",
+      "type": "file",
+      "base": 35318406,
+      "length": 29652
+    },
+    "map2.json": {
+      "originalName": "map2.json",
+      "type": "file",
+      "base": 35348058,
+      "length": 29636
+    },
+    "map20.aubrey": {
+      "originalName": "map20.AUBREY",
+      "type": "file",
+      "base": 35377694,
+      "length": 303232
+    },
+    "map20.json": {
+      "originalName": "map20.json",
+      "type": "file",
+      "base": 35680926,
+      "length": 303216
+    },
+    "map200.aubrey": {
+      "originalName": "map200.AUBREY",
+      "type": "file",
+      "base": 35984142,
+      "length": 49190
+    },
+    "map200.json": {
+      "originalName": "map200.json",
+      "type": "file",
+      "base": 36033332,
+      "length": 49174
+    },
+    "map201.aubrey": {
+      "originalName": "map201.AUBREY",
+      "type": "file",
+      "base": 36082506,
+      "length": 81468
+    },
+    "map201.json": {
+      "originalName": "map201.json",
+      "type": "file",
+      "base": 36163974,
+      "length": 81452
+    },
+    "map202.aubrey": {
+      "originalName": "map202.AUBREY",
+      "type": "file",
+      "base": 36245426,
+      "length": 43523
+    },
+    "map202.json": {
+      "originalName": "map202.json",
+      "type": "file",
+      "base": 36288949,
+      "length": 43507
+    },
+    "map203.aubrey": {
+      "originalName": "map203.AUBREY",
+      "type": "file",
+      "base": 36332456,
+      "length": 337847
+    },
+    "map203.json": {
+      "originalName": "map203.json",
+      "type": "file",
+      "base": 36670303,
+      "length": 337831
+    },
+    "map204.aubrey": {
+      "originalName": "map204.AUBREY",
+      "type": "file",
+      "base": 37008134,
+      "length": 157107
+    },
+    "map204.json": {
+      "originalName": "map204.json",
+      "type": "file",
+      "base": 37165241,
+      "length": 157091
+    },
+    "map205.aubrey": {
+      "originalName": "map205.AUBREY",
+      "type": "file",
+      "base": 37322332,
+      "length": 222641
+    },
+    "map205.json": {
+      "originalName": "map205.json",
+      "type": "file",
+      "base": 37544973,
+      "length": 222625
+    },
+    "map206.aubrey": {
+      "originalName": "map206.AUBREY",
+      "type": "file",
+      "base": 37767598,
+      "length": 159086
+    },
+    "map206.json": {
+      "originalName": "map206.json",
+      "type": "file",
+      "base": 37926684,
+      "length": 159070
+    },
+    "map207.aubrey": {
+      "originalName": "map207.AUBREY",
+      "type": "file",
+      "base": 38085754,
+      "length": 51087
+    },
+    "map207.json": {
+      "originalName": "map207.json",
+      "type": "file",
+      "base": 38136841,
+      "length": 51071
+    },
+    "map208.aubrey": {
+      "originalName": "map208.AUBREY",
+      "type": "file",
+      "base": 38187912,
+      "length": 70880
+    },
+    "map208.json": {
+      "originalName": "map208.json",
+      "type": "file",
+      "base": 38258792,
+      "length": 70864
+    },
+    "map209.aubrey": {
+      "originalName": "map209.AUBREY",
+      "type": "file",
+      "base": 38329656,
+      "length": 398165
+    },
+    "map209.json": {
+      "originalName": "map209.json",
+      "type": "file",
+      "base": 38727821,
+      "length": 398149
+    },
+    "map21.aubrey": {
+      "originalName": "map21.AUBREY",
+      "type": "file",
+      "base": 39125970,
+      "length": 348435
+    },
+    "map21.json": {
+      "originalName": "map21.json",
+      "type": "file",
+      "base": 39474405,
+      "length": 348419
+    },
+    "map210.aubrey": {
+      "originalName": "map210.AUBREY",
+      "type": "file",
+      "base": 39822824,
+      "length": 299551
+    },
+    "map210.json": {
+      "originalName": "map210.json",
+      "type": "file",
+      "base": 40122375,
+      "length": 299535
+    },
+    "map211.aubrey": {
+      "originalName": "map211.AUBREY",
+      "type": "file",
+      "base": 40421910,
+      "length": 80816
+    },
+    "map211.json": {
+      "originalName": "map211.json",
+      "type": "file",
+      "base": 40502726,
+      "length": 80800
+    },
+    "map212.aubrey": {
+      "originalName": "map212.AUBREY",
+      "type": "file",
+      "base": 40583526,
+      "length": 114873
+    },
+    "map212.json": {
+      "originalName": "map212.json",
+      "type": "file",
+      "base": 40698399,
+      "length": 114857
+    },
+    "map213.aubrey": {
+      "originalName": "map213.AUBREY",
+      "type": "file",
+      "base": 40813256,
+      "length": 96504
+    },
+    "map213.json": {
+      "originalName": "map213.json",
+      "type": "file",
+      "base": 40909760,
+      "length": 96488
+    },
+    "map214.aubrey": {
+      "originalName": "map214.AUBREY",
+      "type": "file",
+      "base": 41006248,
+      "length": 24621
+    },
+    "map214.json": {
+      "originalName": "map214.json",
+      "type": "file",
+      "base": 41030869,
+      "length": 24605
+    },
+    "map215.aubrey": {
+      "originalName": "map215.AUBREY",
+      "type": "file",
+      "base": 41055474,
+      "length": 80293
+    },
+    "map215.json": {
+      "originalName": "map215.json",
+      "type": "file",
+      "base": 41135767,
+      "length": 80277
+    },
+    "map216.aubrey": {
+      "originalName": "map216.AUBREY",
+      "type": "file",
+      "base": 41216044,
+      "length": 84033
+    },
+    "map216.json": {
+      "originalName": "map216.json",
+      "type": "file",
+      "base": 41300077,
+      "length": 84017
+    },
+    "map217.aubrey": {
+      "originalName": "map217.AUBREY",
+      "type": "file",
+      "base": 41384094,
+      "length": 2046
+    },
+    "map217.json": {
+      "originalName": "map217.json",
+      "type": "file",
+      "base": 41386140,
+      "length": 2030
+    },
+    "map218.aubrey": {
+      "originalName": "map218.AUBREY",
+      "type": "file",
+      "base": 41388170,
+      "length": 38436
+    },
+    "map218.json": {
+      "originalName": "map218.json",
+      "type": "file",
+      "base": 41426606,
+      "length": 38420
+    },
+    "map219.aubrey": {
+      "originalName": "map219.AUBREY",
+      "type": "file",
+      "base": 41465026,
+      "length": 66093
+    },
+    "map219.json": {
+      "originalName": "map219.json",
+      "type": "file",
+      "base": 41531119,
+      "length": 66077
+    },
+    "map22.aubrey": {
+      "originalName": "map22.AUBREY",
+      "type": "file",
+      "base": 41597196,
+      "length": 319620
+    },
+    "map22.json": {
+      "originalName": "map22.json",
+      "type": "file",
+      "base": 41916816,
+      "length": 319604
+    },
+    "map220.aubrey": {
+      "originalName": "map220.AUBREY",
+      "type": "file",
+      "base": 42236420,
+      "length": 75765
+    },
+    "map220.json": {
+      "originalName": "map220.json",
+      "type": "file",
+      "base": 42312185,
+      "length": 75749
+    },
+    "map221.aubrey": {
+      "originalName": "map221.AUBREY",
+      "type": "file",
+      "base": 42387934,
+      "length": 68070
+    },
+    "map221.json": {
+      "originalName": "map221.json",
+      "type": "file",
+      "base": 42456004,
+      "length": 68054
+    },
+    "map222.aubrey": {
+      "originalName": "map222.AUBREY",
+      "type": "file",
+      "base": 42524058,
+      "length": 57921
+    },
+    "map222.json": {
+      "originalName": "map222.json",
+      "type": "file",
+      "base": 42581979,
+      "length": 57905
+    },
+    "map223.aubrey": {
+      "originalName": "map223.AUBREY",
+      "type": "file",
+      "base": 42639884,
+      "length": 171922
+    },
+    "map223.json": {
+      "originalName": "map223.json",
+      "type": "file",
+      "base": 42811806,
+      "length": 171906
+    },
+    "map224.aubrey": {
+      "originalName": "map224.AUBREY",
+      "type": "file",
+      "base": 42983712,
+      "length": 106605
+    },
+    "map224.json": {
+      "originalName": "map224.json",
+      "type": "file",
+      "base": 43090317,
+      "length": 106589
+    },
+    "map225.aubrey": {
+      "originalName": "map225.AUBREY",
+      "type": "file",
+      "base": 43196906,
+      "length": 253835
+    },
+    "map225.json": {
+      "originalName": "map225.json",
+      "type": "file",
+      "base": 43450741,
+      "length": 253819
+    },
+    "map226.aubrey": {
+      "originalName": "map226.AUBREY",
+      "type": "file",
+      "base": 43704560,
+      "length": 63148
+    },
+    "map226.json": {
+      "originalName": "map226.json",
+      "type": "file",
+      "base": 43767708,
+      "length": 63132
+    },
+    "map227.aubrey": {
+      "originalName": "map227.AUBREY",
+      "type": "file",
+      "base": 43830840,
+      "length": 54378
+    },
+    "map227.json": {
+      "originalName": "map227.json",
+      "type": "file",
+      "base": 43885218,
+      "length": 54362
+    },
+    "map228.aubrey": {
+      "originalName": "map228.AUBREY",
+      "type": "file",
+      "base": 43939580,
+      "length": 81444
+    },
+    "map228.json": {
+      "originalName": "map228.json",
+      "type": "file",
+      "base": 44021024,
+      "length": 81428
+    },
+    "map229.aubrey": {
+      "originalName": "map229.AUBREY",
+      "type": "file",
+      "base": 44102452,
+      "length": 121396
+    },
+    "map229.json": {
+      "originalName": "map229.json",
+      "type": "file",
+      "base": 44223848,
+      "length": 121380
+    },
+    "map23.aubrey": {
+      "originalName": "map23.AUBREY",
+      "type": "file",
+      "base": 44345228,
+      "length": 303724
+    },
+    "map23.json": {
+      "originalName": "map23.json",
+      "type": "file",
+      "base": 44648952,
+      "length": 303708
+    },
+    "map230.aubrey": {
+      "originalName": "map230.AUBREY",
+      "type": "file",
+      "base": 44952660,
+      "length": 174474
+    },
+    "map230.json": {
+      "originalName": "map230.json",
+      "type": "file",
+      "base": 45127134,
+      "length": 174458
+    },
+    "map231.aubrey": {
+      "originalName": "map231.AUBREY",
+      "type": "file",
+      "base": 45301592,
+      "length": 225525
+    },
+    "map231.json": {
+      "originalName": "map231.json",
+      "type": "file",
+      "base": 45527117,
+      "length": 225509
+    },
+    "map232.aubrey": {
+      "originalName": "map232.AUBREY",
+      "type": "file",
+      "base": 45752626,
+      "length": 53905
+    },
+    "map232.json": {
+      "originalName": "map232.json",
+      "type": "file",
+      "base": 45806531,
+      "length": 53889
+    },
+    "map233.aubrey": {
+      "originalName": "map233.AUBREY",
+      "type": "file",
+      "base": 45860420,
+      "length": 60025
+    },
+    "map233.json": {
+      "originalName": "map233.json",
+      "type": "file",
+      "base": 45920445,
+      "length": 60009
+    },
+    "map234.aubrey": {
+      "originalName": "map234.AUBREY",
+      "type": "file",
+      "base": 45980454,
+      "length": 45725
+    },
+    "map234.json": {
+      "originalName": "map234.json",
+      "type": "file",
+      "base": 46026179,
+      "length": 45709
+    },
+    "map235.aubrey": {
+      "originalName": "map235.AUBREY",
+      "type": "file",
+      "base": 46071888,
+      "length": 89751
+    },
+    "map235.json": {
+      "originalName": "map235.json",
+      "type": "file",
+      "base": 46161639,
+      "length": 89735
+    },
+    "map236.aubrey": {
+      "originalName": "map236.AUBREY",
+      "type": "file",
+      "base": 46251374,
+      "length": 65227
+    },
+    "map236.json": {
+      "originalName": "map236.json",
+      "type": "file",
+      "base": 46316601,
+      "length": 65211
+    },
+    "map237.aubrey": {
+      "originalName": "map237.AUBREY",
+      "type": "file",
+      "base": 46381812,
+      "length": 37739
+    },
+    "map237.json": {
+      "originalName": "map237.json",
+      "type": "file",
+      "base": 46419551,
+      "length": 37723
+    },
+    "map238.aubrey": {
+      "originalName": "map238.AUBREY",
+      "type": "file",
+      "base": 46457274,
+      "length": 143603
+    },
+    "map238.json": {
+      "originalName": "map238.json",
+      "type": "file",
+      "base": 46600877,
+      "length": 143587
+    },
+    "map239.aubrey": {
+      "originalName": "map239.AUBREY",
+      "type": "file",
+      "base": 46744464,
+      "length": 77232
+    },
+    "map239.json": {
+      "originalName": "map239.json",
+      "type": "file",
+      "base": 46821696,
+      "length": 77216
+    },
+    "map24.aubrey": {
+      "originalName": "map24.AUBREY",
+      "type": "file",
+      "base": 46898912,
+      "length": 325697
+    },
+    "map24.json": {
+      "originalName": "map24.json",
+      "type": "file",
+      "base": 47224609,
+      "length": 325681
+    },
+    "map240.aubrey": {
+      "originalName": "map240.AUBREY",
+      "type": "file",
+      "base": 47550290,
+      "length": 81573
+    },
+    "map240.json": {
+      "originalName": "map240.json",
+      "type": "file",
+      "base": 47631863,
+      "length": 81557
+    },
+    "map241.aubrey": {
+      "originalName": "map241.AUBREY",
+      "type": "file",
+      "base": 47713420,
+      "length": 27045
+    },
+    "map241.json": {
+      "originalName": "map241.json",
+      "type": "file",
+      "base": 47740465,
+      "length": 27029
+    },
+    "map242.aubrey": {
+      "originalName": "map242.AUBREY",
+      "type": "file",
+      "base": 47767494,
+      "length": 57693
+    },
+    "map242.json": {
+      "originalName": "map242.json",
+      "type": "file",
+      "base": 47825187,
+      "length": 57677
+    },
+    "map243.aubrey": {
+      "originalName": "map243.AUBREY",
+      "type": "file",
+      "base": 47882864,
+      "length": 25405
+    },
+    "map243.json": {
+      "originalName": "map243.json",
+      "type": "file",
+      "base": 47908269,
+      "length": 25389
+    },
+    "map244.aubrey": {
+      "originalName": "map244.AUBREY",
+      "type": "file",
+      "base": 47933658,
+      "length": 45319
+    },
+    "map244.json": {
+      "originalName": "map244.json",
+      "type": "file",
+      "base": 47978977,
+      "length": 45303
+    },
+    "map245.aubrey": {
+      "originalName": "map245.AUBREY",
+      "type": "file",
+      "base": 48024280,
+      "length": 24811
+    },
+    "map245.json": {
+      "originalName": "map245.json",
+      "type": "file",
+      "base": 48049091,
+      "length": 24795
+    },
+    "map246.aubrey": {
+      "originalName": "map246.AUBREY",
+      "type": "file",
+      "base": 48073886,
+      "length": 31163
+    },
+    "map246.json": {
+      "originalName": "map246.json",
+      "type": "file",
+      "base": 48105049,
+      "length": 31147
+    },
+    "map247.aubrey": {
+      "originalName": "map247.AUBREY",
+      "type": "file",
+      "base": 48136196,
+      "length": 29439
+    },
+    "map247.json": {
+      "originalName": "map247.json",
+      "type": "file",
+      "base": 48165635,
+      "length": 29423
+    },
+    "map248.aubrey": {
+      "originalName": "map248.AUBREY",
+      "type": "file",
+      "base": 48195058,
+      "length": 52617
+    },
+    "map248.json": {
+      "originalName": "map248.json",
+      "type": "file",
+      "base": 48247675,
+      "length": 52601
+    },
+    "map249.aubrey": {
+      "originalName": "map249.AUBREY",
+      "type": "file",
+      "base": 48300276,
+      "length": 183764
+    },
+    "map249.json": {
+      "originalName": "map249.json",
+      "type": "file",
+      "base": 48484040,
+      "length": 183748
+    },
+    "map25.aubrey": {
+      "originalName": "map25.AUBREY",
+      "type": "file",
+      "base": 48667788,
+      "length": 303308
+    },
+    "map25.json": {
+      "originalName": "map25.json",
+      "type": "file",
+      "base": 48971096,
+      "length": 303292
+    },
+    "map250.aubrey": {
+      "originalName": "map250.AUBREY",
+      "type": "file",
+      "base": 49274388,
+      "length": 447868
+    },
+    "map250.json": {
+      "originalName": "map250.json",
+      "type": "file",
+      "base": 49722256,
+      "length": 447852
+    },
+    "map251.aubrey": {
+      "originalName": "map251.AUBREY",
+      "type": "file",
+      "base": 50170108,
+      "length": 246100
+    },
+    "map251.json": {
+      "originalName": "map251.json",
+      "type": "file",
+      "base": 50416208,
+      "length": 246084
+    },
+    "map252.aubrey": {
+      "originalName": "map252.AUBREY",
+      "type": "file",
+      "base": 50662292,
+      "length": 48181
+    },
+    "map252.json": {
+      "originalName": "map252.json",
+      "type": "file",
+      "base": 50710473,
+      "length": 48165
+    },
+    "map253.aubrey": {
+      "originalName": "map253.AUBREY",
+      "type": "file",
+      "base": 50758638,
+      "length": 107309
+    },
+    "map253.json": {
+      "originalName": "map253.json",
+      "type": "file",
+      "base": 50865947,
+      "length": 107293
+    },
+    "map254.aubrey": {
+      "originalName": "map254.AUBREY",
+      "type": "file",
+      "base": 50973240,
+      "length": 101981
+    },
+    "map254.json": {
+      "originalName": "map254.json",
+      "type": "file",
+      "base": 51075221,
+      "length": 101965
+    },
+    "map255.aubrey": {
+      "originalName": "map255.AUBREY",
+      "type": "file",
+      "base": 51177186,
+      "length": 101760
+    },
+    "map255.json": {
+      "originalName": "map255.json",
+      "type": "file",
+      "base": 51278946,
+      "length": 101744
+    },
+    "map256.aubrey": {
+      "originalName": "map256.AUBREY",
+      "type": "file",
+      "base": 51380690,
+      "length": 101759
+    },
+    "map256.json": {
+      "originalName": "map256.json",
+      "type": "file",
+      "base": 51482449,
+      "length": 101743
+    },
+    "map257.aubrey": {
+      "originalName": "map257.AUBREY",
+      "type": "file",
+      "base": 51584192,
+      "length": 186339
+    },
+    "map257.json": {
+      "originalName": "map257.json",
+      "type": "file",
+      "base": 51770531,
+      "length": 186323
+    },
+    "map258.aubrey": {
+      "originalName": "map258.AUBREY",
+      "type": "file",
+      "base": 51956854,
+      "length": 119955
+    },
+    "map258.json": {
+      "originalName": "map258.json",
+      "type": "file",
+      "base": 52076809,
+      "length": 119939
+    },
+    "map259.aubrey": {
+      "originalName": "map259.AUBREY",
+      "type": "file",
+      "base": 52196748,
+      "length": 145541
+    },
+    "map259.json": {
+      "originalName": "map259.json",
+      "type": "file",
+      "base": 52342289,
+      "length": 145525
+    },
+    "map26.aubrey": {
+      "originalName": "map26.AUBREY",
+      "type": "file",
+      "base": 52487814,
+      "length": 326103
+    },
+    "map26.json": {
+      "originalName": "map26.json",
+      "type": "file",
+      "base": 52813917,
+      "length": 326087
+    },
+    "map260.aubrey": {
+      "originalName": "map260.AUBREY",
+      "type": "file",
+      "base": 53140004,
+      "length": 42006
+    },
+    "map260.json": {
+      "originalName": "map260.json",
+      "type": "file",
+      "base": 53182010,
+      "length": 41990
+    },
+    "map261.aubrey": {
+      "originalName": "map261.AUBREY",
+      "type": "file",
+      "base": 53224000,
+      "length": 45885
+    },
+    "map261.json": {
+      "originalName": "map261.json",
+      "type": "file",
+      "base": 53269885,
+      "length": 45869
+    },
+    "map264.aubrey": {
+      "originalName": "map264.AUBREY",
+      "type": "file",
+      "base": 53315754,
+      "length": 139474
+    },
+    "map264.json": {
+      "originalName": "map264.json",
+      "type": "file",
+      "base": 53455228,
+      "length": 139458
+    },
+    "map265.aubrey": {
+      "originalName": "map265.AUBREY",
+      "type": "file",
+      "base": 53594686,
+      "length": 490729
+    },
+    "map265.json": {
+      "originalName": "map265.json",
+      "type": "file",
+      "base": 54085415,
+      "length": 490713
+    },
+    "map266.aubrey": {
+      "originalName": "map266.AUBREY",
+      "type": "file",
+      "base": 54576128,
+      "length": 402609
+    },
+    "map266.json": {
+      "originalName": "map266.json",
+      "type": "file",
+      "base": 54978737,
+      "length": 402593
+    },
+    "map267.aubrey": {
+      "originalName": "map267.AUBREY",
+      "type": "file",
+      "base": 55381330,
+      "length": 259356
+    },
+    "map267.json": {
+      "originalName": "map267.json",
+      "type": "file",
+      "base": 55640686,
+      "length": 259340
+    },
+    "map268.aubrey": {
+      "originalName": "map268.AUBREY",
+      "type": "file",
+      "base": 55900026,
+      "length": 182497
+    },
+    "map268.json": {
+      "originalName": "map268.json",
+      "type": "file",
+      "base": 56082523,
+      "length": 182481
+    },
+    "map269.aubrey": {
+      "originalName": "map269.AUBREY",
+      "type": "file",
+      "base": 56265004,
+      "length": 41421
+    },
+    "map269.json": {
+      "originalName": "map269.json",
+      "type": "file",
+      "base": 56306425,
+      "length": 41405
+    },
+    "map27.aubrey": {
+      "originalName": "map27.AUBREY",
+      "type": "file",
+      "base": 56347830,
+      "length": 309877
+    },
+    "map27.json": {
+      "originalName": "map27.json",
+      "type": "file",
+      "base": 56657707,
+      "length": 309861
+    },
+    "map270.aubrey": {
+      "originalName": "map270.AUBREY",
+      "type": "file",
+      "base": 56967568,
+      "length": 476873
+    },
+    "map270.json": {
+      "originalName": "map270.json",
+      "type": "file",
+      "base": 57444441,
+      "length": 476857
+    },
+    "map271.aubrey": {
+      "originalName": "map271.AUBREY",
+      "type": "file",
+      "base": 57921298,
+      "length": 77203
+    },
+    "map271.json": {
+      "originalName": "map271.json",
+      "type": "file",
+      "base": 57998501,
+      "length": 77187
+    },
+    "map272.aubrey": {
+      "originalName": "map272.AUBREY",
+      "type": "file",
+      "base": 58075688,
+      "length": 36537
+    },
+    "map272.json": {
+      "originalName": "map272.json",
+      "type": "file",
+      "base": 58112225,
+      "length": 36521
+    },
+    "map273.aubrey": {
+      "originalName": "map273.AUBREY",
+      "type": "file",
+      "base": 58148746,
+      "length": 32485
+    },
+    "map273.json": {
+      "originalName": "map273.json",
+      "type": "file",
+      "base": 58181231,
+      "length": 32469
+    },
+    "map274.aubrey": {
+      "originalName": "map274.AUBREY",
+      "type": "file",
+      "base": 58213700,
+      "length": 344732
+    },
+    "map274.json": {
+      "originalName": "map274.json",
+      "type": "file",
+      "base": 58558432,
+      "length": 344716
+    },
+    "map275.aubrey": {
+      "originalName": "map275.AUBREY",
+      "type": "file",
+      "base": 58903148,
+      "length": 98999
+    },
+    "map275.json": {
+      "originalName": "map275.json",
+      "type": "file",
+      "base": 59002147,
+      "length": 98983
+    },
+    "map276.aubrey": {
+      "originalName": "map276.AUBREY",
+      "type": "file",
+      "base": 59101130,
+      "length": 16029
+    },
+    "map276.json": {
+      "originalName": "map276.json",
+      "type": "file",
+      "base": 59117159,
+      "length": 16013
+    },
+    "map277.aubrey": {
+      "originalName": "map277.AUBREY",
+      "type": "file",
+      "base": 59133172,
+      "length": 91244
+    },
+    "map277.json": {
+      "originalName": "map277.json",
+      "type": "file",
+      "base": 59224416,
+      "length": 91228
+    },
+    "map278.aubrey": {
+      "originalName": "map278.AUBREY",
+      "type": "file",
+      "base": 59315644,
+      "length": 47619
+    },
+    "map278.json": {
+      "originalName": "map278.json",
+      "type": "file",
+      "base": 59363263,
+      "length": 47603
+    },
+    "map279.aubrey": {
+      "originalName": "map279.AUBREY",
+      "type": "file",
+      "base": 59410866,
+      "length": 15906
+    },
+    "map279.json": {
+      "originalName": "map279.json",
+      "type": "file",
+      "base": 59426772,
+      "length": 15890
+    },
+    "map28.aubrey": {
+      "originalName": "map28.AUBREY",
+      "type": "file",
+      "base": 59442662,
+      "length": 332371
+    },
+    "map28.json": {
+      "originalName": "map28.json",
+      "type": "file",
+      "base": 59775033,
+      "length": 332355
+    },
+    "map280.aubrey": {
+      "originalName": "map280.AUBREY",
+      "type": "file",
+      "base": 60107388,
+      "length": 173504
+    },
+    "map280.json": {
+      "originalName": "map280.json",
+      "type": "file",
+      "base": 60280892,
+      "length": 173488
+    },
+    "map281.aubrey": {
+      "originalName": "map281.AUBREY",
+      "type": "file",
+      "base": 60454380,
+      "length": 38044
+    },
+    "map281.json": {
+      "originalName": "map281.json",
+      "type": "file",
+      "base": 60492424,
+      "length": 38028
+    },
+    "map282.aubrey": {
+      "originalName": "map282.AUBREY",
+      "type": "file",
+      "base": 60530452,
+      "length": 65717
+    },
+    "map282.json": {
+      "originalName": "map282.json",
+      "type": "file",
+      "base": 60596169,
+      "length": 65701
+    },
+    "map283.aubrey": {
+      "originalName": "map283.AUBREY",
+      "type": "file",
+      "base": 60661870,
+      "length": 74674
+    },
+    "map283.json": {
+      "originalName": "map283.json",
+      "type": "file",
+      "base": 60736544,
+      "length": 74658
+    },
+    "map284.aubrey": {
+      "originalName": "map284.AUBREY",
+      "type": "file",
+      "base": 60811202,
+      "length": 280601
+    },
+    "map284.json": {
+      "originalName": "map284.json",
+      "type": "file",
+      "base": 61091803,
+      "length": 280585
+    },
+    "map285.aubrey": {
+      "originalName": "map285.AUBREY",
+      "type": "file",
+      "base": 61372388,
+      "length": 42330
+    },
+    "map285.json": {
+      "originalName": "map285.json",
+      "type": "file",
+      "base": 61414718,
+      "length": 42314
+    },
+    "map286.aubrey": {
+      "originalName": "map286.AUBREY",
+      "type": "file",
+      "base": 61457032,
+      "length": 120826
+    },
+    "map286.json": {
+      "originalName": "map286.json",
+      "type": "file",
+      "base": 61577858,
+      "length": 120810
+    },
+    "map287.aubrey": {
+      "originalName": "map287.AUBREY",
+      "type": "file",
+      "base": 61698668,
+      "length": 32550
+    },
+    "map287.json": {
+      "originalName": "map287.json",
+      "type": "file",
+      "base": 61731218,
+      "length": 32534
+    },
+    "map288.aubrey": {
+      "originalName": "map288.AUBREY",
+      "type": "file",
+      "base": 61763752,
+      "length": 40561
+    },
+    "map288.json": {
+      "originalName": "map288.json",
+      "type": "file",
+      "base": 61804313,
+      "length": 40545
+    },
+    "map289.aubrey": {
+      "originalName": "map289.AUBREY",
+      "type": "file",
+      "base": 61844858,
+      "length": 143911
+    },
+    "map289.json": {
+      "originalName": "map289.json",
+      "type": "file",
+      "base": 61988769,
+      "length": 143895
+    },
+    "map29.aubrey": {
+      "originalName": "map29.AUBREY",
+      "type": "file",
+      "base": 62132664,
+      "length": 303411
+    },
+    "map29.json": {
+      "originalName": "map29.json",
+      "type": "file",
+      "base": 62436075,
+      "length": 303395
+    },
+    "map290.aubrey": {
+      "originalName": "map290.AUBREY",
+      "type": "file",
+      "base": 62739470,
+      "length": 28036
+    },
+    "map290.json": {
+      "originalName": "map290.json",
+      "type": "file",
+      "base": 62767506,
+      "length": 28020
+    },
+    "map291.aubrey": {
+      "originalName": "map291.AUBREY",
+      "type": "file",
+      "base": 62795526,
+      "length": 135784
+    },
+    "map291.json": {
+      "originalName": "map291.json",
+      "type": "file",
+      "base": 62931310,
+      "length": 135768
+    },
+    "map292.aubrey": {
+      "originalName": "map292.AUBREY",
+      "type": "file",
+      "base": 63067078,
+      "length": 58677
+    },
+    "map292.json": {
+      "originalName": "map292.json",
+      "type": "file",
+      "base": 63125755,
+      "length": 58661
+    },
+    "map293.aubrey": {
+      "originalName": "map293.AUBREY",
+      "type": "file",
+      "base": 63184416,
+      "length": 87226
+    },
+    "map293.json": {
+      "originalName": "map293.json",
+      "type": "file",
+      "base": 63271642,
+      "length": 87210
+    },
+    "map294.aubrey": {
+      "originalName": "map294.AUBREY",
+      "type": "file",
+      "base": 63358852,
+      "length": 58627
+    },
+    "map294.json": {
+      "originalName": "map294.json",
+      "type": "file",
+      "base": 63417479,
+      "length": 58611
+    },
+    "map295.aubrey": {
+      "originalName": "map295.AUBREY",
+      "type": "file",
+      "base": 63476090,
+      "length": 39528
+    },
+    "map295.json": {
+      "originalName": "map295.json",
+      "type": "file",
+      "base": 63515618,
+      "length": 39512
+    },
+    "map296.aubrey": {
+      "originalName": "map296.AUBREY",
+      "type": "file",
+      "base": 63555130,
+      "length": 94531
+    },
+    "map296.json": {
+      "originalName": "map296.json",
+      "type": "file",
+      "base": 63649661,
+      "length": 94515
+    },
+    "map297.aubrey": {
+      "originalName": "map297.AUBREY",
+      "type": "file",
+      "base": 63744176,
+      "length": 60471
+    },
+    "map297.json": {
+      "originalName": "map297.json",
+      "type": "file",
+      "base": 63804647,
+      "length": 60455
+    },
+    "map298.aubrey": {
+      "originalName": "map298.AUBREY",
+      "type": "file",
+      "base": 63865102,
+      "length": 123607
+    },
+    "map298.json": {
+      "originalName": "map298.json",
+      "type": "file",
+      "base": 63988709,
+      "length": 123591
+    },
+    "map30.aubrey": {
+      "originalName": "map30.AUBREY",
+      "type": "file",
+      "base": 64112300,
+      "length": 326305
+    },
+    "map30.json": {
+      "originalName": "map30.json",
+      "type": "file",
+      "base": 64438605,
+      "length": 326289
+    },
+    "map300.aubrey": {
+      "originalName": "map300.AUBREY",
+      "type": "file",
+      "base": 64764894,
+      "length": 156876
+    },
+    "map300.json": {
+      "originalName": "map300.json",
+      "type": "file",
+      "base": 64921770,
+      "length": 156860
+    },
+    "map301.aubrey": {
+      "originalName": "map301.AUBREY",
+      "type": "file",
+      "base": 65078630,
+      "length": 60137
+    },
+    "map301.json": {
+      "originalName": "map301.json",
+      "type": "file",
+      "base": 65138767,
+      "length": 60121
+    },
+    "map302.aubrey": {
+      "originalName": "map302.AUBREY",
+      "type": "file",
+      "base": 65198888,
+      "length": 156282
+    },
+    "map302.json": {
+      "originalName": "map302.json",
+      "type": "file",
+      "base": 65355170,
+      "length": 156266
+    },
+    "map303.aubrey": {
+      "originalName": "map303.AUBREY",
+      "type": "file",
+      "base": 65511436,
+      "length": 40691
+    },
+    "map303.json": {
+      "originalName": "map303.json",
+      "type": "file",
+      "base": 65552127,
+      "length": 40675
+    },
+    "map304.aubrey": {
+      "originalName": "map304.AUBREY",
+      "type": "file",
+      "base": 65592802,
+      "length": 183015
+    },
+    "map304.json": {
+      "originalName": "map304.json",
+      "type": "file",
+      "base": 65775817,
+      "length": 182999
+    },
+    "map305.aubrey": {
+      "originalName": "map305.AUBREY",
+      "type": "file",
+      "base": 65958816,
+      "length": 81231
+    },
+    "map305.json": {
+      "originalName": "map305.json",
+      "type": "file",
+      "base": 66040047,
+      "length": 81215
+    },
+    "map306.aubrey": {
+      "originalName": "map306.AUBREY",
+      "type": "file",
+      "base": 66121262,
+      "length": 90358
+    },
+    "map306.json": {
+      "originalName": "map306.json",
+      "type": "file",
+      "base": 66211620,
+      "length": 90342
+    },
+    "map308.aubrey": {
+      "originalName": "map308.AUBREY",
+      "type": "file",
+      "base": 66301962,
+      "length": 62259
+    },
+    "map308.json": {
+      "originalName": "map308.json",
+      "type": "file",
+      "base": 66364221,
+      "length": 62243
+    },
+    "map309.aubrey": {
+      "originalName": "map309.AUBREY",
+      "type": "file",
+      "base": 66426464,
+      "length": 16969
+    },
+    "map309.json": {
+      "originalName": "map309.json",
+      "type": "file",
+      "base": 66443433,
+      "length": 16953
+    },
+    "map31.aubrey": {
+      "originalName": "map31.AUBREY",
+      "type": "file",
+      "base": 66460386,
+      "length": 253442
+    },
+    "map31.json": {
+      "originalName": "map31.json",
+      "type": "file",
+      "base": 66713828,
+      "length": 253426
+    },
+    "map310.aubrey": {
+      "originalName": "map310.AUBREY",
+      "type": "file",
+      "base": 66967254,
+      "length": 150270
+    },
+    "map310.json": {
+      "originalName": "map310.json",
+      "type": "file",
+      "base": 67117524,
+      "length": 150254
+    },
+    "map311.aubrey": {
+      "originalName": "map311.AUBREY",
+      "type": "file",
+      "base": 67267778,
+      "length": 28314
+    },
+    "map311.json": {
+      "originalName": "map311.json",
+      "type": "file",
+      "base": 67296092,
+      "length": 28298
+    },
+    "map312.aubrey": {
+      "originalName": "map312.AUBREY",
+      "type": "file",
+      "base": 67324390,
+      "length": 56162
+    },
+    "map312.json": {
+      "originalName": "map312.json",
+      "type": "file",
+      "base": 67380552,
+      "length": 56146
+    },
+    "map313.aubrey": {
+      "originalName": "map313.AUBREY",
+      "type": "file",
+      "base": 67436698,
+      "length": 69764
+    },
+    "map313.json": {
+      "originalName": "map313.json",
+      "type": "file",
+      "base": 67506462,
+      "length": 69748
+    },
+    "map314.aubrey": {
+      "originalName": "map314.AUBREY",
+      "type": "file",
+      "base": 67576210,
+      "length": 37222
+    },
+    "map314.json": {
+      "originalName": "map314.json",
+      "type": "file",
+      "base": 67613432,
+      "length": 37206
+    },
+    "map315.aubrey": {
+      "originalName": "map315.AUBREY",
+      "type": "file",
+      "base": 67650638,
+      "length": 56444
+    },
+    "map315.json": {
+      "originalName": "map315.json",
+      "type": "file",
+      "base": 67707082,
+      "length": 56428
+    },
+    "map316.aubrey": {
+      "originalName": "map316.AUBREY",
+      "type": "file",
+      "base": 67763510,
+      "length": 102393
+    },
+    "map316.json": {
+      "originalName": "map316.json",
+      "type": "file",
+      "base": 67865903,
+      "length": 102377
+    },
+    "map317.aubrey": {
+      "originalName": "map317.AUBREY",
+      "type": "file",
+      "base": 67968280,
+      "length": 54723
+    },
+    "map317.json": {
+      "originalName": "map317.json",
+      "type": "file",
+      "base": 68023003,
+      "length": 54707
+    },
+    "map318.aubrey": {
+      "originalName": "map318.AUBREY",
+      "type": "file",
+      "base": 68077710,
+      "length": 326321
+    },
+    "map318.json": {
+      "originalName": "map318.json",
+      "type": "file",
+      "base": 68404031,
+      "length": 326305
+    },
+    "map32.aubrey": {
+      "originalName": "map32.AUBREY",
+      "type": "file",
+      "base": 68730336,
+      "length": 243458
+    },
+    "map32.json": {
+      "originalName": "map32.json",
+      "type": "file",
+      "base": 68973794,
+      "length": 243442
+    },
+    "map320.aubrey": {
+      "originalName": "map320.AUBREY",
+      "type": "file",
+      "base": 69217236,
+      "length": 66952
+    },
+    "map320.json": {
+      "originalName": "map320.json",
+      "type": "file",
+      "base": 69284188,
+      "length": 66936
+    },
+    "map321.aubrey": {
+      "originalName": "map321.AUBREY",
+      "type": "file",
+      "base": 69351124,
+      "length": 26264
+    },
+    "map321.json": {
+      "originalName": "map321.json",
+      "type": "file",
+      "base": 69377388,
+      "length": 26248
+    },
+    "map322.aubrey": {
+      "originalName": "map322.AUBREY",
+      "type": "file",
+      "base": 69403636,
+      "length": 92025
+    },
+    "map322.json": {
+      "originalName": "map322.json",
+      "type": "file",
+      "base": 69495661,
+      "length": 92009
+    },
+    "map323.aubrey": {
+      "originalName": "map323.AUBREY",
+      "type": "file",
+      "base": 69587670,
+      "length": 433649
+    },
+    "map323.json": {
+      "originalName": "map323.json",
+      "type": "file",
+      "base": 70021319,
+      "length": 433633
+    },
+    "map324.aubrey": {
+      "originalName": "map324.AUBREY",
+      "type": "file",
+      "base": 70454952,
+      "length": 139108
+    },
+    "map324.json": {
+      "originalName": "map324.json",
+      "type": "file",
+      "base": 70594060,
+      "length": 139092
+    },
+    "map325.aubrey": {
+      "originalName": "map325.AUBREY",
+      "type": "file",
+      "base": 70733152,
+      "length": 205177
+    },
+    "map325.json": {
+      "originalName": "map325.json",
+      "type": "file",
+      "base": 70938329,
+      "length": 205161
+    },
+    "map326.aubrey": {
+      "originalName": "map326.AUBREY",
+      "type": "file",
+      "base": 71143490,
+      "length": 81957
+    },
+    "map326.json": {
+      "originalName": "map326.json",
+      "type": "file",
+      "base": 71225447,
+      "length": 81941
+    },
+    "map327.aubrey": {
+      "originalName": "map327.AUBREY",
+      "type": "file",
+      "base": 71307388,
+      "length": 31266
+    },
+    "map327.json": {
+      "originalName": "map327.json",
+      "type": "file",
+      "base": 71338654,
+      "length": 31250
+    },
+    "map328.aubrey": {
+      "originalName": "map328.AUBREY",
+      "type": "file",
+      "base": 71369904,
+      "length": 59012
+    },
+    "map328.json": {
+      "originalName": "map328.json",
+      "type": "file",
+      "base": 71428916,
+      "length": 58996
+    },
+    "map329.aubrey": {
+      "originalName": "map329.AUBREY",
+      "type": "file",
+      "base": 71487912,
+      "length": 73249
+    },
+    "map329.json": {
+      "originalName": "map329.json",
+      "type": "file",
+      "base": 71561161,
+      "length": 73233
+    },
+    "map33.aubrey": {
+      "originalName": "map33.AUBREY",
+      "type": "file",
+      "base": 71634394,
+      "length": 243966
+    },
+    "map33.json": {
+      "originalName": "map33.json",
+      "type": "file",
+      "base": 71878360,
+      "length": 243950
+    },
+    "map330.aubrey": {
+      "originalName": "map330.AUBREY",
+      "type": "file",
+      "base": 72122310,
+      "length": 35726
+    },
+    "map330.json": {
+      "originalName": "map330.json",
+      "type": "file",
+      "base": 72158036,
+      "length": 35710
+    },
+    "map331.aubrey": {
+      "originalName": "map331.AUBREY",
+      "type": "file",
+      "base": 72193746,
+      "length": 23615
+    },
+    "map331.json": {
+      "originalName": "map331.json",
+      "type": "file",
+      "base": 72217361,
+      "length": 23599
+    },
+    "map332.aubrey": {
+      "originalName": "map332.AUBREY",
+      "type": "file",
+      "base": 72240960,
+      "length": 57400
+    },
+    "map332.json": {
+      "originalName": "map332.json",
+      "type": "file",
+      "base": 72298360,
+      "length": 57384
+    },
+    "map333.aubrey": {
+      "originalName": "map333.AUBREY",
+      "type": "file",
+      "base": 72355744,
+      "length": 36283
+    },
+    "map333.json": {
+      "originalName": "map333.json",
+      "type": "file",
+      "base": 72392027,
+      "length": 36267
+    },
+    "map334.aubrey": {
+      "originalName": "map334.AUBREY",
+      "type": "file",
+      "base": 72428294,
+      "length": 28129
+    },
+    "map334.json": {
+      "originalName": "map334.json",
+      "type": "file",
+      "base": 72456423,
+      "length": 28113
+    },
+    "map335.aubrey": {
+      "originalName": "map335.AUBREY",
+      "type": "file",
+      "base": 72484536,
+      "length": 49881
+    },
+    "map335.json": {
+      "originalName": "map335.json",
+      "type": "file",
+      "base": 72534417,
+      "length": 49865
+    },
+    "map336.aubrey": {
+      "originalName": "map336.AUBREY",
+      "type": "file",
+      "base": 72584282,
+      "length": 121487
+    },
+    "map336.json": {
+      "originalName": "map336.json",
+      "type": "file",
+      "base": 72705769,
+      "length": 121471
+    },
+    "map337.aubrey": {
+      "originalName": "map337.AUBREY",
+      "type": "file",
+      "base": 72827240,
+      "length": 342593
+    },
+    "map337.json": {
+      "originalName": "map337.json",
+      "type": "file",
+      "base": 73169833,
+      "length": 342577
+    },
+    "map338.aubrey": {
+      "originalName": "map338.AUBREY",
+      "type": "file",
+      "base": 73512410,
+      "length": 340219
+    },
+    "map338.json": {
+      "originalName": "map338.json",
+      "type": "file",
+      "base": 73852629,
+      "length": 340203
+    },
+    "map339.aubrey": {
+      "originalName": "map339.AUBREY",
+      "type": "file",
+      "base": 74192832,
+      "length": 275318
+    },
+    "map339.json": {
+      "originalName": "map339.json",
+      "type": "file",
+      "base": 74468150,
+      "length": 275302
+    },
+    "map34.aubrey": {
+      "originalName": "map34.AUBREY",
+      "type": "file",
+      "base": 74743452,
+      "length": 243330
+    },
+    "map34.json": {
+      "originalName": "map34.json",
+      "type": "file",
+      "base": 74986782,
+      "length": 243314
+    },
+    "map340.aubrey": {
+      "originalName": "map340.AUBREY",
+      "type": "file",
+      "base": 75230096,
+      "length": 41571
+    },
+    "map340.json": {
+      "originalName": "map340.json",
+      "type": "file",
+      "base": 75271667,
+      "length": 41555
+    },
+    "map341.aubrey": {
+      "originalName": "map341.AUBREY",
+      "type": "file",
+      "base": 75313222,
+      "length": 258976
+    },
+    "map341.json": {
+      "originalName": "map341.json",
+      "type": "file",
+      "base": 75572198,
+      "length": 258960
+    },
+    "map342.aubrey": {
+      "originalName": "map342.AUBREY",
+      "type": "file",
+      "base": 75831158,
+      "length": 169706
+    },
+    "map342.json": {
+      "originalName": "map342.json",
+      "type": "file",
+      "base": 76000864,
+      "length": 169690
+    },
+    "map343.aubrey": {
+      "originalName": "map343.AUBREY",
+      "type": "file",
+      "base": 76170554,
+      "length": 109838
+    },
+    "map343.json": {
+      "originalName": "map343.json",
+      "type": "file",
+      "base": 76280392,
+      "length": 109822
+    },
+    "map344.aubrey": {
+      "originalName": "map344.AUBREY",
+      "type": "file",
+      "base": 76390214,
+      "length": 69057
+    },
+    "map344.json": {
+      "originalName": "map344.json",
+      "type": "file",
+      "base": 76459271,
+      "length": 69041
+    },
+    "map345.aubrey": {
+      "originalName": "map345.AUBREY",
+      "type": "file",
+      "base": 76528312,
+      "length": 115732
+    },
+    "map345.json": {
+      "originalName": "map345.json",
+      "type": "file",
+      "base": 76644044,
+      "length": 115716
+    },
+    "map346.aubrey": {
+      "originalName": "map346.AUBREY",
+      "type": "file",
+      "base": 76759760,
+      "length": 342603
+    },
+    "map346.json": {
+      "originalName": "map346.json",
+      "type": "file",
+      "base": 77102363,
+      "length": 342587
+    },
+    "map347.aubrey": {
+      "originalName": "map347.AUBREY",
+      "type": "file",
+      "base": 77444950,
+      "length": 116343
+    },
+    "map347.json": {
+      "originalName": "map347.json",
+      "type": "file",
+      "base": 77561293,
+      "length": 116327
+    },
+    "map348.aubrey": {
+      "originalName": "map348.AUBREY",
+      "type": "file",
+      "base": 77677620,
+      "length": 37954
+    },
+    "map348.json": {
+      "originalName": "map348.json",
+      "type": "file",
+      "base": 77715574,
+      "length": 37938
+    },
+    "map349.aubrey": {
+      "originalName": "map349.AUBREY",
+      "type": "file",
+      "base": 77753512,
+      "length": 29799
+    },
+    "map349.json": {
+      "originalName": "map349.json",
+      "type": "file",
+      "base": 77783311,
+      "length": 29783
+    },
+    "map35.aubrey": {
+      "originalName": "map35.AUBREY",
+      "type": "file",
+      "base": 77813094,
+      "length": 280095
+    },
+    "map35.json": {
+      "originalName": "map35.json",
+      "type": "file",
+      "base": 78093189,
+      "length": 280079
+    },
+    "map350.aubrey": {
+      "originalName": "map350.AUBREY",
+      "type": "file",
+      "base": 78373268,
+      "length": 31547
+    },
+    "map350.json": {
+      "originalName": "map350.json",
+      "type": "file",
+      "base": 78404815,
+      "length": 31531
+    },
+    "map351.aubrey": {
+      "originalName": "map351.AUBREY",
+      "type": "file",
+      "base": 78436346,
+      "length": 31264
+    },
+    "map351.json": {
+      "originalName": "map351.json",
+      "type": "file",
+      "base": 78467610,
+      "length": 31248
+    },
+    "map352.aubrey": {
+      "originalName": "map352.AUBREY",
+      "type": "file",
+      "base": 78498858,
+      "length": 29871
+    },
+    "map352.json": {
+      "originalName": "map352.json",
+      "type": "file",
+      "base": 78528729,
+      "length": 29855
+    },
+    "map353.aubrey": {
+      "originalName": "map353.AUBREY",
+      "type": "file",
+      "base": 78558584,
+      "length": 30721
+    },
+    "map353.json": {
+      "originalName": "map353.json",
+      "type": "file",
+      "base": 78589305,
+      "length": 30705
+    },
+    "map354.aubrey": {
+      "originalName": "map354.AUBREY",
+      "type": "file",
+      "base": 78620010,
+      "length": 34897
+    },
+    "map354.json": {
+      "originalName": "map354.json",
+      "type": "file",
+      "base": 78654907,
+      "length": 34881
+    },
+    "map355.aubrey": {
+      "originalName": "map355.AUBREY",
+      "type": "file",
+      "base": 78689788,
+      "length": 366733
+    },
+    "map355.json": {
+      "originalName": "map355.json",
+      "type": "file",
+      "base": 79056521,
+      "length": 366717
+    },
+    "map356.aubrey": {
+      "originalName": "map356.AUBREY",
+      "type": "file",
+      "base": 79423238,
+      "length": 53132
+    },
+    "map356.json": {
+      "originalName": "map356.json",
+      "type": "file",
+      "base": 79476370,
+      "length": 53116
+    },
+    "map357.aubrey": {
+      "originalName": "map357.AUBREY",
+      "type": "file",
+      "base": 79529486,
+      "length": 35023
+    },
+    "map357.json": {
+      "originalName": "map357.json",
+      "type": "file",
+      "base": 79564509,
+      "length": 35007
+    },
+    "map358.aubrey": {
+      "originalName": "map358.AUBREY",
+      "type": "file",
+      "base": 79599516,
+      "length": 31051
+    },
+    "map358.json": {
+      "originalName": "map358.json",
+      "type": "file",
+      "base": 79630567,
+      "length": 31035
+    },
+    "map359.aubrey": {
+      "originalName": "map359.AUBREY",
+      "type": "file",
+      "base": 79661602,
+      "length": 31993
+    },
+    "map359.json": {
+      "originalName": "map359.json",
+      "type": "file",
+      "base": 79693595,
+      "length": 31977
+    },
+    "map36.aubrey": {
+      "originalName": "map36.AUBREY",
+      "type": "file",
+      "base": 79725572,
+      "length": 243657
+    },
+    "map36.json": {
+      "originalName": "map36.json",
+      "type": "file",
+      "base": 79969229,
+      "length": 243641
+    },
+    "map362.aubrey": {
+      "originalName": "map362.AUBREY",
+      "type": "file",
+      "base": 80212870,
+      "length": 35966
+    },
+    "map362.json": {
+      "originalName": "map362.json",
+      "type": "file",
+      "base": 80248836,
+      "length": 35950
+    },
+    "map363.aubrey": {
+      "originalName": "map363.AUBREY",
+      "type": "file",
+      "base": 80284786,
+      "length": 15793
+    },
+    "map363.json": {
+      "originalName": "map363.json",
+      "type": "file",
+      "base": 80300579,
+      "length": 15777
+    },
+    "map368.aubrey": {
+      "originalName": "map368.AUBREY",
+      "type": "file",
+      "base": 80316356,
+      "length": 31112
+    },
+    "map368.json": {
+      "originalName": "map368.json",
+      "type": "file",
+      "base": 80347468,
+      "length": 31096
+    },
+    "map37.aubrey": {
+      "originalName": "map37.AUBREY",
+      "type": "file",
+      "base": 80378564,
+      "length": 243350
+    },
+    "map37.json": {
+      "originalName": "map37.json",
+      "type": "file",
+      "base": 80621914,
+      "length": 243334
+    },
+    "map370.aubrey": {
+      "originalName": "map370.AUBREY",
+      "type": "file",
+      "base": 80865248,
+      "length": 101709
+    },
+    "map370.json": {
+      "originalName": "map370.json",
+      "type": "file",
+      "base": 80966957,
+      "length": 101693
+    },
+    "map371.aubrey": {
+      "originalName": "map371.AUBREY",
+      "type": "file",
+      "base": 81068650,
+      "length": 101603
+    },
+    "map371.json": {
+      "originalName": "map371.json",
+      "type": "file",
+      "base": 81170253,
+      "length": 101587
+    },
+    "map372.aubrey": {
+      "originalName": "map372.AUBREY",
+      "type": "file",
+      "base": 81271840,
+      "length": 101227
+    },
+    "map372.json": {
+      "originalName": "map372.json",
+      "type": "file",
+      "base": 81373067,
+      "length": 101211
+    },
+    "map373.aubrey": {
+      "originalName": "map373.AUBREY",
+      "type": "file",
+      "base": 81474278,
+      "length": 78103
+    },
+    "map373.json": {
+      "originalName": "map373.json",
+      "type": "file",
+      "base": 81552381,
+      "length": 78087
+    },
+    "map374.aubrey": {
+      "originalName": "map374.AUBREY",
+      "type": "file",
+      "base": 81630468,
+      "length": 120923
+    },
+    "map374.json": {
+      "originalName": "map374.json",
+      "type": "file",
+      "base": 81751391,
+      "length": 120907
+    },
+    "map375.aubrey": {
+      "originalName": "map375.AUBREY",
+      "type": "file",
+      "base": 81872298,
+      "length": 101227
+    },
+    "map375.json": {
+      "originalName": "map375.json",
+      "type": "file",
+      "base": 81973525,
+      "length": 101211
+    },
+    "map376.aubrey": {
+      "originalName": "map376.AUBREY",
+      "type": "file",
+      "base": 82074736,
+      "length": 92314
+    },
+    "map376.json": {
+      "originalName": "map376.json",
+      "type": "file",
+      "base": 82167050,
+      "length": 92298
+    },
+    "map377.aubrey": {
+      "originalName": "map377.AUBREY",
+      "type": "file",
+      "base": 82259348,
+      "length": 39856
+    },
+    "map377.json": {
+      "originalName": "map377.json",
+      "type": "file",
+      "base": 82299204,
+      "length": 39840
+    },
+    "map378.aubrey": {
+      "originalName": "map378.AUBREY",
+      "type": "file",
+      "base": 82339044,
+      "length": 426666
+    },
+    "map378.json": {
+      "originalName": "map378.json",
+      "type": "file",
+      "base": 82765710,
+      "length": 426650
+    },
+    "map379.aubrey": {
+      "originalName": "map379.AUBREY",
+      "type": "file",
+      "base": 83192360,
+      "length": 99528
+    },
+    "map379.json": {
+      "originalName": "map379.json",
+      "type": "file",
+      "base": 83291888,
+      "length": 99512
+    },
+    "map38.aubrey": {
+      "originalName": "map38.AUBREY",
+      "type": "file",
+      "base": 83391400,
+      "length": 249348
+    },
+    "map38.json": {
+      "originalName": "map38.json",
+      "type": "file",
+      "base": 83640748,
+      "length": 249332
+    },
+    "map380.aubrey": {
+      "originalName": "map380.AUBREY",
+      "type": "file",
+      "base": 83890080,
+      "length": 51853
+    },
+    "map380.json": {
+      "originalName": "map380.json",
+      "type": "file",
+      "base": 83941933,
+      "length": 51837
+    },
+    "map381.aubrey": {
+      "originalName": "map381.AUBREY",
+      "type": "file",
+      "base": 83993770,
+      "length": 111389
+    },
+    "map381.json": {
+      "originalName": "map381.json",
+      "type": "file",
+      "base": 84105159,
+      "length": 111373
+    },
+    "map382.aubrey": {
+      "originalName": "map382.AUBREY",
+      "type": "file",
+      "base": 84216532,
+      "length": 16610
+    },
+    "map382.json": {
+      "originalName": "map382.json",
+      "type": "file",
+      "base": 84233142,
+      "length": 16594
+    },
+    "map383.aubrey": {
+      "originalName": "map383.AUBREY",
+      "type": "file",
+      "base": 84249736,
+      "length": 45720
+    },
+    "map383.json": {
+      "originalName": "map383.json",
+      "type": "file",
+      "base": 84295456,
+      "length": 45704
+    },
+    "map384.aubrey": {
+      "originalName": "map384.AUBREY",
+      "type": "file",
+      "base": 84341160,
+      "length": 64718
+    },
+    "map384.json": {
+      "originalName": "map384.json",
+      "type": "file",
+      "base": 84405878,
+      "length": 64702
+    },
+    "map385.aubrey": {
+      "originalName": "map385.AUBREY",
+      "type": "file",
+      "base": 84470580,
+      "length": 83535
+    },
+    "map385.json": {
+      "originalName": "map385.json",
+      "type": "file",
+      "base": 84554115,
+      "length": 83519
+    },
+    "map386.aubrey": {
+      "originalName": "map386.AUBREY",
+      "type": "file",
+      "base": 84637634,
+      "length": 23479
+    },
+    "map386.json": {
+      "originalName": "map386.json",
+      "type": "file",
+      "base": 84661113,
+      "length": 23463
+    },
+    "map387.aubrey": {
+      "originalName": "map387.AUBREY",
+      "type": "file",
+      "base": 84684576,
+      "length": 30118
+    },
+    "map387.json": {
+      "originalName": "map387.json",
+      "type": "file",
+      "base": 84714694,
+      "length": 30102
+    },
+    "map388.aubrey": {
+      "originalName": "map388.AUBREY",
+      "type": "file",
+      "base": 84744796,
+      "length": 210878
+    },
+    "map388.json": {
+      "originalName": "map388.json",
+      "type": "file",
+      "base": 84955674,
+      "length": 210862
+    },
+    "map39.aubrey": {
+      "originalName": "map39.AUBREY",
+      "type": "file",
+      "base": 85166536,
+      "length": 280198
+    },
+    "map39.json": {
+      "originalName": "map39.json",
+      "type": "file",
+      "base": 85446734,
+      "length": 280182
+    },
+    "map390.aubrey": {
+      "originalName": "map390.AUBREY",
+      "type": "file",
+      "base": 85726916,
+      "length": 432436
+    },
+    "map390.json": {
+      "originalName": "map390.json",
+      "type": "file",
+      "base": 86159352,
+      "length": 432420
+    },
+    "map391.aubrey": {
+      "originalName": "map391.AUBREY",
+      "type": "file",
+      "base": 86591772,
+      "length": 36943
+    },
+    "map391.json": {
+      "originalName": "map391.json",
+      "type": "file",
+      "base": 86628715,
+      "length": 36927
+    },
+    "map392.aubrey": {
+      "originalName": "map392.AUBREY",
+      "type": "file",
+      "base": 86665642,
+      "length": 43656
+    },
+    "map392.json": {
+      "originalName": "map392.json",
+      "type": "file",
+      "base": 86709298,
+      "length": 43640
+    },
+    "map393.aubrey": {
+      "originalName": "map393.AUBREY",
+      "type": "file",
+      "base": 86752938,
+      "length": 15793
+    },
+    "map393.json": {
+      "originalName": "map393.json",
+      "type": "file",
+      "base": 86768731,
+      "length": 15777
+    },
+    "map394.aubrey": {
+      "originalName": "map394.AUBREY",
+      "type": "file",
+      "base": 86784508,
+      "length": 19535
+    },
+    "map394.json": {
+      "originalName": "map394.json",
+      "type": "file",
+      "base": 86804043,
+      "length": 19519
+    },
+    "map395.aubrey": {
+      "originalName": "map395.AUBREY",
+      "type": "file",
+      "base": 86823562,
+      "length": 14467
+    },
+    "map395.json": {
+      "originalName": "map395.json",
+      "type": "file",
+      "base": 86838029,
+      "length": 14451
+    },
+    "map396.aubrey": {
+      "originalName": "map396.AUBREY",
+      "type": "file",
+      "base": 86852480,
+      "length": 17952
+    },
+    "map396.json": {
+      "originalName": "map396.json",
+      "type": "file",
+      "base": 86870432,
+      "length": 17936
+    },
+    "map397.aubrey": {
+      "originalName": "map397.AUBREY",
+      "type": "file",
+      "base": 86888368,
+      "length": 3858
+    },
+    "map397.json": {
+      "originalName": "map397.json",
+      "type": "file",
+      "base": 86892226,
+      "length": 3842
+    },
+    "map398.aubrey": {
+      "originalName": "map398.AUBREY",
+      "type": "file",
+      "base": 86896068,
+      "length": 3858
+    },
+    "map398.json": {
+      "originalName": "map398.json",
+      "type": "file",
+      "base": 86899926,
+      "length": 3842
+    },
+    "map399.aubrey": {
+      "originalName": "map399.AUBREY",
+      "type": "file",
+      "base": 86903768,
+      "length": 548798
+    },
+    "map399.json": {
+      "originalName": "map399.json",
+      "type": "file",
+      "base": 87452566,
+      "length": 548782
+    },
+    "map4.aubrey": {
+      "originalName": "map4.AUBREY",
+      "type": "file",
+      "base": 88001348,
+      "length": 40299
+    },
+    "map4.json": {
+      "originalName": "map4.json",
+      "type": "file",
+      "base": 88041647,
+      "length": 40283
+    },
+    "map40.aubrey": {
+      "originalName": "map40.AUBREY",
+      "type": "file",
+      "base": 88081930,
+      "length": 34256
+    },
+    "map40.json": {
+      "originalName": "map40.json",
+      "type": "file",
+      "base": 88116186,
+      "length": 34240
+    },
+    "map400.aubrey": {
+      "originalName": "map400.AUBREY",
+      "type": "file",
+      "base": 88150426,
+      "length": 126580
+    },
+    "map400.json": {
+      "originalName": "map400.json",
+      "type": "file",
+      "base": 88277006,
+      "length": 126564
+    },
+    "map402.aubrey": {
+      "originalName": "map402.AUBREY",
+      "type": "file",
+      "base": 88403570,
+      "length": 65558
+    },
+    "map402.json": {
+      "originalName": "map402.json",
+      "type": "file",
+      "base": 88469128,
+      "length": 65542
+    },
+    "map403.aubrey": {
+      "originalName": "map403.AUBREY",
+      "type": "file",
+      "base": 88534670,
+      "length": 65816
+    },
+    "map403.json": {
+      "originalName": "map403.json",
+      "type": "file",
+      "base": 88600486,
+      "length": 65800
+    },
+    "map404.aubrey": {
+      "originalName": "map404.AUBREY",
+      "type": "file",
+      "base": 88666286,
+      "length": 65694
+    },
+    "map404.json": {
+      "originalName": "map404.json",
+      "type": "file",
+      "base": 88731980,
+      "length": 65678
+    },
+    "map405.aubrey": {
+      "originalName": "map405.AUBREY",
+      "type": "file",
+      "base": 88797658,
+      "length": 75166
+    },
+    "map405.json": {
+      "originalName": "map405.json",
+      "type": "file",
+      "base": 88872824,
+      "length": 75150
+    },
+    "map406.aubrey": {
+      "originalName": "map406.AUBREY",
+      "type": "file",
+      "base": 88947974,
+      "length": 75100
+    },
+    "map406.json": {
+      "originalName": "map406.json",
+      "type": "file",
+      "base": 89023074,
+      "length": 75084
+    },
+    "map407.aubrey": {
+      "originalName": "map407.AUBREY",
+      "type": "file",
+      "base": 89098158,
+      "length": 75153
+    },
+    "map407.json": {
+      "originalName": "map407.json",
+      "type": "file",
+      "base": 89173311,
+      "length": 75137
+    },
+    "map408.aubrey": {
+      "originalName": "map408.AUBREY",
+      "type": "file",
+      "base": 89248448,
+      "length": 82966
+    },
+    "map408.json": {
+      "originalName": "map408.json",
+      "type": "file",
+      "base": 89331414,
+      "length": 82950
+    },
+    "map409.aubrey": {
+      "originalName": "map409.AUBREY",
+      "type": "file",
+      "base": 89414364,
+      "length": 82861
+    },
+    "map409.json": {
+      "originalName": "map409.json",
+      "type": "file",
+      "base": 89497225,
+      "length": 82845
+    },
+    "map41.aubrey": {
+      "originalName": "map41.AUBREY",
+      "type": "file",
+      "base": 89580070,
+      "length": 41765
+    },
+    "map41.json": {
+      "originalName": "map41.json",
+      "type": "file",
+      "base": 89621835,
+      "length": 41749
+    },
+    "map410.aubrey": {
+      "originalName": "map410.AUBREY",
+      "type": "file",
+      "base": 89663584,
+      "length": 82914
+    },
+    "map410.json": {
+      "originalName": "map410.json",
+      "type": "file",
+      "base": 89746498,
+      "length": 82898
+    },
+    "map411.aubrey": {
+      "originalName": "map411.AUBREY",
+      "type": "file",
+      "base": 89829396,
+      "length": 39570
+    },
+    "map411.json": {
+      "originalName": "map411.json",
+      "type": "file",
+      "base": 89868966,
+      "length": 39554
+    },
+    "map412.aubrey": {
+      "originalName": "map412.AUBREY",
+      "type": "file",
+      "base": 89908520,
+      "length": 342911
+    },
+    "map412.json": {
+      "originalName": "map412.json",
+      "type": "file",
+      "base": 90251431,
+      "length": 342895
+    },
+    "map413.aubrey": {
+      "originalName": "map413.AUBREY",
+      "type": "file",
+      "base": 90594326,
+      "length": 302927
+    },
+    "map413.json": {
+      "originalName": "map413.json",
+      "type": "file",
+      "base": 90897253,
+      "length": 302911
+    },
+    "map414.aubrey": {
+      "originalName": "map414.AUBREY",
+      "type": "file",
+      "base": 91200164,
+      "length": 72815
+    },
+    "map414.json": {
+      "originalName": "map414.json",
+      "type": "file",
+      "base": 91272979,
+      "length": 72799
+    },
+    "map415.aubrey": {
+      "originalName": "map415.AUBREY",
+      "type": "file",
+      "base": 91345778,
+      "length": 64452
+    },
+    "map415.json": {
+      "originalName": "map415.json",
+      "type": "file",
+      "base": 91410230,
+      "length": 64436
+    },
+    "map416.aubrey": {
+      "originalName": "map416.AUBREY",
+      "type": "file",
+      "base": 91474666,
+      "length": 40303
+    },
+    "map416.json": {
+      "originalName": "map416.json",
+      "type": "file",
+      "base": 91514969,
+      "length": 40287
+    },
+    "map42.aubrey": {
+      "originalName": "map42.AUBREY",
+      "type": "file",
+      "base": 91555256,
+      "length": 68572
+    },
+    "map42.json": {
+      "originalName": "map42.json",
+      "type": "file",
+      "base": 91623828,
+      "length": 68556
+    },
+    "map420.aubrey": {
+      "originalName": "map420.AUBREY",
+      "type": "file",
+      "base": 91692384,
+      "length": 826
+    },
+    "map420.json": {
+      "originalName": "map420.json",
+      "type": "file",
+      "base": 91693210,
+      "length": 810
+    },
+    "map421.aubrey": {
+      "originalName": "map421.AUBREY",
+      "type": "file",
+      "base": 91694020,
+      "length": 52114
+    },
+    "map421.json": {
+      "originalName": "map421.json",
+      "type": "file",
+      "base": 91746134,
+      "length": 52098
+    },
+    "map425.aubrey": {
+      "originalName": "map425.AUBREY",
+      "type": "file",
+      "base": 91798232,
+      "length": 41862
+    },
+    "map425.json": {
+      "originalName": "map425.json",
+      "type": "file",
+      "base": 91840094,
+      "length": 41846
+    },
+    "map426.aubrey": {
+      "originalName": "map426.AUBREY",
+      "type": "file",
+      "base": 91881940,
+      "length": 133994
+    },
+    "map426.json": {
+      "originalName": "map426.json",
+      "type": "file",
+      "base": 92015934,
+      "length": 133978
+    },
+    "map427.aubrey": {
+      "originalName": "map427.AUBREY",
+      "type": "file",
+      "base": 92149912,
+      "length": 206684
+    },
+    "map427.json": {
+      "originalName": "map427.json",
+      "type": "file",
+      "base": 92356596,
+      "length": 206668
+    },
+    "map428.aubrey": {
+      "originalName": "map428.AUBREY",
+      "type": "file",
+      "base": 92563264,
+      "length": 81823
+    },
+    "map428.json": {
+      "originalName": "map428.json",
+      "type": "file",
+      "base": 92645087,
+      "length": 81807
+    },
+    "map429.aubrey": {
+      "originalName": "map429.AUBREY",
+      "type": "file",
+      "base": 92726894,
+      "length": 83242
+    },
+    "map429.json": {
+      "originalName": "map429.json",
+      "type": "file",
+      "base": 92810136,
+      "length": 83226
+    },
+    "map43.aubrey": {
+      "originalName": "map43.AUBREY",
+      "type": "file",
+      "base": 92893362,
+      "length": 34151
+    },
+    "map43.json": {
+      "originalName": "map43.json",
+      "type": "file",
+      "base": 92927513,
+      "length": 34135
+    },
+    "map430.aubrey": {
+      "originalName": "map430.AUBREY",
+      "type": "file",
+      "base": 92961648,
+      "length": 184714
+    },
+    "map430.json": {
+      "originalName": "map430.json",
+      "type": "file",
+      "base": 93146362,
+      "length": 184698
+    },
+    "map431.aubrey": {
+      "originalName": "map431.AUBREY",
+      "type": "file",
+      "base": 93331060,
+      "length": 31375
+    },
+    "map431.json": {
+      "originalName": "map431.json",
+      "type": "file",
+      "base": 93362435,
+      "length": 31359
+    },
+    "map432.aubrey": {
+      "originalName": "map432.AUBREY",
+      "type": "file",
+      "base": 93393794,
+      "length": 28732
+    },
+    "map432.json": {
+      "originalName": "map432.json",
+      "type": "file",
+      "base": 93422526,
+      "length": 28716
+    },
+    "map433.aubrey": {
+      "originalName": "map433.AUBREY",
+      "type": "file",
+      "base": 93451242,
+      "length": 309518
+    },
+    "map433.json": {
+      "originalName": "map433.json",
+      "type": "file",
+      "base": 93760760,
+      "length": 309502
+    },
+    "map434.aubrey": {
+      "originalName": "map434.AUBREY",
+      "type": "file",
+      "base": 94070262,
+      "length": 35137
+    },
+    "map434.json": {
+      "originalName": "map434.json",
+      "type": "file",
+      "base": 94105399,
+      "length": 35121
+    },
+    "map435.aubrey": {
+      "originalName": "map435.AUBREY",
+      "type": "file",
+      "base": 94140520,
+      "length": 377435
+    },
+    "map435.json": {
+      "originalName": "map435.json",
+      "type": "file",
+      "base": 94517955,
+      "length": 377419
+    },
+    "map436.aubrey": {
+      "originalName": "map436.AUBREY",
+      "type": "file",
+      "base": 94895374,
+      "length": 38767
+    },
+    "map436.json": {
+      "originalName": "map436.json",
+      "type": "file",
+      "base": 94934141,
+      "length": 38751
+    },
+    "map437.aubrey": {
+      "originalName": "map437.AUBREY",
+      "type": "file",
+      "base": 94972892,
+      "length": 241048
+    },
+    "map437.json": {
+      "originalName": "map437.json",
+      "type": "file",
+      "base": 95213940,
+      "length": 241032
+    },
+    "map438.aubrey": {
+      "originalName": "map438.AUBREY",
+      "type": "file",
+      "base": 95454972,
+      "length": 160161
+    },
+    "map438.json": {
+      "originalName": "map438.json",
+      "type": "file",
+      "base": 95615133,
+      "length": 160145
+    },
+    "map439.aubrey": {
+      "originalName": "map439.AUBREY",
+      "type": "file",
+      "base": 95775278,
+      "length": 182424
+    },
+    "map439.json": {
+      "originalName": "map439.json",
+      "type": "file",
+      "base": 95957702,
+      "length": 182408
+    },
+    "map44.aubrey": {
+      "originalName": "map44.AUBREY",
+      "type": "file",
+      "base": 96140110,
+      "length": 68553
+    },
+    "map44.json": {
+      "originalName": "map44.json",
+      "type": "file",
+      "base": 96208663,
+      "length": 68537
+    },
+    "map440.aubrey": {
+      "originalName": "map440.AUBREY",
+      "type": "file",
+      "base": 96277200,
+      "length": 94164
+    },
+    "map440.json": {
+      "originalName": "map440.json",
+      "type": "file",
+      "base": 96371364,
+      "length": 94148
+    },
+    "map441.aubrey": {
+      "originalName": "map441.AUBREY",
+      "type": "file",
+      "base": 96465512,
+      "length": 122765
+    },
+    "map441.json": {
+      "originalName": "map441.json",
+      "type": "file",
+      "base": 96588277,
+      "length": 122749
+    },
+    "map442.aubrey": {
+      "originalName": "map442.AUBREY",
+      "type": "file",
+      "base": 96711026,
+      "length": 243693
+    },
+    "map442.json": {
+      "originalName": "map442.json",
+      "type": "file",
+      "base": 96954719,
+      "length": 243677
+    },
+    "map443.aubrey": {
+      "originalName": "map443.AUBREY",
+      "type": "file",
+      "base": 97198396,
+      "length": 146413
+    },
+    "map443.json": {
+      "originalName": "map443.json",
+      "type": "file",
+      "base": 97344809,
+      "length": 146397
+    },
+    "map444.aubrey": {
+      "originalName": "map444.AUBREY",
+      "type": "file",
+      "base": 97491206,
+      "length": 41903
+    },
+    "map444.json": {
+      "originalName": "map444.json",
+      "type": "file",
+      "base": 97533109,
+      "length": 41887
+    },
+    "map445.aubrey": {
+      "originalName": "map445.AUBREY",
+      "type": "file",
+      "base": 97574996,
+      "length": 243080
+    },
+    "map445.json": {
+      "originalName": "map445.json",
+      "type": "file",
+      "base": 97818076,
+      "length": 243064
+    },
+    "map446.aubrey": {
+      "originalName": "map446.AUBREY",
+      "type": "file",
+      "base": 98061140,
+      "length": 140594
+    },
+    "map446.json": {
+      "originalName": "map446.json",
+      "type": "file",
+      "base": 98201734,
+      "length": 140578
+    },
+    "map447.aubrey": {
+      "originalName": "map447.AUBREY",
+      "type": "file",
+      "base": 98342312,
+      "length": 234120
+    },
+    "map447.json": {
+      "originalName": "map447.json",
+      "type": "file",
+      "base": 98576432,
+      "length": 234104
+    },
+    "map448.aubrey": {
+      "originalName": "map448.AUBREY",
+      "type": "file",
+      "base": 98810536,
+      "length": 241889
+    },
+    "map448.json": {
+      "originalName": "map448.json",
+      "type": "file",
+      "base": 99052425,
+      "length": 241873
+    },
+    "map449.aubrey": {
+      "originalName": "map449.AUBREY",
+      "type": "file",
+      "base": 99294298,
+      "length": 27573
+    },
+    "map449.json": {
+      "originalName": "map449.json",
+      "type": "file",
+      "base": 99321871,
+      "length": 27557
+    },
+    "map45.aubrey": {
+      "originalName": "map45.AUBREY",
+      "type": "file",
+      "base": 99349428,
+      "length": 266529
+    },
+    "map45.json": {
+      "originalName": "map45.json",
+      "type": "file",
+      "base": 99615957,
+      "length": 266513
+    },
+    "map450.aubrey": {
+      "originalName": "map450.AUBREY",
+      "type": "file",
+      "base": 99882470,
+      "length": 32741
+    },
+    "map450.json": {
+      "originalName": "map450.json",
+      "type": "file",
+      "base": 99915211,
+      "length": 32725
+    },
+    "map451.aubrey": {
+      "originalName": "map451.AUBREY",
+      "type": "file",
+      "base": 99947936,
+      "length": 22168
+    },
+    "map451.json": {
+      "originalName": "map451.json",
+      "type": "file",
+      "base": 99970104,
+      "length": 22152
+    },
+    "map452.aubrey": {
+      "originalName": "map452.AUBREY",
+      "type": "file",
+      "base": 99992256,
+      "length": 59012
+    },
+    "map452.json": {
+      "originalName": "map452.json",
+      "type": "file",
+      "base": 100051268,
+      "length": 58996
+    },
+    "map453.aubrey": {
+      "originalName": "map453.AUBREY",
+      "type": "file",
+      "base": 100110264,
+      "length": 182555
+    },
+    "map453.json": {
+      "originalName": "map453.json",
+      "type": "file",
+      "base": 100292819,
+      "length": 182539
+    },
+    "map454.aubrey": {
+      "originalName": "map454.AUBREY",
+      "type": "file",
+      "base": 100475358,
+      "length": 152964
+    },
+    "map454.json": {
+      "originalName": "map454.json",
+      "type": "file",
+      "base": 100628322,
+      "length": 152948
+    },
+    "map455.aubrey": {
+      "originalName": "map455.AUBREY",
+      "type": "file",
+      "base": 100781270,
+      "length": 154970
+    },
+    "map455.json": {
+      "originalName": "map455.json",
+      "type": "file",
+      "base": 100936240,
+      "length": 154954
+    },
+    "map456.aubrey": {
+      "originalName": "map456.AUBREY",
+      "type": "file",
+      "base": 101091194,
+      "length": 57626
+    },
+    "map456.json": {
+      "originalName": "map456.json",
+      "type": "file",
+      "base": 101148820,
+      "length": 57610
+    },
+    "map457.aubrey": {
+      "originalName": "map457.AUBREY",
+      "type": "file",
+      "base": 101206430,
+      "length": 217276
+    },
+    "map457.json": {
+      "originalName": "map457.json",
+      "type": "file",
+      "base": 101423706,
+      "length": 217260
+    },
+    "map458.aubrey": {
+      "originalName": "map458.AUBREY",
+      "type": "file",
+      "base": 101640966,
+      "length": 330753
+    },
+    "map458.json": {
+      "originalName": "map458.json",
+      "type": "file",
+      "base": 101971719,
+      "length": 330737
+    },
+    "map459.aubrey": {
+      "originalName": "map459.AUBREY",
+      "type": "file",
+      "base": 102302456,
+      "length": 315393
+    },
+    "map459.json": {
+      "originalName": "map459.json",
+      "type": "file",
+      "base": 102617849,
+      "length": 315377
+    },
+    "map46.aubrey": {
+      "originalName": "map46.AUBREY",
+      "type": "file",
+      "base": 102933226,
+      "length": 243884
+    },
+    "map46.json": {
+      "originalName": "map46.json",
+      "type": "file",
+      "base": 103177110,
+      "length": 243868
+    },
+    "map460.aubrey": {
+      "originalName": "map460.AUBREY",
+      "type": "file",
+      "base": 103420978,
+      "length": 192049
+    },
+    "map460.json": {
+      "originalName": "map460.json",
+      "type": "file",
+      "base": 103613027,
+      "length": 192033
+    },
+    "map461.aubrey": {
+      "originalName": "map461.AUBREY",
+      "type": "file",
+      "base": 103805060,
+      "length": 302639
+    },
+    "map461.json": {
+      "originalName": "map461.json",
+      "type": "file",
+      "base": 104107699,
+      "length": 302623
+    },
+    "map462.aubrey": {
+      "originalName": "map462.AUBREY",
+      "type": "file",
+      "base": 104410322,
+      "length": 13987
+    },
+    "map462.json": {
+      "originalName": "map462.json",
+      "type": "file",
+      "base": 104424309,
+      "length": 13971
+    },
+    "map463.aubrey": {
+      "originalName": "map463.AUBREY",
+      "type": "file",
+      "base": 104438280,
+      "length": 83648
+    },
+    "map463.json": {
+      "originalName": "map463.json",
+      "type": "file",
+      "base": 104521928,
+      "length": 83632
+    },
+    "map464.aubrey": {
+      "originalName": "map464.AUBREY",
+      "type": "file",
+      "base": 104605560,
+      "length": 172394
+    },
+    "map464.json": {
+      "originalName": "map464.json",
+      "type": "file",
+      "base": 104777954,
+      "length": 172378
+    },
+    "map465.aubrey": {
+      "originalName": "map465.AUBREY",
+      "type": "file",
+      "base": 104950332,
+      "length": 258455
+    },
+    "map465.json": {
+      "originalName": "map465.json",
+      "type": "file",
+      "base": 105208787,
+      "length": 258439
+    },
+    "map466.aubrey": {
+      "originalName": "map466.AUBREY",
+      "type": "file",
+      "base": 105467226,
+      "length": 109426
+    },
+    "map466.json": {
+      "originalName": "map466.json",
+      "type": "file",
+      "base": 105576652,
+      "length": 109410
+    },
+    "map467.aubrey": {
+      "originalName": "map467.AUBREY",
+      "type": "file",
+      "base": 105686062,
+      "length": 94452
+    },
+    "map467.json": {
+      "originalName": "map467.json",
+      "type": "file",
+      "base": 105780514,
+      "length": 94436
+    },
+    "map468.aubrey": {
+      "originalName": "map468.AUBREY",
+      "type": "file",
+      "base": 105874950,
+      "length": 35996
+    },
+    "map468.json": {
+      "originalName": "map468.json",
+      "type": "file",
+      "base": 105910946,
+      "length": 35980
+    },
+    "map469.aubrey": {
+      "originalName": "map469.AUBREY",
+      "type": "file",
+      "base": 105946926,
+      "length": 15791
+    },
+    "map469.json": {
+      "originalName": "map469.json",
+      "type": "file",
+      "base": 105962717,
+      "length": 15775
+    },
+    "map47.aubrey": {
+      "originalName": "map47.AUBREY",
+      "type": "file",
+      "base": 105978492,
+      "length": 243567
+    },
+    "map47.json": {
+      "originalName": "map47.json",
+      "type": "file",
+      "base": 106222059,
+      "length": 243551
+    },
+    "map470.aubrey": {
+      "originalName": "map470.AUBREY",
+      "type": "file",
+      "base": 106465610,
+      "length": 184337
+    },
+    "map470.json": {
+      "originalName": "map470.json",
+      "type": "file",
+      "base": 106649947,
+      "length": 184321
+    },
+    "map474.aubrey": {
+      "originalName": "map474.AUBREY",
+      "type": "file",
+      "base": 106834268,
+      "length": 52644
+    },
+    "map474.json": {
+      "originalName": "map474.json",
+      "type": "file",
+      "base": 106886912,
+      "length": 52628
+    },
+    "map475.aubrey": {
+      "originalName": "map475.AUBREY",
+      "type": "file",
+      "base": 106939540,
+      "length": 51071
+    },
+    "map475.json": {
+      "originalName": "map475.json",
+      "type": "file",
+      "base": 106990611,
+      "length": 51055
+    },
+    "map48.aubrey": {
+      "originalName": "map48.AUBREY",
+      "type": "file",
+      "base": 107041666,
+      "length": 243636
+    },
+    "map48.json": {
+      "originalName": "map48.json",
+      "type": "file",
+      "base": 107285302,
+      "length": 243620
+    },
+    "map483.aubrey": {
+      "originalName": "map483.AUBREY",
+      "type": "file",
+      "base": 107528922,
+      "length": 96544
+    },
+    "map483.json": {
+      "originalName": "map483.json",
+      "type": "file",
+      "base": 107625466,
+      "length": 96528
+    },
+    "map485.aubrey": {
+      "originalName": "map485.AUBREY",
+      "type": "file",
+      "base": 107721994,
+      "length": 132844
+    },
+    "map485.json": {
+      "originalName": "map485.json",
+      "type": "file",
+      "base": 107854838,
+      "length": 132828
+    },
+    "map486.aubrey": {
+      "originalName": "map486.AUBREY",
+      "type": "file",
+      "base": 107987666,
+      "length": 49553
+    },
+    "map486.json": {
+      "originalName": "map486.json",
+      "type": "file",
+      "base": 108037219,
+      "length": 49537
+    },
+    "map487.aubrey": {
+      "originalName": "map487.AUBREY",
+      "type": "file",
+      "base": 108086756,
+      "length": 81855
+    },
+    "map487.json": {
+      "originalName": "map487.json",
+      "type": "file",
+      "base": 108168611,
+      "length": 81839
+    },
+    "map489.aubrey": {
+      "originalName": "map489.AUBREY",
+      "type": "file",
+      "base": 108250450,
+      "length": 22572
+    },
+    "map489.json": {
+      "originalName": "map489.json",
+      "type": "file",
+      "base": 108273022,
+      "length": 22556
+    },
+    "map49.aubrey": {
+      "originalName": "map49.AUBREY",
+      "type": "file",
+      "base": 108295578,
+      "length": 243258
+    },
+    "map49.json": {
+      "originalName": "map49.json",
+      "type": "file",
+      "base": 108538836,
+      "length": 243242
+    },
+    "map490.aubrey": {
+      "originalName": "map490.AUBREY",
+      "type": "file",
+      "base": 108782078,
+      "length": 5942
+    },
+    "map490.json": {
+      "originalName": "map490.json",
+      "type": "file",
+      "base": 108788020,
+      "length": 5926
+    },
+    "map491.aubrey": {
+      "originalName": "map491.AUBREY",
+      "type": "file",
+      "base": 108793946,
+      "length": 5861
+    },
+    "map491.json": {
+      "originalName": "map491.json",
+      "type": "file",
+      "base": 108799807,
+      "length": 5845
+    },
+    "map492.aubrey": {
+      "originalName": "map492.AUBREY",
+      "type": "file",
+      "base": 108805652,
+      "length": 3619
+    },
+    "map492.json": {
+      "originalName": "map492.json",
+      "type": "file",
+      "base": 108809271,
+      "length": 3603
+    },
+    "map493.aubrey": {
+      "originalName": "map493.AUBREY",
+      "type": "file",
+      "base": 108812874,
+      "length": 5828
+    },
+    "map493.json": {
+      "originalName": "map493.json",
+      "type": "file",
+      "base": 108818702,
+      "length": 5812
+    },
+    "map494.aubrey": {
+      "originalName": "map494.AUBREY",
+      "type": "file",
+      "base": 108824514,
+      "length": 11909
+    },
+    "map494.json": {
+      "originalName": "map494.json",
+      "type": "file",
+      "base": 108836423,
+      "length": 11893
+    },
+    "map495.aubrey": {
+      "originalName": "map495.AUBREY",
+      "type": "file",
+      "base": 108848316,
+      "length": 383806
+    },
+    "map495.json": {
+      "originalName": "map495.json",
+      "type": "file",
+      "base": 109232122,
+      "length": 383790
+    },
+    "map496.aubrey": {
+      "originalName": "map496.AUBREY",
+      "type": "file",
+      "base": 109615912,
+      "length": 46922
+    },
+    "map496.json": {
+      "originalName": "map496.json",
+      "type": "file",
+      "base": 109662834,
+      "length": 46906
+    },
+    "map497.aubrey": {
+      "originalName": "map497.AUBREY",
+      "type": "file",
+      "base": 109709740,
+      "length": 258815
+    },
+    "map497.json": {
+      "originalName": "map497.json",
+      "type": "file",
+      "base": 109968555,
+      "length": 258799
+    },
+    "map498.aubrey": {
+      "originalName": "map498.AUBREY",
+      "type": "file",
+      "base": 110227354,
+      "length": 41884
+    },
+    "map498.json": {
+      "originalName": "map498.json",
+      "type": "file",
+      "base": 110269238,
+      "length": 41868
+    },
+    "map499.aubrey": {
+      "originalName": "map499.AUBREY",
+      "type": "file",
+      "base": 110311106,
+      "length": 80213
+    },
+    "map499.json": {
+      "originalName": "map499.json",
+      "type": "file",
+      "base": 110391319,
+      "length": 80197
+    },
+    "map5.aubrey": {
+      "originalName": "map5.AUBREY",
+      "type": "file",
+      "base": 110471516,
+      "length": 40300
+    },
+    "map5.json": {
+      "originalName": "map5.json",
+      "type": "file",
+      "base": 110511816,
+      "length": 40284
+    },
+    "map50.aubrey": {
+      "originalName": "map50.AUBREY",
+      "type": "file",
+      "base": 110552100,
+      "length": 243879
+    },
+    "map50.json": {
+      "originalName": "map50.json",
+      "type": "file",
+      "base": 110795979,
+      "length": 243863
+    },
+    "map500.aubrey": {
+      "originalName": "map500.AUBREY",
+      "type": "file",
+      "base": 111039842,
+      "length": 282949
+    },
+    "map500.json": {
+      "originalName": "map500.json",
+      "type": "file",
+      "base": 111322791,
+      "length": 282933
+    },
+    "map501.aubrey": {
+      "originalName": "map501.AUBREY",
+      "type": "file",
+      "base": 111605724,
+      "length": 58783
+    },
+    "map501.json": {
+      "originalName": "map501.json",
+      "type": "file",
+      "base": 111664507,
+      "length": 58767
+    },
+    "map502.aubrey": {
+      "originalName": "map502.AUBREY",
+      "type": "file",
+      "base": 111723274,
+      "length": 58528
+    },
+    "map502.json": {
+      "originalName": "map502.json",
+      "type": "file",
+      "base": 111781802,
+      "length": 58512
+    },
+    "map503.aubrey": {
+      "originalName": "map503.AUBREY",
+      "type": "file",
+      "base": 111840314,
+      "length": 128405
+    },
+    "map503.json": {
+      "originalName": "map503.json",
+      "type": "file",
+      "base": 111968719,
+      "length": 128389
+    },
+    "map504.aubrey": {
+      "originalName": "map504.AUBREY",
+      "type": "file",
+      "base": 112097108,
+      "length": 63097
+    },
+    "map504.json": {
+      "originalName": "map504.json",
+      "type": "file",
+      "base": 112160205,
+      "length": 63081
+    },
+    "map505.aubrey": {
+      "originalName": "map505.AUBREY",
+      "type": "file",
+      "base": 112223286,
+      "length": 474060
+    },
+    "map505.json": {
+      "originalName": "map505.json",
+      "type": "file",
+      "base": 112697346,
+      "length": 474044
+    },
+    "map506.aubrey": {
+      "originalName": "map506.AUBREY",
+      "type": "file",
+      "base": 113171390,
+      "length": 95538
+    },
+    "map506.json": {
+      "originalName": "map506.json",
+      "type": "file",
+      "base": 113266928,
+      "length": 95522
+    },
+    "map507.aubrey": {
+      "originalName": "map507.AUBREY",
+      "type": "file",
+      "base": 113362450,
+      "length": 489985
+    },
+    "map507.json": {
+      "originalName": "map507.json",
+      "type": "file",
+      "base": 113852435,
+      "length": 489969
+    },
+    "map508.aubrey": {
+      "originalName": "map508.AUBREY",
+      "type": "file",
+      "base": 114342404,
+      "length": 356595
+    },
+    "map508.json": {
+      "originalName": "map508.json",
+      "type": "file",
+      "base": 114698999,
+      "length": 356579
+    },
+    "map509.aubrey": {
+      "originalName": "map509.AUBREY",
+      "type": "file",
+      "base": 115055578,
+      "length": 51617
+    },
+    "map509.json": {
+      "originalName": "map509.json",
+      "type": "file",
+      "base": 115107195,
+      "length": 51601
+    },
+    "map51.aubrey": {
+      "originalName": "map51.AUBREY",
+      "type": "file",
+      "base": 115158796,
+      "length": 243576
+    },
+    "map51.json": {
+      "originalName": "map51.json",
+      "type": "file",
+      "base": 115402372,
+      "length": 243560
+    },
+    "map510.aubrey": {
+      "originalName": "map510.AUBREY",
+      "type": "file",
+      "base": 115645932,
+      "length": 90552
+    },
+    "map510.json": {
+      "originalName": "map510.json",
+      "type": "file",
+      "base": 115736484,
+      "length": 90536
+    },
+    "map511.aubrey": {
+      "originalName": "map511.AUBREY",
+      "type": "file",
+      "base": 115827020,
+      "length": 49118
+    },
+    "map511.json": {
+      "originalName": "map511.json",
+      "type": "file",
+      "base": 115876138,
+      "length": 49102
+    },
+    "map512.aubrey": {
+      "originalName": "map512.AUBREY",
+      "type": "file",
+      "base": 115925240,
+      "length": 48830
+    },
+    "map512.json": {
+      "originalName": "map512.json",
+      "type": "file",
+      "base": 115974070,
+      "length": 48814
+    },
+    "map514.aubrey": {
+      "originalName": "map514.AUBREY",
+      "type": "file",
+      "base": 116022884,
+      "length": 57693
+    },
+    "map514.json": {
+      "originalName": "map514.json",
+      "type": "file",
+      "base": 116080577,
+      "length": 57677
+    },
+    "map52.aubrey": {
+      "originalName": "map52.AUBREY",
+      "type": "file",
+      "base": 116138254,
+      "length": 243750
+    },
+    "map52.json": {
+      "originalName": "map52.json",
+      "type": "file",
+      "base": 116382004,
+      "length": 243734
+    },
+    "map53.aubrey": {
+      "originalName": "map53.AUBREY",
+      "type": "file",
+      "base": 116625738,
+      "length": 243359
+    },
+    "map53.json": {
+      "originalName": "map53.json",
+      "type": "file",
+      "base": 116869097,
+      "length": 243343
+    },
+    "map54.aubrey": {
+      "originalName": "map54.AUBREY",
+      "type": "file",
+      "base": 117112440,
+      "length": 65329
+    },
+    "map54.json": {
+      "originalName": "map54.json",
+      "type": "file",
+      "base": 117177769,
+      "length": 65313
+    },
+    "map55.aubrey": {
+      "originalName": "map55.AUBREY",
+      "type": "file",
+      "base": 117243082,
+      "length": 93826
+    },
+    "map55.json": {
+      "originalName": "map55.json",
+      "type": "file",
+      "base": 117336908,
+      "length": 93810
+    },
+    "map56.aubrey": {
+      "originalName": "map56.AUBREY",
+      "type": "file",
+      "base": 117430718,
+      "length": 71586
+    },
+    "map56.json": {
+      "originalName": "map56.json",
+      "type": "file",
+      "base": 117502304,
+      "length": 71570
+    },
+    "map57.aubrey": {
+      "originalName": "map57.AUBREY",
+      "type": "file",
+      "base": 117573874,
+      "length": 25631
+    },
+    "map57.json": {
+      "originalName": "map57.json",
+      "type": "file",
+      "base": 117599505,
+      "length": 25615
+    },
+    "map58.aubrey": {
+      "originalName": "map58.AUBREY",
+      "type": "file",
+      "base": 117625120,
+      "length": 21567
+    },
+    "map58.json": {
+      "originalName": "map58.json",
+      "type": "file",
+      "base": 117646687,
+      "length": 21551
+    },
+    "map59.aubrey": {
+      "originalName": "map59.AUBREY",
+      "type": "file",
+      "base": 117668238,
+      "length": 39690
+    },
+    "map59.json": {
+      "originalName": "map59.json",
+      "type": "file",
+      "base": 117707928,
+      "length": 39674
+    },
+    "map6.aubrey": {
+      "originalName": "map6.AUBREY",
+      "type": "file",
+      "base": 117747602,
+      "length": 40300
+    },
+    "map6.json": {
+      "originalName": "map6.json",
+      "type": "file",
+      "base": 117787902,
+      "length": 40284
+    },
+    "map60.aubrey": {
+      "originalName": "map60.AUBREY",
+      "type": "file",
+      "base": 117828186,
+      "length": 28316
+    },
+    "map60.json": {
+      "originalName": "map60.json",
+      "type": "file",
+      "base": 117856502,
+      "length": 28300
+    },
+    "map61.aubrey": {
+      "originalName": "map61.AUBREY",
+      "type": "file",
+      "base": 117884802,
+      "length": 24333
+    },
+    "map61.json": {
+      "originalName": "map61.json",
+      "type": "file",
+      "base": 117909135,
+      "length": 24317
+    },
+    "map62.aubrey": {
+      "originalName": "map62.AUBREY",
+      "type": "file",
+      "base": 117933452,
+      "length": 23044
+    },
+    "map62.json": {
+      "originalName": "map62.json",
+      "type": "file",
+      "base": 117956496,
+      "length": 23028
+    },
+    "map63.aubrey": {
+      "originalName": "map63.AUBREY",
+      "type": "file",
+      "base": 117979524,
+      "length": 132322
+    },
+    "map63.json": {
+      "originalName": "map63.json",
+      "type": "file",
+      "base": 118111846,
+      "length": 132306
+    },
+    "map64.aubrey": {
+      "originalName": "map64.AUBREY",
+      "type": "file",
+      "base": 118244152,
+      "length": 65305
+    },
+    "map64.json": {
+      "originalName": "map64.json",
+      "type": "file",
+      "base": 118309457,
+      "length": 65289
+    },
+    "map65.aubrey": {
+      "originalName": "map65.AUBREY",
+      "type": "file",
+      "base": 118374746,
+      "length": 93836
+    },
+    "map65.json": {
+      "originalName": "map65.json",
+      "type": "file",
+      "base": 118468582,
+      "length": 93820
+    },
+    "map66.aubrey": {
+      "originalName": "map66.AUBREY",
+      "type": "file",
+      "base": 118562402,
+      "length": 66720
+    },
+    "map66.json": {
+      "originalName": "map66.json",
+      "type": "file",
+      "base": 118629122,
+      "length": 66704
+    },
+    "map67.aubrey": {
+      "originalName": "map67.AUBREY",
+      "type": "file",
+      "base": 118695826,
+      "length": 25635
+    },
+    "map67.json": {
+      "originalName": "map67.json",
+      "type": "file",
+      "base": 118721461,
+      "length": 25619
+    },
+    "map68.aubrey": {
+      "originalName": "map68.AUBREY",
+      "type": "file",
+      "base": 118747080,
+      "length": 21563
+    },
+    "map68.json": {
+      "originalName": "map68.json",
+      "type": "file",
+      "base": 118768643,
+      "length": 21547
+    },
+    "map69.aubrey": {
+      "originalName": "map69.AUBREY",
+      "type": "file",
+      "base": 118790190,
+      "length": 36833
+    },
+    "map69.json": {
+      "originalName": "map69.json",
+      "type": "file",
+      "base": 118827023,
+      "length": 36817
+    },
+    "map697.aubrey": {
+      "originalName": "map697.AUBREY",
+      "type": "file",
+      "base": 118863840,
+      "length": 26245
+    },
+    "map697.json": {
+      "originalName": "map697.json",
+      "type": "file",
+      "base": 118890085,
+      "length": 26229
+    },
+    "map70.aubrey": {
+      "originalName": "map70.AUBREY",
+      "type": "file",
+      "base": 118916314,
+      "length": 28449
+    },
+    "map70.json": {
+      "originalName": "map70.json",
+      "type": "file",
+      "base": 118944763,
+      "length": 28433
+    },
+    "map71.aubrey": {
+      "originalName": "map71.AUBREY",
+      "type": "file",
+      "base": 118973196,
+      "length": 24302
+    },
+    "map71.json": {
+      "originalName": "map71.json",
+      "type": "file",
+      "base": 118997498,
+      "length": 24286
+    },
+    "map72.aubrey": {
+      "originalName": "map72.AUBREY",
+      "type": "file",
+      "base": 119021784,
+      "length": 21538
+    },
+    "map72.json": {
+      "originalName": "map72.json",
+      "type": "file",
+      "base": 119043322,
+      "length": 21522
+    },
+    "map73.aubrey": {
+      "originalName": "map73.AUBREY",
+      "type": "file",
+      "base": 119064844,
+      "length": 132516
+    },
+    "map73.json": {
+      "originalName": "map73.json",
+      "type": "file",
+      "base": 119197360,
+      "length": 132500
+    },
+    "map74.aubrey": {
+      "originalName": "map74.AUBREY",
+      "type": "file",
+      "base": 119329860,
+      "length": 78339
+    },
+    "map74.json": {
+      "originalName": "map74.json",
+      "type": "file",
+      "base": 119408199,
+      "length": 78323
+    },
+    "map75.aubrey": {
+      "originalName": "map75.AUBREY",
+      "type": "file",
+      "base": 119486522,
+      "length": 64104
+    },
+    "map75.json": {
+      "originalName": "map75.json",
+      "type": "file",
+      "base": 119550626,
+      "length": 64088
+    },
+    "map76.aubrey": {
+      "originalName": "map76.AUBREY",
+      "type": "file",
+      "base": 119614714,
+      "length": 66654
+    },
+    "map76.json": {
+      "originalName": "map76.json",
+      "type": "file",
+      "base": 119681368,
+      "length": 66638
+    },
+    "map78.aubrey": {
+      "originalName": "map78.AUBREY",
+      "type": "file",
+      "base": 119748006,
+      "length": 302846
+    },
+    "map78.json": {
+      "originalName": "map78.json",
+      "type": "file",
+      "base": 120050852,
+      "length": 302830
+    },
+    "map79.aubrey": {
+      "originalName": "map79.AUBREY",
+      "type": "file",
+      "base": 120353682,
+      "length": 325504
+    },
+    "map79.json": {
+      "originalName": "map79.json",
+      "type": "file",
+      "base": 120679186,
+      "length": 325488
+    },
+    "map80.aubrey": {
+      "originalName": "map80.AUBREY",
+      "type": "file",
+      "base": 121004674,
+      "length": 244160
+    },
+    "map80.json": {
+      "originalName": "map80.json",
+      "type": "file",
+      "base": 121248834,
+      "length": 244144
+    },
+    "map81.aubrey": {
+      "originalName": "map81.AUBREY",
+      "type": "file",
+      "base": 121492978,
+      "length": 112218
+    },
+    "map81.json": {
+      "originalName": "map81.json",
+      "type": "file",
+      "base": 121605196,
+      "length": 112202
+    },
+    "map82.aubrey": {
+      "originalName": "map82.AUBREY",
+      "type": "file",
+      "base": 121717398,
+      "length": 21564
+    },
+    "map82.json": {
+      "originalName": "map82.json",
+      "type": "file",
+      "base": 121738962,
+      "length": 21548
+    },
+    "map83.aubrey": {
+      "originalName": "map83.AUBREY",
+      "type": "file",
+      "base": 121760510,
+      "length": 124628
+    },
+    "map83.json": {
+      "originalName": "map83.json",
+      "type": "file",
+      "base": 121885138,
+      "length": 124612
+    },
+    "map84.aubrey": {
+      "originalName": "map84.AUBREY",
+      "type": "file",
+      "base": 122009750,
+      "length": 65329
+    },
+    "map84.json": {
+      "originalName": "map84.json",
+      "type": "file",
+      "base": 122075079,
+      "length": 65313
+    },
+    "map85.aubrey": {
+      "originalName": "map85.AUBREY",
+      "type": "file",
+      "base": 122140392,
+      "length": 40632
+    },
+    "map85.json": {
+      "originalName": "map85.json",
+      "type": "file",
+      "base": 122181024,
+      "length": 40616
+    },
+    "map87.aubrey": {
+      "originalName": "map87.AUBREY",
+      "type": "file",
+      "base": 122221640,
+      "length": 52663
+    },
+    "map87.json": {
+      "originalName": "map87.json",
+      "type": "file",
+      "base": 122274303,
+      "length": 52647
+    },
+    "map88.aubrey": {
+      "originalName": "map88.AUBREY",
+      "type": "file",
+      "base": 122326950,
+      "length": 26394
+    },
+    "map88.json": {
+      "originalName": "map88.json",
+      "type": "file",
+      "base": 122353344,
+      "length": 26378
+    },
+    "map89.aubrey": {
+      "originalName": "map89.AUBREY",
+      "type": "file",
+      "base": 122379722,
+      "length": 20855
+    },
+    "map89.json": {
+      "originalName": "map89.json",
+      "type": "file",
+      "base": 122400577,
+      "length": 20839
+    },
+    "map90.aubrey": {
+      "originalName": "map90.AUBREY",
+      "type": "file",
+      "base": 122421416,
+      "length": 83061
+    },
+    "map90.json": {
+      "originalName": "map90.json",
+      "type": "file",
+      "base": 122504477,
+      "length": 83045
+    },
+    "map91.aubrey": {
+      "originalName": "map91.AUBREY",
+      "type": "file",
+      "base": 122587522,
+      "length": 32294
+    },
+    "map91.json": {
+      "originalName": "map91.json",
+      "type": "file",
+      "base": 122619816,
+      "length": 32278
+    },
+    "map92.aubrey": {
+      "originalName": "map92.AUBREY",
+      "type": "file",
+      "base": 122652094,
+      "length": 79981
+    },
+    "map92.json": {
+      "originalName": "map92.json",
+      "type": "file",
+      "base": 122732075,
+      "length": 79965
+    },
+    "map95.aubrey": {
+      "originalName": "map95.AUBREY",
+      "type": "file",
+      "base": 122812040,
+      "length": 179707
+    },
+    "map95.json": {
+      "originalName": "map95.json",
+      "type": "file",
+      "base": 122991747,
+      "length": 179691
+    },
+    "map96.aubrey": {
+      "originalName": "map96.AUBREY",
+      "type": "file",
+      "base": 123171438,
+      "length": 80055
+    },
+    "map96.json": {
+      "originalName": "map96.json",
+      "type": "file",
+      "base": 123251493,
+      "length": 80039
+    },
+    "map97.aubrey": {
+      "originalName": "map97.AUBREY",
+      "type": "file",
+      "base": 123331532,
+      "length": 33714
+    },
+    "map97.json": {
+      "originalName": "map97.json",
+      "type": "file",
+      "base": 123365246,
+      "length": 33698
+    },
+    "map98.aubrey": {
+      "originalName": "map98.AUBREY",
+      "type": "file",
+      "base": 123398944,
+      "length": 50060
+    },
+    "map98.json": {
+      "originalName": "map98.json",
+      "type": "file",
+      "base": 123449004,
+      "length": 50044
+    },
+    "map99.aubrey": {
+      "originalName": "map99.AUBREY",
+      "type": "file",
+      "base": 123499048,
+      "length": 220995
+    },
+    "map99.json": {
+      "originalName": "map99.json",
+      "type": "file",
+      "base": 123720043,
+      "length": 220979
+    },
+    "map999.aubrey": {
+      "originalName": "map999.AUBREY",
+      "type": "file",
+      "base": 123941022,
+      "length": 3397
+    },
+    "map999.json": {
+      "originalName": "map999.json",
+      "type": "file",
+      "base": 123944419,
+      "length": 3381
+    },
+    "moon.aubrey": {
+      "originalName": "moon.AUBREY",
+      "type": "file",
+      "base": 123947800,
+      "length": 237
+    },
+    "moon.json": {
+      "originalName": "moon.json",
+      "type": "file",
+      "base": 123948037,
+      "length": 221
+    },
+    "mushman.aubrey": {
+      "originalName": "mushman.AUBREY",
+      "type": "file",
+      "base": 123948258,
+      "length": 227295
+    },
+    "mushman.json": {
+      "originalName": "mushman.json",
+      "type": "file",
+      "base": 124175553,
+      "length": 227279
+    },
+    "north_coast.aubrey": {
+      "originalName": "north_coast.AUBREY",
+      "type": "file",
+      "base": 124402832,
+      "length": 46504
+    },
+    "north_coast.json": {
+      "originalName": "north_coast.json",
+      "type": "file",
+      "base": 124449336,
+      "length": 46488
+    },
+    "petmanneqinrooms.aubrey": {
+      "originalName": "petmanneqinrooms.AUBREY",
+      "type": "file",
+      "base": 124495824,
+      "length": 141197
+    },
+    "petmanneqinrooms.json": {
+      "originalName": "petmanneqinrooms.json",
+      "type": "file",
+      "base": 124637021,
+      "length": 141181
+    },
+    "playerhouseempty.aubrey": {
+      "originalName": "PLAYERHOUSEEMPTY.AUBREY",
+      "type": "file",
+      "base": 124778202,
+      "length": 302297
+    },
+    "playerhouseempty.json": {
+      "originalName": "PLAYERHOUSEEMPTY.json",
+      "type": "file",
+      "base": 125080499,
+      "length": 302281
+    },
+    "rococoroom.aubrey": {
+      "originalName": "rococoroom.AUBREY",
+      "type": "file",
+      "base": 125382780,
+      "length": 80213
+    },
+    "rococoroom.json": {
+      "originalName": "rococoroom.json",
+      "type": "file",
+      "base": 125462993,
+      "length": 80197
+    },
+    "scribble_room.aubrey": {
+      "originalName": "scribble_room.AUBREY",
+      "type": "file",
+      "base": 125543190,
+      "length": 318803
+    },
+    "scribble_room.json": {
+      "originalName": "scribble_room.json",
+      "type": "file",
+      "base": 125861993,
+      "length": 318787
+    },
+    "sgl_test.aubrey": {
+      "originalName": "sgl_test.AUBREY",
+      "type": "file",
+      "base": 126180780,
+      "length": 240
+    },
+    "sgl_test.json": {
+      "originalName": "sgl_test.json",
+      "type": "file",
+      "base": 126181020,
+      "length": 224
+    },
+    "swbalcony.aubrey": {
+      "originalName": "swbalcony.AUBREY",
+      "type": "file",
+      "base": 126181244,
+      "length": 37661
+    },
+    "swbalcony.json": {
+      "originalName": "swbalcony.json",
+      "type": "file",
+      "base": 126218905,
+      "length": 37645
+    },
+    "sweetheartelevator.aubrey": {
+      "originalName": "sweetheartelevator.AUBREY",
+      "type": "file",
+      "base": 126256550,
+      "length": 26066
+    },
+    "sweetheartelevator.json": {
+      "originalName": "sweetheartelevator.json",
+      "type": "file",
+      "base": 126282616,
+      "length": 26050
+    },
+    "sweetheartgarden.aubrey": {
+      "originalName": "sweetheartgarden.AUBREY",
+      "type": "file",
+      "base": 126308666,
+      "length": 177324
+    },
+    "sweetheartgarden.json": {
+      "originalName": "sweetheartgarden.json",
+      "type": "file",
+      "base": 126485990,
+      "length": 177308
+    },
+    "terraintiles.aubrey": {
+      "originalName": "TerrainTiles.AUBREY",
+      "type": "file",
+      "base": 126663298,
+      "length": 61871
+    },
+    "terraintiles.json": {
+      "originalName": "TerrainTiles.json",
+      "type": "file",
+      "base": 126725169,
+      "length": 61855
+    },
+    "tile_collisions_32x32.aubrey": {
+      "originalName": "Tile_Collisions_32x32.AUBREY",
+      "type": "file",
+      "base": 126787024,
+      "length": 2525
+    },
+    "tile_collisions_32x32.json": {
+      "originalName": "Tile_Collisions_32x32.json",
+      "type": "file",
+      "base": 126789549,
+      "length": 2509
+    },
+    "tile_flags_32x32.aubrey": {
+      "originalName": "Tile_Flags_32x32.AUBREY",
+      "type": "file",
+      "base": 126792058,
+      "length": 842
+    },
+    "tile_flags_32x32.json": {
+      "originalName": "Tile_Flags_32x32.json",
+      "type": "file",
+      "base": 126792900,
+      "length": 826
+    },
+    "tile_regions_32x32.aubrey": {
+      "originalName": "Tile_Regions_32x32.AUBREY",
+      "type": "file",
+      "base": 126793726,
+      "length": 263
+    },
+    "tile_regions_32x32.json": {
+      "originalName": "Tile_Regions_32x32.json",
+      "type": "file",
+      "base": 126793989,
+      "length": 247
+    },
+    "treehousepresent.aubrey": {
+      "originalName": "treehousepresent.AUBREY",
+      "type": "file",
+      "base": 126794236,
+      "length": 14111
+    },
+    "treehousepresent.json": {
+      "originalName": "treehousepresent.json",
+      "type": "file",
+      "base": 126808347,
+      "length": 14095
+    }
+  }
+}

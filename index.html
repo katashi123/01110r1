@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="user-scalable=no">
+    <link rel="icon" href="icon/icon.png" type="image/png">
+    <link rel="apple-touch-icon" href="icon/icon.png">
+    <link rel="stylesheet" type="text/css" href="fonts/gamefont.css">
+    <title>OMORI</title>
+</head>
+
+<body style="background-color: black">
+    <pre id="progress-reporter" style="font-size: 12px; color: white;"></pre>
+    <script type="text/javascript" src="buffer.js"></script>
+    <script type="text/javascript" src="fakeProcess.js"></script>
+    <script type="text/javascript" src="pako.js"></script>
+    <script type="text/javascript" src="path.js"></script>
+    <script type="text/javascript" src="vfs.js"></script>
+    <script type="text/javascript" src="vfs-backed-image.js"></script>
+    <script type="text/javascript" src="require.js"></script>
+    <script type="text/javascript">
+        (async function init() {
+            await vfs.mount("/www/js", new SyncFromPackFilesystem("js.pack"));
+            await vfs.mount("/www/data", new SyncFromPackFilesystem("data.pack"));
+            await vfs.mount("/www/languages", new SyncFromPackFilesystem("languages.pack"));
+            await vfs.mount("/www/maps", new SyncFromPackFilesystem("maps.pack"));
+            await vfs.mount("/www/fonts", new BasicMemoryBackedFilesystem());
+            await vfs.mount("/www/icon", new BasicMemoryBackedFilesystem());
+            await vfs.mount("/www/movies", new BasicMemoryBackedFilesystem());
+            await vfs.mount("/www/audio", new AsyncFromPackFilesystem("audio.pack"));
+            await vfs.mount("/www/img", new AsyncFromPackFilesystem("img.pack"));
+            await vfs.mount("/www/audio", new BasicMemoryBackedFilesystem(), true);
+            await vfs.mount("/www/img", new BasicMemoryBackedFilesystem(), true);
+            await vfs.mount("/www/js/plugins", new SingleFilePatch("steam_bypass.pack"));
+            await vfs.mount("/appdata", new LocalstorageFilesystem("appdata"));
+            await vfs.mount("/www/save", new LocalstorageFilesystem("save"));
+
+            let scripts = ["js/libs/pixi.js","js/libs/pixi-tilemap.js","js/libs/pixi-picture.js","js/libs/lz-string.js","js/libs/iphone-inline-video.browser.js","js/rpg_core.js","js/rpg_managers.js","js/rpg_objects.js","js/rpg_scenes.js","js/rpg_sprites.js","js/rpg_windows.js","js/plugins.js","js/main.js"];
+            for (let script of scripts) {
+                let z = vfs.readSync("/www/" + script);
+                if (script === "js/main.js") {
+                    console.log("ę");
+                }
+                let code = Buffer.from(z).toString("utf-8");
+
+                if (script === "gomori/gomori.js") {
+                    console.log("Patched modloader");
+                    code = `${code}; window.$modLoader = $modLoader;`;
+                }
+                eval.bind(window)(code);
+            }
+
+            window.onload();
+
+            document.querySelector("#progress-reporter").remove();
+        })();
+    </script>
+</body>
+
+</html>

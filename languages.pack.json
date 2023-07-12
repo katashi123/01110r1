@@ -1,0 +1,2750 @@
+{
+  "mountPoint": "/www/languages",
+  "type": "sync",
+  "binary": "languages.pack.bin",
+  "compress": true,
+  "children": {
+    "badgedata_aowvn.yaml": {
+      "originalName": "badgedata_aowvn.yaml",
+      "type": "file",
+      "base": 0,
+      "length": 6747
+    },
+    "badgedata_vanilla.yaml": {
+      "originalName": "badgedata_vanilla.yaml",
+      "type": "file",
+      "base": 6747,
+      "length": 14083
+    },
+    "badgedata_vanilla.yaml.bak": {
+      "originalName": "badgedata_vanilla.yaml.bak",
+      "type": "file",
+      "base": 20830,
+      "length": 13911
+    },
+    "en": {
+      "originalName": "en",
+      "type": "dir",
+      "children": {
+        "00_template.hero": {
+          "originalName": "00_template.HERO",
+          "type": "file",
+          "base": 34741,
+          "length": 593
+        },
+        "00_template.yaml": {
+          "originalName": "00_template.yaml",
+          "type": "file",
+          "base": 35334,
+          "length": 577
+        },
+        "01_cutscenes_neighbors.hero": {
+          "originalName": "01_cutscenes_neighbors.HERO",
+          "type": "file",
+          "base": 35911,
+          "length": 16762
+        },
+        "01_cutscenes_neighbors.yaml": {
+          "originalName": "01_cutscenes_neighbors.yaml",
+          "type": "file",
+          "base": 52673,
+          "length": 16746
+        },
+        "01_map_whitespace.hero": {
+          "originalName": "01_map_whitespace.HERO",
+          "type": "file",
+          "base": 69419,
+          "length": 5781
+        },
+        "01_map_whitespace.yaml": {
+          "originalName": "01_map_whitespace.yaml",
+          "type": "file",
+          "base": 75200,
+          "length": 5765
+        },
+        "02_cutscenes_hideandseek.hero": {
+          "originalName": "02_cutscenes_hideandseek.HERO",
+          "type": "file",
+          "base": 80965,
+          "length": 676
+        },
+        "02_cutscenes_hideandseek.yaml": {
+          "originalName": "02_cutscenes_hideandseek.yaml",
+          "type": "file",
+          "base": 81641,
+          "length": 660
+        },
+        "02_cutscenes_lostball.hero": {
+          "originalName": "02_cutscenes_lostball.HERO",
+          "type": "file",
+          "base": 82301,
+          "length": 7905
+        },
+        "02_cutscenes_lostball.yaml": {
+          "originalName": "02_cutscenes_lostball.yaml",
+          "type": "file",
+          "base": 90206,
+          "length": 7889
+        },
+        "02_map_neighborsroom.hero": {
+          "originalName": "02_map_neighborsroom.HERO",
+          "type": "file",
+          "base": 98095,
+          "length": 3768
+        },
+        "02_map_neighborsroom.yaml": {
+          "originalName": "02_map_neighborsroom.yaml",
+          "type": "file",
+          "base": 101863,
+          "length": 3752
+        },
+        "03_cutscenes_basil.hero": {
+          "originalName": "03_cutscenes_basil.HERO",
+          "type": "file",
+          "base": 105615,
+          "length": 9819
+        },
+        "03_cutscenes_basil.yaml": {
+          "originalName": "03_cutscenes_basil.yaml",
+          "type": "file",
+          "base": 115434,
+          "length": 9803
+        },
+        "04_cutscenes_blackletters.hero": {
+          "originalName": "04_cutscenes_blackletters.HERO",
+          "type": "file",
+          "base": 125237,
+          "length": 8818
+        },
+        "04_cutscenes_blackletters.yaml": {
+          "originalName": "04_cutscenes_blackletters.yaml",
+          "type": "file",
+          "base": 134055,
+          "length": 8802
+        },
+        "05_cutscenes_spaceboyfriend.hero": {
+          "originalName": "05_cutscenes_spaceboyfriend.HERO",
+          "type": "file",
+          "base": 142857,
+          "length": 13603
+        },
+        "05_cutscenes_spaceboyfriend.yaml": {
+          "originalName": "05_cutscenes_spaceboyfriend.yaml",
+          "type": "file",
+          "base": 156460,
+          "length": 13587
+        },
+        "06_cutscenes_junkyard.hero": {
+          "originalName": "06_cutscenes_junkyard.HERO",
+          "type": "file",
+          "base": 170047,
+          "length": 14834
+        },
+        "06_cutscenes_junkyard.yaml": {
+          "originalName": "06_cutscenes_junkyard.yaml",
+          "type": "file",
+          "base": 184881,
+          "length": 14818
+        },
+        "07_cutscenes_spaceexboyfriend.hero": {
+          "originalName": "07_cutscenes_spaceexboyfriend.HERO",
+          "type": "file",
+          "base": 199699,
+          "length": 7664
+        },
+        "07_cutscenes_spaceexboyfriend.yaml": {
+          "originalName": "07_cutscenes_spaceexboyfriend.yaml",
+          "type": "file",
+          "base": 207363,
+          "length": 7648
+        },
+        "08_cutscenes_captspaceboy.hero": {
+          "originalName": "08_cutscenes_captspaceboy.HERO",
+          "type": "file",
+          "base": 215011,
+          "length": 9125
+        },
+        "08_cutscenes_captspaceboy.yaml": {
+          "originalName": "08_cutscenes_captspaceboy.yaml",
+          "type": "file",
+          "base": 224136,
+          "length": 9109
+        },
+        "09_cutscenes_hobbeez.hero": {
+          "originalName": "09_cutscenes_hobbeez.HERO",
+          "type": "file",
+          "base": 233245,
+          "length": 8669
+        },
+        "09_cutscenes_hobbeez.yaml": {
+          "originalName": "09_cutscenes_hobbeez.yaml",
+          "type": "file",
+          "base": 241914,
+          "length": 8653
+        },
+        "10_cutscenes_fakeknifefight.hero": {
+          "originalName": "10_cutscenes_fakeknifefight.HERO",
+          "type": "file",
+          "base": 250567,
+          "length": 9849
+        },
+        "10_cutscenes_fakeknifefight.yaml": {
+          "originalName": "10_cutscenes_fakeknifefight.yaml",
+          "type": "file",
+          "base": 260416,
+          "length": 9833
+        },
+        "11_cutscenes_stolenalbum_pt1.hero": {
+          "originalName": "11_cutscenes_stolenalbum_pt1.HERO",
+          "type": "file",
+          "base": 270249,
+          "length": 17148
+        },
+        "11_cutscenes_stolenalbum_pt1.yaml": {
+          "originalName": "11_cutscenes_stolenalbum_pt1.yaml",
+          "type": "file",
+          "base": 287397,
+          "length": 17132
+        },
+        "12_cutscenes_stolenalbum_pt2.hero": {
+          "originalName": "12_cutscenes_stolenalbum_pt2.HERO",
+          "type": "file",
+          "base": 304529,
+          "length": 25472
+        },
+        "12_cutscenes_stolenalbum_pt2.yaml": {
+          "originalName": "12_cutscenes_stolenalbum_pt2.yaml",
+          "type": "file",
+          "base": 330001,
+          "length": 25456
+        },
+        "13_cutscenes_dinneratbasils.hero": {
+          "originalName": "13_cutscenes_dinneratbasils.HERO",
+          "type": "file",
+          "base": 355457,
+          "length": 17180
+        },
+        "13_cutscenes_dinneratbasils.yaml": {
+          "originalName": "13_cutscenes_dinneratbasils.yaml",
+          "type": "file",
+          "base": 372637,
+          "length": 17164
+        },
+        "14_cutscenes_sweetheartquest.hero": {
+          "originalName": "14_cutscenes_sweetheartquest.HERO",
+          "type": "file",
+          "base": 389801,
+          "length": 15652
+        },
+        "14_cutscenes_sweetheartquest.yaml": {
+          "originalName": "14_cutscenes_sweetheartquest.yaml",
+          "type": "file",
+          "base": 405453,
+          "length": 15636
+        },
+        "15_cutscenes_herothebachelor.hero": {
+          "originalName": "15_cutscenes_herothebachelor.HERO",
+          "type": "file",
+          "base": 421089,
+          "length": 19180
+        },
+        "15_cutscenes_herothebachelor.yaml": {
+          "originalName": "15_cutscenes_herothebachelor.yaml",
+          "type": "file",
+          "base": 440269,
+          "length": 19164
+        },
+        "16_cutscenes_thewedding.hero": {
+          "originalName": "16_cutscenes_thewedding.HERO",
+          "type": "file",
+          "base": 459433,
+          "length": 14941
+        },
+        "16_cutscenes_thewedding.yaml": {
+          "originalName": "16_cutscenes_thewedding.yaml",
+          "type": "file",
+          "base": 474374,
+          "length": 14925
+        },
+        "17_cutscenes_pollysworry.hero": {
+          "originalName": "17_cutscenes_pollysworry.HERO",
+          "type": "file",
+          "base": 489299,
+          "length": 12025
+        },
+        "17_cutscenes_pollysworry.yaml": {
+          "originalName": "17_cutscenes_pollysworry.yaml",
+          "type": "file",
+          "base": 501324,
+          "length": 12009
+        },
+        "18_cutscenes_secretlake.hero": {
+          "originalName": "18_cutscenes_secretlake.HERO",
+          "type": "file",
+          "base": 513333,
+          "length": 17822
+        },
+        "18_cutscenes_secretlake.yaml": {
+          "originalName": "18_cutscenes_secretlake.yaml",
+          "type": "file",
+          "base": 531155,
+          "length": 17806
+        },
+        "19_cutscenes_kelshouse.hero": {
+          "originalName": "19_cutscenes_kelshouse.HERO",
+          "type": "file",
+          "base": 548961,
+          "length": 10340
+        },
+        "19_cutscenes_kelshouse.yaml": {
+          "originalName": "19_cutscenes_kelshouse.yaml",
+          "type": "file",
+          "base": 559301,
+          "length": 10324
+        },
+        "20_cutscenes_sleepover.hero": {
+          "originalName": "20_cutscenes_sleepover.HERO",
+          "type": "file",
+          "base": 569625,
+          "length": 11449
+        },
+        "20_cutscenes_sleepover.yaml": {
+          "originalName": "20_cutscenes_sleepover.yaml",
+          "type": "file",
+          "base": 581074,
+          "length": 11433
+        },
+        "21_cutscenes_lastresort.hero": {
+          "originalName": "21_cutscenes_lastresort.HERO",
+          "type": "file",
+          "base": 592507,
+          "length": 31974
+        },
+        "21_cutscenes_lastresort.yaml": {
+          "originalName": "21_cutscenes_lastresort.yaml",
+          "type": "file",
+          "base": 624481,
+          "length": 31958
+        },
+        "21_cutscenes_lastresort.yaml.bak": {
+          "originalName": "21_cutscenes_lastresort.yaml.bak",
+          "type": "file",
+          "base": 656439,
+          "length": 31896
+        },
+        "22_cutscenes_humphrey.hero": {
+          "originalName": "22_cutscenes_humphrey.HERO",
+          "type": "file",
+          "base": 688335,
+          "length": 8458
+        },
+        "22_cutscenes_humphrey.yaml": {
+          "originalName": "22_cutscenes_humphrey.yaml",
+          "type": "file",
+          "base": 696793,
+          "length": 8442
+        },
+        "23_cutscenes_slimegirls.hero": {
+          "originalName": "23_cutscenes_slimegirls.HERO",
+          "type": "file",
+          "base": 705235,
+          "length": 10136
+        },
+        "23_cutscenes_slimegirls.yaml": {
+          "originalName": "23_cutscenes_slimegirls.yaml",
+          "type": "file",
+          "base": 715371,
+          "length": 10120
+        },
+        "23_cutscenes_slimegirls.yaml.bak": {
+          "originalName": "23_cutscenes_slimegirls.yaml.bak",
+          "type": "file",
+          "base": 725491,
+          "length": 10044
+        },
+        "24_cutscenes_finalboss.hero": {
+          "originalName": "24_cutscenes_finalboss.HERO",
+          "type": "file",
+          "base": 735535,
+          "length": 18508
+        },
+        "24_cutscenes_finalboss.yaml": {
+          "originalName": "24_cutscenes_finalboss.yaml",
+          "type": "file",
+          "base": 754043,
+          "length": 18492
+        },
+        "25_cutscenes_blackhole.hero": {
+          "originalName": "25_cutscenes_blackhole.HERO",
+          "type": "file",
+          "base": 772535,
+          "length": 13191
+        },
+        "25_cutscenes_blackhole.yaml": {
+          "originalName": "25_cutscenes_blackhole.yaml",
+          "type": "file",
+          "base": 785726,
+          "length": 13175
+        },
+        "26_cutscenes_aubrey.hero": {
+          "originalName": "26_cutscenes_aubrey.HERO",
+          "type": "file",
+          "base": 798901,
+          "length": 17131
+        },
+        "26_cutscenes_aubrey.yaml": {
+          "originalName": "26_cutscenes_aubrey.yaml",
+          "type": "file",
+          "base": 816032,
+          "length": 17115
+        },
+        "27_cutscenes_treehouse.hero": {
+          "originalName": "27_cutscenes_treehouse.HERO",
+          "type": "file",
+          "base": 833147,
+          "length": 15933
+        },
+        "27_cutscenes_treehouse.yaml": {
+          "originalName": "27_cutscenes_treehouse.yaml",
+          "type": "file",
+          "base": 849080,
+          "length": 15917
+        },
+        "28_cutscenes_helpbasil.hero": {
+          "originalName": "28_cutscenes_helpbasil.HERO",
+          "type": "file",
+          "base": 864997,
+          "length": 10452
+        },
+        "28_cutscenes_helpbasil.yaml": {
+          "originalName": "28_cutscenes_helpbasil.yaml",
+          "type": "file",
+          "base": 875449,
+          "length": 10436
+        },
+        "29_cutscenes_basilsplea.hero": {
+          "originalName": "29_cutscenes_basilsplea.HERO",
+          "type": "file",
+          "base": 885885,
+          "length": 20988
+        },
+        "29_cutscenes_basilsplea.yaml": {
+          "originalName": "29_cutscenes_basilsplea.yaml",
+          "type": "file",
+          "base": 906873,
+          "length": 20972
+        },
+        "album.hero": {
+          "originalName": "ALBUM.HERO",
+          "type": "file",
+          "base": 927845,
+          "length": 19961
+        },
+        "album.yaml": {
+          "originalName": "ALBUM.yaml",
+          "type": "file",
+          "base": 947806,
+          "length": 19945
+        },
+        "album_test.hero": {
+          "originalName": "ALBUM_test.HERO",
+          "type": "file",
+          "base": 967751,
+          "length": 12479
+        },
+        "album_test.yaml": {
+          "originalName": "ALBUM_test.yaml",
+          "type": "file",
+          "base": 980230,
+          "length": 12463
+        },
+        "art_sculpture.hero": {
+          "originalName": "art_sculpture.HERO",
+          "type": "file",
+          "base": 992693,
+          "length": 18718
+        },
+        "art_sculpture.yaml": {
+          "originalName": "art_sculpture.yaml",
+          "type": "file",
+          "base": 1011411,
+          "length": 18702
+        },
+        "badgedata_aowvn.yaml.bak": {
+          "originalName": "badgedata_aowvn.yaml.bak",
+          "type": "file",
+          "base": 1030113,
+          "length": 14083
+        },
+        "badgedata_vanilla.hero": {
+          "originalName": "badgedata_vanilla.HERO",
+          "type": "file",
+          "base": 1044196,
+          "length": 13112
+        },
+        "badgedata_vanilla.yaml": {
+          "originalName": "badgedata_vanilla.yaml",
+          "type": "file",
+          "base": 1057308,
+          "length": 13096
+        },
+        "badgedata_vanilla.yaml.bak": {
+          "originalName": "badgedata_vanilla.yaml.bak",
+          "type": "file",
+          "base": 1070404,
+          "length": 15202
+        },
+        "basils_deathtrap.hero": {
+          "originalName": "basils_deathtrap.HERO",
+          "type": "file",
+          "base": 1085606,
+          "length": 14586
+        },
+        "basils_deathtrap.yaml": {
+          "originalName": "basils_deathtrap.yaml",
+          "type": "file",
+          "base": 1100192,
+          "length": 14570
+        },
+        "basils_finalmemories.hero": {
+          "originalName": "basils_finalmemories.HERO",
+          "type": "file",
+          "base": 1114762,
+          "length": 23880
+        },
+        "basils_finalmemories.yaml": {
+          "originalName": "basils_finalmemories.yaml",
+          "type": "file",
+          "base": 1138642,
+          "length": 23864
+        },
+        "basils_memories.hero": {
+          "originalName": "basils_memories.HERO",
+          "type": "file",
+          "base": 1162506,
+          "length": 24016
+        },
+        "basils_memories.yaml": {
+          "originalName": "basils_memories.yaml",
+          "type": "file",
+          "base": 1186522,
+          "length": 24000
+        },
+        "basils_path.hero": {
+          "originalName": "basils_path.HERO",
+          "type": "file",
+          "base": 1210522,
+          "length": 22729
+        },
+        "basils_path.yaml": {
+          "originalName": "basils_path.yaml",
+          "type": "file",
+          "base": 1233251,
+          "length": 22713
+        },
+        "battle_book.hero": {
+          "originalName": "battle_book.HERO",
+          "type": "file",
+          "base": 1255964,
+          "length": 21267
+        },
+        "battle_book.yaml": {
+          "originalName": "battle_book.yaml",
+          "type": "file",
+          "base": 1277231,
+          "length": 21251
+        },
+        "bestiary.hero": {
+          "originalName": "Bestiary.HERO",
+          "type": "file",
+          "base": 1298482,
+          "length": 39294
+        },
+        "bestiary.yaml": {
+          "originalName": "Bestiary.yaml",
+          "type": "file",
+          "base": 1337776,
+          "length": 39278
+        },
+        "blackjack_minigame.hero": {
+          "originalName": "blackjack_minigame.HERO",
+          "type": "file",
+          "base": 1377054,
+          "length": 595
+        },
+        "blackjack_minigame.yaml": {
+          "originalName": "blackjack_minigame.yaml",
+          "type": "file",
+          "base": 1377649,
+          "length": 579
+        },
+        "blackspace_intro.hero": {
+          "originalName": "blackspace_intro.HERO",
+          "type": "file",
+          "base": 1378228,
+          "length": 9846
+        },
+        "blackspace_intro.yaml": {
+          "originalName": "blackspace_intro.yaml",
+          "type": "file",
+          "base": 1388074,
+          "length": 9830
+        },
+        "black_space_flavor_text.hero": {
+          "originalName": "black_space_flavor_text.HERO",
+          "type": "file",
+          "base": 1397904,
+          "length": 31334
+        },
+        "black_space_flavor_text.yaml": {
+          "originalName": "black_space_flavor_text.yaml",
+          "type": "file",
+          "base": 1429238,
+          "length": 31318
+        },
+        "black_space_rev.hero": {
+          "originalName": "black_space_rev.HERO",
+          "type": "file",
+          "base": 1460556,
+          "length": 41687
+        },
+        "black_space_rev.yaml": {
+          "originalName": "black_space_rev.yaml",
+          "type": "file",
+          "base": 1502243,
+          "length": 41671
+        },
+        "breaktime_chatter.hero": {
+          "originalName": "breaktime_chatter.HERO",
+          "type": "file",
+          "base": 1543914,
+          "length": 41052
+        },
+        "breaktime_chatter.yaml": {
+          "originalName": "breaktime_chatter.yaml",
+          "type": "file",
+          "base": 1584966,
+          "length": 41036
+        },
+        "bs_basils_shadow.hero": {
+          "originalName": "bs_basils_shadow.HERO",
+          "type": "file",
+          "base": 1626002,
+          "length": 19022
+        },
+        "bs_basils_shadow.yaml": {
+          "originalName": "bs_basils_shadow.yaml",
+          "type": "file",
+          "base": 1645024,
+          "length": 19006
+        },
+        "console_addition.hero": {
+          "originalName": "console_addition.HERO",
+          "type": "file",
+          "base": 1664030,
+          "length": 19593
+        },
+        "console_addition.yaml": {
+          "originalName": "console_addition.yaml",
+          "type": "file",
+          "base": 1683623,
+          "length": 19577
+        },
+        "database.hero": {
+          "originalName": "Database.HERO",
+          "type": "file",
+          "base": 1703200,
+          "length": 238
+        },
+        "database.yaml": {
+          "originalName": "Database.yaml",
+          "type": "file",
+          "base": 1703438,
+          "length": 222
+        },
+        "donottouch.xlsx": {
+          "originalName": "donottouch.xlsx",
+          "type": "file",
+          "base": 1703660,
+          "length": 13401
+        },
+        "dreamworld_extras_blackspace.hero": {
+          "originalName": "dreamworld_extras_blackspace.HERO",
+          "type": "file",
+          "base": 1717061,
+          "length": 4328
+        },
+        "dreamworld_extras_blackspace.yaml": {
+          "originalName": "dreamworld_extras_blackspace.yaml",
+          "type": "file",
+          "base": 1721389,
+          "length": 4312
+        },
+        "dreamworld_extras_dinosdig.hero": {
+          "originalName": "dreamworld_extras_dinosdig.HERO",
+          "type": "file",
+          "base": 1725701,
+          "length": 8934
+        },
+        "dreamworld_extras_dinosdig.yaml": {
+          "originalName": "dreamworld_extras_dinosdig.yaml",
+          "type": "file",
+          "base": 1734635,
+          "length": 8918
+        },
+        "dreamworld_extras_doomtomb.hero": {
+          "originalName": "dreamworld_extras_doomtomb.HERO",
+          "type": "file",
+          "base": 1743553,
+          "length": 16176
+        },
+        "dreamworld_extras_doomtomb.yaml": {
+          "originalName": "dreamworld_extras_doomtomb.yaml",
+          "type": "file",
+          "base": 1759729,
+          "length": 16160
+        },
+        "dreamworld_extras_misc.hero": {
+          "originalName": "dreamworld_extras_misc.HERO",
+          "type": "file",
+          "base": 1775889,
+          "length": 14734
+        },
+        "dreamworld_extras_misc.yaml": {
+          "originalName": "dreamworld_extras_misc.yaml",
+          "type": "file",
+          "base": 1790623,
+          "length": 14718
+        },
+        "dreamworld_extras_objectflavor.hero": {
+          "originalName": "dreamworld_extras_objectflavor.HERO",
+          "type": "file",
+          "base": 1805341,
+          "length": 259
+        },
+        "dreamworld_extras_objectflavor.yaml": {
+          "originalName": "dreamworld_extras_objectflavor.yaml",
+          "type": "file",
+          "base": 1805600,
+          "length": 243
+        },
+        "dreamworld_extras_pyrefly.hero": {
+          "originalName": "dreamworld_extras_pyrefly.HERO",
+          "type": "file",
+          "base": 1805843,
+          "length": 565
+        },
+        "dreamworld_extras_pyrefly.yaml": {
+          "originalName": "dreamworld_extras_pyrefly.yaml",
+          "type": "file",
+          "base": 1806408,
+          "length": 549
+        },
+        "dreamworld_extras_shop.hero": {
+          "originalName": "dreamworld_extras_shop.HERO",
+          "type": "file",
+          "base": 1806957,
+          "length": 24306
+        },
+        "dreamworld_extras_shop.yaml": {
+          "originalName": "dreamworld_extras_shop.yaml",
+          "type": "file",
+          "base": 1831263,
+          "length": 24290
+        },
+        "dreamworld_extras_slimegirls.hero": {
+          "originalName": "dreamworld_extras_slimegirls.HERO",
+          "type": "file",
+          "base": 1855553,
+          "length": 2291
+        },
+        "dreamworld_extras_slimegirls.yaml": {
+          "originalName": "dreamworld_extras_slimegirls.yaml",
+          "type": "file",
+          "base": 1857844,
+          "length": 2275
+        },
+        "dreamworld_lost_forest.hero": {
+          "originalName": "dreamworld_lost_forest.HERO",
+          "type": "file",
+          "base": 1860119,
+          "length": 15795
+        },
+        "dreamworld_lost_forest.yaml": {
+          "originalName": "dreamworld_lost_forest.yaml",
+          "type": "file",
+          "base": 1875914,
+          "length": 15779
+        },
+        "dreamworld_npc_dialogue.hero": {
+          "originalName": "dreamworld_npc_dialogue.HERO",
+          "type": "file",
+          "base": 1891693,
+          "length": 4203
+        },
+        "dreamworld_npc_dialogue.yaml": {
+          "originalName": "dreamworld_npc_dialogue.yaml",
+          "type": "file",
+          "base": 1895896,
+          "length": 4187
+        },
+        "dreamworld_npc_dialogue_forgottenpier.hero": {
+          "originalName": "dreamworld_npc_dialogue_forgottenpier.HERO",
+          "type": "file",
+          "base": 1900083,
+          "length": 563
+        },
+        "dreamworld_npc_dialogue_forgottenpier.yaml": {
+          "originalName": "dreamworld_npc_dialogue_forgottenpier.yaml",
+          "type": "file",
+          "base": 1900646,
+          "length": 547
+        },
+        "dreamworld_npc_dialogue_frozenforest.hero": {
+          "originalName": "dreamworld_npc_dialogue_frozenforest.HERO",
+          "type": "file",
+          "base": 1901193,
+          "length": 3180
+        },
+        "dreamworld_npc_dialogue_frozenforest.yaml": {
+          "originalName": "dreamworld_npc_dialogue_frozenforest.yaml",
+          "type": "file",
+          "base": 1904373,
+          "length": 3164
+        },
+        "dreamworld_npc_dialogue_lastresort.hero": {
+          "originalName": "dreamworld_npc_dialogue_lastresort.HERO",
+          "type": "file",
+          "base": 1907537,
+          "length": 18974
+        },
+        "dreamworld_npc_dialogue_lastresort.yaml": {
+          "originalName": "dreamworld_npc_dialogue_lastresort.yaml",
+          "type": "file",
+          "base": 1926511,
+          "length": 18958
+        },
+        "dreamworld_npc_dialogue_orangeoasis.hero": {
+          "originalName": "dreamworld_npc_dialogue_orangeoasis.HERO",
+          "type": "file",
+          "base": 1945469,
+          "length": 6840
+        },
+        "dreamworld_npc_dialogue_orangeoasis.yaml": {
+          "originalName": "dreamworld_npc_dialogue_orangeoasis.yaml",
+          "type": "file",
+          "base": 1952309,
+          "length": 6824
+        },
+        "dreamworld_npc_dialogue_otherworld.hero": {
+          "originalName": "dreamworld_npc_dialogue_otherworld.HERO",
+          "type": "file",
+          "base": 1959133,
+          "length": 21272
+        },
+        "dreamworld_npc_dialogue_otherworld.yaml": {
+          "originalName": "dreamworld_npc_dialogue_otherworld.yaml",
+          "type": "file",
+          "base": 1980405,
+          "length": 21256
+        },
+        "dreamworld_npc_dialogue_pinwheel.hero": {
+          "originalName": "dreamworld_npc_dialogue_pinwheel.HERO",
+          "type": "file",
+          "base": 2001661,
+          "length": 8127
+        },
+        "dreamworld_npc_dialogue_pinwheel.yaml": {
+          "originalName": "dreamworld_npc_dialogue_pinwheel.yaml",
+          "type": "file",
+          "base": 2009788,
+          "length": 8111
+        },
+        "dreamworld_npc_dialogue_playground.hero": {
+          "originalName": "dreamworld_npc_dialogue_playground.HERO",
+          "type": "file",
+          "base": 2017899,
+          "length": 18275
+        },
+        "dreamworld_npc_dialogue_playground.yaml": {
+          "originalName": "dreamworld_npc_dialogue_playground.yaml",
+          "type": "file",
+          "base": 2036174,
+          "length": 18259
+        },
+        "dreamworld_npc_dialogue_playground.yml": {
+          "originalName": "dreamworld_npc_dialogue_playground.yml",
+          "type": "file",
+          "base": 2054433,
+          "length": 17312
+        },
+        "dreamworld_npc_dialogue_pyrefly_doomtomb.hero": {
+          "originalName": "dreamworld_npc_dialogue_pyrefly_doomtomb.HERO",
+          "type": "file",
+          "base": 2071745,
+          "length": 1185
+        },
+        "dreamworld_npc_dialogue_pyrefly_doomtomb.yaml": {
+          "originalName": "dreamworld_npc_dialogue_pyrefly_doomtomb.yaml",
+          "type": "file",
+          "base": 2072930,
+          "length": 1169
+        },
+        "dreamworld_npc_dialogue_slimegirls.hero": {
+          "originalName": "dreamworld_npc_dialogue_slimegirls.HERO",
+          "type": "file",
+          "base": 2074099,
+          "length": 11224
+        },
+        "dreamworld_npc_dialogue_slimegirls.yaml": {
+          "originalName": "dreamworld_npc_dialogue_slimegirls.yaml",
+          "type": "file",
+          "base": 2085323,
+          "length": 11208
+        },
+        "dreamworld_npc_dialogue_sproutmole_sweetheart.hero": {
+          "originalName": "dreamworld_npc_dialogue_sproutmole_sweetheart.HERO",
+          "type": "file",
+          "base": 2096531,
+          "length": 21421
+        },
+        "dreamworld_npc_dialogue_sproutmole_sweetheart.yaml": {
+          "originalName": "dreamworld_npc_dialogue_sproutmole_sweetheart.yaml",
+          "type": "file",
+          "base": 2117952,
+          "length": 21405
+        },
+        "dreamworld_npc_dialogue_sweetheart.hero": {
+          "originalName": "dreamworld_npc_dialogue_sweetheart.HERO",
+          "type": "file",
+          "base": 2139357,
+          "length": 23347
+        },
+        "dreamworld_npc_dialogue_sweetheart.yaml": {
+          "originalName": "dreamworld_npc_dialogue_sweetheart.yaml",
+          "type": "file",
+          "base": 2162704,
+          "length": 23331
+        },
+        "dreamworld_npc_dialogue_whitespace.hero": {
+          "originalName": "dreamworld_npc_dialogue_whitespace.HERO",
+          "type": "file",
+          "base": 2186035,
+          "length": 694
+        },
+        "dreamworld_npc_dialogue_whitespace.yaml": {
+          "originalName": "dreamworld_npc_dialogue_whitespace.yaml",
+          "type": "file",
+          "base": 2186729,
+          "length": 678
+        },
+        "dw_boss_rush.hero": {
+          "originalName": "dw_boss_rush.HERO",
+          "type": "file",
+          "base": 2187407,
+          "length": 8535
+        },
+        "dw_boss_rush.yaml": {
+          "originalName": "dw_boss_rush.yaml",
+          "type": "file",
+          "base": 2195942,
+          "length": 8519
+        },
+        "dw_flavor_text.hero": {
+          "originalName": "dw_flavor_text.HERO",
+          "type": "file",
+          "base": 2204461,
+          "length": 34420
+        },
+        "dw_flavor_text.yaml": {
+          "originalName": "dw_flavor_text.yaml",
+          "type": "file",
+          "base": 2238881,
+          "length": 34404
+        },
+        "dw_hero_charm.hero": {
+          "originalName": "dw_hero_charm.HERO",
+          "type": "file",
+          "base": 2273285,
+          "length": 17826
+        },
+        "dw_hero_charm.yaml": {
+          "originalName": "dw_hero_charm.yaml",
+          "type": "file",
+          "base": 2291111,
+          "length": 17810
+        },
+        "dw_map_of_truth.hero": {
+          "originalName": "dw_map_of_truth.HERO",
+          "type": "file",
+          "base": 2308921,
+          "length": 15726
+        },
+        "dw_map_of_truth.yaml": {
+          "originalName": "dw_map_of_truth.yaml",
+          "type": "file",
+          "base": 2324647,
+          "length": 15710
+        },
+        "farawaytown_day3_friends.hero": {
+          "originalName": "farawaytown_day3_friends.HERO",
+          "type": "file",
+          "base": 2340357,
+          "length": 16140
+        },
+        "farawaytown_day3_friends.yaml": {
+          "originalName": "farawaytown_day3_friends.yaml",
+          "type": "file",
+          "base": 2356497,
+          "length": 16124
+        },
+        "farawaytown_dialogue_day1_day.hero": {
+          "originalName": "farawaytown_dialogue_day1_day.HERO",
+          "type": "file",
+          "base": 2372621,
+          "length": 18069
+        },
+        "farawaytown_dialogue_day1_day.yaml": {
+          "originalName": "farawaytown_dialogue_day1_day.yaml",
+          "type": "file",
+          "base": 2390690,
+          "length": 18053
+        },
+        "farawaytown_dialogue_day1_sunset.hero": {
+          "originalName": "farawaytown_dialogue_day1_sunset.HERO",
+          "type": "file",
+          "base": 2408743,
+          "length": 12634
+        },
+        "farawaytown_dialogue_day1_sunset.yaml": {
+          "originalName": "farawaytown_dialogue_day1_sunset.yaml",
+          "type": "file",
+          "base": 2421377,
+          "length": 12618
+        },
+        "farawaytown_dialogue_day2_day.hero": {
+          "originalName": "farawaytown_dialogue_day2_day.HERO",
+          "type": "file",
+          "base": 2433995,
+          "length": 15547
+        },
+        "farawaytown_dialogue_day2_day.yaml": {
+          "originalName": "farawaytown_dialogue_day2_day.yaml",
+          "type": "file",
+          "base": 2449542,
+          "length": 15531
+        },
+        "farawaytown_dialogue_day2_sunset.hero": {
+          "originalName": "farawaytown_dialogue_day2_sunset.HERO",
+          "type": "file",
+          "base": 2465073,
+          "length": 12138
+        },
+        "farawaytown_dialogue_day2_sunset.yaml": {
+          "originalName": "farawaytown_dialogue_day2_sunset.yaml",
+          "type": "file",
+          "base": 2477211,
+          "length": 12122
+        },
+        "farawaytown_dialogue_day3_day.hero": {
+          "originalName": "farawaytown_dialogue_day3_day.HERO",
+          "type": "file",
+          "base": 2489333,
+          "length": 15037
+        },
+        "farawaytown_dialogue_day3_day.yaml": {
+          "originalName": "farawaytown_dialogue_day3_day.yaml",
+          "type": "file",
+          "base": 2504370,
+          "length": 15021
+        },
+        "farawaytown_dialogue_day3_sunset.hero": {
+          "originalName": "farawaytown_dialogue_day3_sunset.HERO",
+          "type": "file",
+          "base": 2519391,
+          "length": 10238
+        },
+        "farawaytown_dialogue_day3_sunset.yaml": {
+          "originalName": "farawaytown_dialogue_day3_sunset.yaml",
+          "type": "file",
+          "base": 2529629,
+          "length": 10222
+        },
+        "farawaytown_dialogue_strangers.hero": {
+          "originalName": "farawaytown_dialogue_strangers.HERO",
+          "type": "file",
+          "base": 2539851,
+          "length": 4364
+        },
+        "farawaytown_dialogue_strangers.yaml": {
+          "originalName": "farawaytown_dialogue_strangers.yaml",
+          "type": "file",
+          "base": 2544215,
+          "length": 4348
+        },
+        "farawaytown_dialogue_tucker.hero": {
+          "originalName": "farawaytown_dialogue_tucker.HERO",
+          "type": "file",
+          "base": 2548563,
+          "length": 4419
+        },
+        "farawaytown_dialogue_tucker.yaml": {
+          "originalName": "farawaytown_dialogue_tucker.yaml",
+          "type": "file",
+          "base": 2552982,
+          "length": 4403
+        },
+        "farawaytown_dialogue_tucker.yml": {
+          "originalName": "farawaytown_dialogue_tucker.yml",
+          "type": "file",
+          "base": 2557385,
+          "length": 3173
+        },
+        "farawaytown_extradialogue.hero": {
+          "originalName": "farawaytown_extradialogue.HERO",
+          "type": "file",
+          "base": 2560558,
+          "length": 5846
+        },
+        "farawaytown_extradialogue.yaml": {
+          "originalName": "farawaytown_extradialogue.yaml",
+          "type": "file",
+          "base": 2566404,
+          "length": 5830
+        },
+        "farawaytown_extras_dailydialogue.hero": {
+          "originalName": "farawaytown_extras_dailydialogue.HERO",
+          "type": "file",
+          "base": 2572234,
+          "length": 72174
+        },
+        "farawaytown_extras_dailydialogue.yaml": {
+          "originalName": "farawaytown_extras_dailydialogue.yaml",
+          "type": "file",
+          "base": 2644408,
+          "length": 72158
+        },
+        "farawaytown_extras_endings.hero": {
+          "originalName": "farawaytown_extras_endings.HERO",
+          "type": "file",
+          "base": 2716566,
+          "length": 1761
+        },
+        "farawaytown_extras_endings.yaml": {
+          "originalName": "farawaytown_extras_endings.yaml",
+          "type": "file",
+          "base": 2718327,
+          "length": 1745
+        },
+        "farawaytown_extras_fears.hero": {
+          "originalName": "farawaytown_extras_fears.HERO",
+          "type": "file",
+          "base": 2720072,
+          "length": 2347
+        },
+        "farawaytown_extras_fears.yaml": {
+          "originalName": "farawaytown_extras_fears.yaml",
+          "type": "file",
+          "base": 2722419,
+          "length": 2331
+        },
+        "farawaytown_extras_hardwareminigame.hero": {
+          "originalName": "farawaytown_extras_hardwareminigame.HERO",
+          "type": "file",
+          "base": 2724750,
+          "length": 3569
+        },
+        "farawaytown_extras_hardwareminigame.yaml": {
+          "originalName": "farawaytown_extras_hardwareminigame.yaml",
+          "type": "file",
+          "base": 2728319,
+          "length": 3553
+        },
+        "farawaytown_extras_marinight.hero": {
+          "originalName": "farawaytown_extras_marinight.HERO",
+          "type": "file",
+          "base": 2731872,
+          "length": 234
+        },
+        "farawaytown_extras_marinight.yaml": {
+          "originalName": "farawaytown_extras_marinight.yaml",
+          "type": "file",
+          "base": 2732106,
+          "length": 218
+        },
+        "farawaytown_extras_mavericks.hero": {
+          "originalName": "farawaytown_extras_mavericks.HERO",
+          "type": "file",
+          "base": 2732324,
+          "length": 5919
+        },
+        "farawaytown_extras_mavericks.yaml": {
+          "originalName": "farawaytown_extras_mavericks.yaml",
+          "type": "file",
+          "base": 2738243,
+          "length": 5903
+        },
+        "farawaytown_extras_misc.hero": {
+          "originalName": "farawaytown_extras_misc.HERO",
+          "type": "file",
+          "base": 2744146,
+          "length": 23439
+        },
+        "farawaytown_extras_misc.yaml": {
+          "originalName": "farawaytown_extras_misc.yaml",
+          "type": "file",
+          "base": 2767585,
+          "length": 23423
+        },
+        "farawaytown_extras_momsdialogue.hero": {
+          "originalName": "farawaytown_extras_momsdialogue.HERO",
+          "type": "file",
+          "base": 2791008,
+          "length": 7041
+        },
+        "farawaytown_extras_momsdialogue.yaml": {
+          "originalName": "farawaytown_extras_momsdialogue.yaml",
+          "type": "file",
+          "base": 2798049,
+          "length": 7025
+        },
+        "farawaytown_extras_objectflavor.hero": {
+          "originalName": "farawaytown_extras_objectflavor.HERO",
+          "type": "file",
+          "base": 2805074,
+          "length": 2772
+        },
+        "farawaytown_extras_objectflavor.yaml": {
+          "originalName": "farawaytown_extras_objectflavor.yaml",
+          "type": "file",
+          "base": 2807846,
+          "length": 2756
+        },
+        "farawaytown_extras_petrock.hero": {
+          "originalName": "farawaytown_extras_petrock.HERO",
+          "type": "file",
+          "base": 2810602,
+          "length": 17843
+        },
+        "farawaytown_extras_petrock.yaml": {
+          "originalName": "farawaytown_extras_petrock.yaml",
+          "type": "file",
+          "base": 2828445,
+          "length": 17827
+        },
+        "farawaytown_extras_pizzaminigame.hero": {
+          "originalName": "farawaytown_extras_pizzaminigame.HERO",
+          "type": "file",
+          "base": 2846272,
+          "length": 6308
+        },
+        "farawaytown_extras_pizzaminigame.yaml": {
+          "originalName": "farawaytown_extras_pizzaminigame.yaml",
+          "type": "file",
+          "base": 2852580,
+          "length": 6292
+        },
+        "farawaytown_extras_pizzaminigame.yml": {
+          "originalName": "farawaytown_extras_pizzaminigame.yml",
+          "type": "file",
+          "base": 2858872,
+          "length": 6265
+        },
+        "farawaytown_extras_shop.hero": {
+          "originalName": "farawaytown_extras_shop.HERO",
+          "type": "file",
+          "base": 2865137,
+          "length": 16100
+        },
+        "farawaytown_extras_shop.yaml": {
+          "originalName": "farawaytown_extras_shop.yaml",
+          "type": "file",
+          "base": 2881237,
+          "length": 16084
+        },
+        "farawaytown_extras_supermarketminigame.hero": {
+          "originalName": "farawaytown_extras_supermarketminigame.HERO",
+          "type": "file",
+          "base": 2897321,
+          "length": 1329
+        },
+        "farawaytown_extras_supermarketminigame.yaml": {
+          "originalName": "farawaytown_extras_supermarketminigame.yaml",
+          "type": "file",
+          "base": 2898650,
+          "length": 1313
+        },
+        "faraway_conditional.hero": {
+          "originalName": "faraway_conditional.HERO",
+          "type": "file",
+          "base": 2899963,
+          "length": 5737
+        },
+        "faraway_conditional.yaml": {
+          "originalName": "faraway_conditional.yaml",
+          "type": "file",
+          "base": 2905700,
+          "length": 5721
+        },
+        "faraway_kels_room.hero": {
+          "originalName": "faraway_kels_room.HERO",
+          "type": "file",
+          "base": 2911421,
+          "length": 3059
+        },
+        "faraway_kels_room.yaml": {
+          "originalName": "faraway_kels_room.yaml",
+          "type": "file",
+          "base": 2914480,
+          "length": 3043
+        },
+        "faraway_something_about_basil.hero": {
+          "originalName": "faraway_something_about_basil.HERO",
+          "type": "file",
+          "base": 2917523,
+          "length": 9405
+        },
+        "faraway_something_about_basil.yaml": {
+          "originalName": "faraway_something_about_basil.yaml",
+          "type": "file",
+          "base": 2926928,
+          "length": 9389
+        },
+        "fa_fridges.hero": {
+          "originalName": "fa_fridges.HERO",
+          "type": "file",
+          "base": 2936317,
+          "length": 2810
+        },
+        "fa_fridges.yaml": {
+          "originalName": "fa_fridges.yaml",
+          "type": "file",
+          "base": 2939127,
+          "length": 2794
+        },
+        "fa_map_flavor.hero": {
+          "originalName": "fa_map_flavor.HERO",
+          "type": "file",
+          "base": 2941921,
+          "length": 46176
+        },
+        "fa_map_flavor.yaml": {
+          "originalName": "fa_map_flavor.yaml",
+          "type": "file",
+          "base": 2988097,
+          "length": 46160
+        },
+        "gacha_minigame.hero": {
+          "originalName": "gacha_minigame.HERO",
+          "type": "file",
+          "base": 3034257,
+          "length": 509
+        },
+        "gacha_minigame.yaml": {
+          "originalName": "gacha_minigame.yaml",
+          "type": "file",
+          "base": 3034766,
+          "length": 493
+        },
+        "hidden_library.hero": {
+          "originalName": "hidden_library.HERO",
+          "type": "file",
+          "base": 3035259,
+          "length": 16905
+        },
+        "hidden_library.yaml": {
+          "originalName": "hidden_library.yaml",
+          "type": "file",
+          "base": 3052164,
+          "length": 16889
+        },
+        "hide_and_seek.hero": {
+          "originalName": "hide_and_seek.HERO",
+          "type": "file",
+          "base": 3069053,
+          "length": 27405
+        },
+        "hide_and_seek.yaml": {
+          "originalName": "hide_and_seek.yaml",
+          "type": "file",
+          "base": 3096458,
+          "length": 27389
+        },
+        "kel_errands.hero": {
+          "originalName": "kel_errands.HERO",
+          "type": "file",
+          "base": 3123847,
+          "length": 3725
+        },
+        "kel_errands.yaml": {
+          "originalName": "kel_errands.yaml",
+          "type": "file",
+          "base": 3127572,
+          "length": 3709
+        },
+        "kel_errands.yml": {
+          "originalName": "kel_errands.yml",
+          "type": "file",
+          "base": 3131281,
+          "length": 3698
+        },
+        "kel_spaceline_yep.hero": {
+          "originalName": "kel_spaceline_yep.HERO",
+          "type": "file",
+          "base": 3134979,
+          "length": 122
+        },
+        "kel_spaceline_yep.yaml": {
+          "originalName": "kel_spaceline_yep.yaml",
+          "type": "file",
+          "base": 3135101,
+          "length": 106
+        },
+        "kel_spaceline_yep.yaml.bak": {
+          "originalName": "kel_spaceline_yep.yaml.bak",
+          "type": "file",
+          "base": 3135207,
+          "length": 106
+        },
+        "menus.hero": {
+          "originalName": "menus.HERO",
+          "type": "file",
+          "base": 3135313,
+          "length": 3336
+        },
+        "menus.yaml": {
+          "originalName": "menus.yaml",
+          "type": "file",
+          "base": 3138649,
+          "length": 3320
+        },
+        "miscellanous_dialogues.hero": {
+          "originalName": "miscellanous_dialogues.HERO",
+          "type": "file",
+          "base": 3141969,
+          "length": 2826
+        },
+        "miscellanous_dialogues.yaml": {
+          "originalName": "miscellanous_dialogues.yaml",
+          "type": "file",
+          "base": 3144795,
+          "length": 2810
+        },
+        "new 1": {
+          "originalName": "new 1",
+          "type": "file",
+          "base": 3147605,
+          "length": 145
+        },
+        "new_npcs.hero": {
+          "originalName": "new_npcs.HERO",
+          "type": "file",
+          "base": 3147750,
+          "length": 50093
+        },
+        "new_npcs.yaml": {
+          "originalName": "new_npcs.yaml",
+          "type": "file",
+          "base": 3197843,
+          "length": 50077
+        },
+        "npc_general.hero": {
+          "originalName": "npc_general.HERO",
+          "type": "file",
+          "base": 3247920,
+          "length": 871
+        },
+        "npc_general.yaml": {
+          "originalName": "npc_general.yaml",
+          "type": "file",
+          "base": 3248791,
+          "length": 855
+        },
+        "party_dialogue.hero": {
+          "originalName": "party_dialogue.HERO",
+          "type": "file",
+          "base": 3249646,
+          "length": 75973
+        },
+        "party_dialogue.yaml": {
+          "originalName": "party_dialogue.yaml",
+          "type": "file",
+          "base": 3325619,
+          "length": 75957
+        },
+        "pluto.hero": {
+          "originalName": "pluto.HERO",
+          "type": "file",
+          "base": 3401576,
+          "length": 13900
+        },
+        "pluto.yaml": {
+          "originalName": "pluto.yaml",
+          "type": "file",
+          "base": 3415476,
+          "length": 13884
+        },
+        "pluto.yaml.bak": {
+          "originalName": "pluto.yaml.bak",
+          "type": "file",
+          "base": 3429360,
+          "length": 13570
+        },
+        "sidequest_dreamworld_bed.hero": {
+          "originalName": "sidequest_dreamworld_bed.HERO",
+          "type": "file",
+          "base": 3442930,
+          "length": 7819
+        },
+        "sidequest_dreamworld_bed.yaml": {
+          "originalName": "sidequest_dreamworld_bed.yaml",
+          "type": "file",
+          "base": 3450749,
+          "length": 7803
+        },
+        "sidequest_dreamworld_coffeemachine.hero": {
+          "originalName": "sidequest_dreamworld_coffeemachine.HERO",
+          "type": "file",
+          "base": 3458552,
+          "length": 3532
+        },
+        "sidequest_dreamworld_coffeemachine.yaml": {
+          "originalName": "sidequest_dreamworld_coffeemachine.yaml",
+          "type": "file",
+          "base": 3462084,
+          "length": 3516
+        },
+        "sidequest_dreamworld_crowfriends.hero": {
+          "originalName": "sidequest_dreamworld_crowfriends.HERO",
+          "type": "file",
+          "base": 3465600,
+          "length": 5127
+        },
+        "sidequest_dreamworld_crowfriends.yaml": {
+          "originalName": "sidequest_dreamworld_crowfriends.yaml",
+          "type": "file",
+          "base": 3470727,
+          "length": 5111
+        },
+        "sidequest_dreamworld_deliversprout.hero": {
+          "originalName": "sidequest_dreamworld_deliversprout.HERO",
+          "type": "file",
+          "base": 3475838,
+          "length": 2769
+        },
+        "sidequest_dreamworld_deliversprout.yaml": {
+          "originalName": "sidequest_dreamworld_deliversprout.yaml",
+          "type": "file",
+          "base": 3478607,
+          "length": 2753
+        },
+        "sidequest_dreamworld_demonboy.hero": {
+          "originalName": "sidequest_dreamworld_demonboy.HERO",
+          "type": "file",
+          "base": 3481360,
+          "length": 2088
+        },
+        "sidequest_dreamworld_demonboy.yaml": {
+          "originalName": "sidequest_dreamworld_demonboy.yaml",
+          "type": "file",
+          "base": 3483448,
+          "length": 2072
+        },
+        "sidequest_dreamworld_feedhumphrey.hero": {
+          "originalName": "sidequest_dreamworld_feedhumphrey.HERO",
+          "type": "file",
+          "base": 3485520,
+          "length": 5301
+        },
+        "sidequest_dreamworld_feedhumphrey.yaml": {
+          "originalName": "sidequest_dreamworld_feedhumphrey.yaml",
+          "type": "file",
+          "base": 3490821,
+          "length": 5285
+        },
+        "sidequest_dreamworld_fliphim.hero": {
+          "originalName": "sidequest_dreamworld_fliphim.HERO",
+          "type": "file",
+          "base": 3496106,
+          "length": 616
+        },
+        "sidequest_dreamworld_fliphim.yaml": {
+          "originalName": "sidequest_dreamworld_fliphim.yaml",
+          "type": "file",
+          "base": 3496722,
+          "length": 600
+        },
+        "sidequest_dreamworld_flowerpuzzle.hero": {
+          "originalName": "sidequest_dreamworld_flowerpuzzle.HERO",
+          "type": "file",
+          "base": 3497322,
+          "length": 1400
+        },
+        "sidequest_dreamworld_flowerpuzzle.yaml": {
+          "originalName": "sidequest_dreamworld_flowerpuzzle.yaml",
+          "type": "file",
+          "base": 3498722,
+          "length": 1384
+        },
+        "sidequest_dreamworld_ghostgathering.hero": {
+          "originalName": "sidequest_dreamworld_ghostgathering.HERO",
+          "type": "file",
+          "base": 3500106,
+          "length": 16300
+        },
+        "sidequest_dreamworld_ghostgathering.yaml": {
+          "originalName": "sidequest_dreamworld_ghostgathering.yaml",
+          "type": "file",
+          "base": 3516406,
+          "length": 16284
+        },
+        "sidequest_dreamworld_hector.hero": {
+          "originalName": "sidequest_dreamworld_hector.HERO",
+          "type": "file",
+          "base": 3532690,
+          "length": 2354
+        },
+        "sidequest_dreamworld_hector.yaml": {
+          "originalName": "sidequest_dreamworld_hector.yaml",
+          "type": "file",
+          "base": 3535044,
+          "length": 2338
+        },
+        "sidequest_dreamworld_hectorjr.hero": {
+          "originalName": "sidequest_dreamworld_hectorjr.HERO",
+          "type": "file",
+          "base": 3537382,
+          "length": 3979
+        },
+        "sidequest_dreamworld_hectorjr.yaml": {
+          "originalName": "sidequest_dreamworld_hectorjr.yaml",
+          "type": "file",
+          "base": 3541361,
+          "length": 3963
+        },
+        "sidequest_dreamworld_ingredients.hero": {
+          "originalName": "sidequest_dreamworld_ingredients.HERO",
+          "type": "file",
+          "base": 3545324,
+          "length": 20
+        },
+        "sidequest_dreamworld_ingredients.yaml": {
+          "originalName": "sidequest_dreamworld_ingredients.yaml",
+          "type": "file",
+          "base": 3545344,
+          "length": 4
+        },
+        "sidequest_dreamworld_itch.hero": {
+          "originalName": "sidequest_dreamworld_itch.HERO",
+          "type": "file",
+          "base": 3545348,
+          "length": 1464
+        },
+        "sidequest_dreamworld_itch.yaml": {
+          "originalName": "sidequest_dreamworld_itch.yaml",
+          "type": "file",
+          "base": 3546812,
+          "length": 1448
+        },
+        "sidequest_dreamworld_jash.hero": {
+          "originalName": "sidequest_dreamworld_jash.HERO",
+          "type": "file",
+          "base": 3548260,
+          "length": 1182
+        },
+        "sidequest_dreamworld_jash.yaml": {
+          "originalName": "sidequest_dreamworld_jash.yaml",
+          "type": "file",
+          "base": 3549442,
+          "length": 1166
+        },
+        "sidequest_dreamworld_lostrarebear.hero": {
+          "originalName": "sidequest_dreamworld_lostrarebear.HERO",
+          "type": "file",
+          "base": 3550608,
+          "length": 2320
+        },
+        "sidequest_dreamworld_lostrarebear.yaml": {
+          "originalName": "sidequest_dreamworld_lostrarebear.yaml",
+          "type": "file",
+          "base": 3552928,
+          "length": 2304
+        },
+        "sidequest_dreamworld_lostson.hero": {
+          "originalName": "sidequest_dreamworld_lostson.HERO",
+          "type": "file",
+          "base": 3555232,
+          "length": 4858
+        },
+        "sidequest_dreamworld_lostson.yaml": {
+          "originalName": "sidequest_dreamworld_lostson.yaml",
+          "type": "file",
+          "base": 3560090,
+          "length": 4842
+        },
+        "sidequest_dreamworld_marina.hero": {
+          "originalName": "sidequest_dreamworld_marina.HERO",
+          "type": "file",
+          "base": 3564932,
+          "length": 2478
+        },
+        "sidequest_dreamworld_marina.yaml": {
+          "originalName": "sidequest_dreamworld_marina.yaml",
+          "type": "file",
+          "base": 3567410,
+          "length": 2462
+        },
+        "sidequest_dreamworld_medusa.hero": {
+          "originalName": "sidequest_dreamworld_medusa.HERO",
+          "type": "file",
+          "base": 3569872,
+          "length": 1931
+        },
+        "sidequest_dreamworld_medusa.yaml": {
+          "originalName": "sidequest_dreamworld_medusa.yaml",
+          "type": "file",
+          "base": 3571803,
+          "length": 1915
+        },
+        "sidequest_dreamworld_molly.hero": {
+          "originalName": "sidequest_dreamworld_molly.HERO",
+          "type": "file",
+          "base": 3573718,
+          "length": 2223
+        },
+        "sidequest_dreamworld_molly.yaml": {
+          "originalName": "sidequest_dreamworld_molly.yaml",
+          "type": "file",
+          "base": 3575941,
+          "length": 2207
+        },
+        "sidequest_dreamworld_mush.hero": {
+          "originalName": "sidequest_dreamworld_mush.HERO",
+          "type": "file",
+          "base": 3578148,
+          "length": 1011
+        },
+        "sidequest_dreamworld_mush.yaml": {
+          "originalName": "sidequest_dreamworld_mush.yaml",
+          "type": "file",
+          "base": 3579159,
+          "length": 995
+        },
+        "sidequest_dreamworld_oragne.hero": {
+          "originalName": "sidequest_dreamworld_oragne.HERO",
+          "type": "file",
+          "base": 3580154,
+          "length": 8941
+        },
+        "sidequest_dreamworld_oragne.yaml": {
+          "originalName": "sidequest_dreamworld_oragne.yaml",
+          "type": "file",
+          "base": 3589095,
+          "length": 8925
+        },
+        "sidequest_dreamworld_peanutjelly.hero": {
+          "originalName": "sidequest_dreamworld_peanutjelly.HERO",
+          "type": "file",
+          "base": 3598020,
+          "length": 1967
+        },
+        "sidequest_dreamworld_peanutjelly.yaml": {
+          "originalName": "sidequest_dreamworld_peanutjelly.yaml",
+          "type": "file",
+          "base": 3599987,
+          "length": 1951
+        },
+        "sidequest_dreamworld_perfectwind.hero": {
+          "originalName": "sidequest_dreamworld_perfectwind.HERO",
+          "type": "file",
+          "base": 3601938,
+          "length": 1620
+        },
+        "sidequest_dreamworld_perfectwind.yaml": {
+          "originalName": "sidequest_dreamworld_perfectwind.yaml",
+          "type": "file",
+          "base": 3603558,
+          "length": 1604
+        },
+        "sidequest_dreamworld_pinkbeard.hero": {
+          "originalName": "sidequest_dreamworld_pinkbeard.HERO",
+          "type": "file",
+          "base": 3605162,
+          "length": 8073
+        },
+        "sidequest_dreamworld_pinkbeard.yaml": {
+          "originalName": "sidequest_dreamworld_pinkbeard.yaml",
+          "type": "file",
+          "base": 3613235,
+          "length": 8057
+        },
+        "sidequest_dreamworld_poolnoodle.hero": {
+          "originalName": "sidequest_dreamworld_poolnoodle.HERO",
+          "type": "file",
+          "base": 3621292,
+          "length": 2654
+        },
+        "sidequest_dreamworld_poolnoodle.yaml": {
+          "originalName": "sidequest_dreamworld_poolnoodle.yaml",
+          "type": "file",
+          "base": 3623946,
+          "length": 2638
+        },
+        "sidequest_dreamworld_rabbitkiller.hero": {
+          "originalName": "sidequest_dreamworld_rabbitkiller.HERO",
+          "type": "file",
+          "base": 3626584,
+          "length": 4472
+        },
+        "sidequest_dreamworld_rabbitkiller.yaml": {
+          "originalName": "sidequest_dreamworld_rabbitkiller.yaml",
+          "type": "file",
+          "base": 3631056,
+          "length": 4456
+        },
+        "sidequest_dreamworld_recycle.hero": {
+          "originalName": "sidequest_dreamworld_recycle.HERO",
+          "type": "file",
+          "base": 3635512,
+          "length": 2747
+        },
+        "sidequest_dreamworld_recycle.yaml": {
+          "originalName": "sidequest_dreamworld_recycle.yaml",
+          "type": "file",
+          "base": 3638259,
+          "length": 2731
+        },
+        "sidequest_dreamworld_seasons.hero": {
+          "originalName": "sidequest_dreamworld_seasons.HERO",
+          "type": "file",
+          "base": 3640990,
+          "length": 7310
+        },
+        "sidequest_dreamworld_seasons.yaml": {
+          "originalName": "sidequest_dreamworld_seasons.yaml",
+          "type": "file",
+          "base": 3648300,
+          "length": 7294
+        },
+        "sidequest_dreamworld_squizzards.hero": {
+          "originalName": "sidequest_dreamworld_squizzards.HERO",
+          "type": "file",
+          "base": 3655594,
+          "length": 1978
+        },
+        "sidequest_dreamworld_squizzards.yaml": {
+          "originalName": "sidequest_dreamworld_squizzards.yaml",
+          "type": "file",
+          "base": 3657572,
+          "length": 1962
+        },
+        "sidequest_dreamworld_stargazing.hero": {
+          "originalName": "sidequest_dreamworld_stargazing.HERO",
+          "type": "file",
+          "base": 3659534,
+          "length": 1251
+        },
+        "sidequest_dreamworld_stargazing.yaml": {
+          "originalName": "sidequest_dreamworld_stargazing.yaml",
+          "type": "file",
+          "base": 3660785,
+          "length": 1235
+        },
+        "sidequest_dreamworld_stolen.hero": {
+          "originalName": "sidequest_dreamworld_stolen.HERO",
+          "type": "file",
+          "base": 3662020,
+          "length": 4892
+        },
+        "sidequest_dreamworld_stolen.yaml": {
+          "originalName": "sidequest_dreamworld_stolen.yaml",
+          "type": "file",
+          "base": 3666912,
+          "length": 4876
+        },
+        "sidequest_dreamworld_stolen.yml": {
+          "originalName": "sidequest_dreamworld_stolen.yml",
+          "type": "file",
+          "base": 3671788,
+          "length": 4845
+        },
+        "sidequest_dreamworld_stoprain.hero": {
+          "originalName": "sidequest_dreamworld_stoprain.HERO",
+          "type": "file",
+          "base": 3676633,
+          "length": 5037
+        },
+        "sidequest_dreamworld_stoprain.yaml": {
+          "originalName": "sidequest_dreamworld_stoprain.yaml",
+          "type": "file",
+          "base": 3681670,
+          "length": 5021
+        },
+        "sidequest_dreamworld_tentacle.hero": {
+          "originalName": "sidequest_dreamworld_tentacle.HERO",
+          "type": "file",
+          "base": 3686691,
+          "length": 2802
+        },
+        "sidequest_dreamworld_tentacle.yaml": {
+          "originalName": "sidequest_dreamworld_tentacle.yaml",
+          "type": "file",
+          "base": 3689493,
+          "length": 2786
+        },
+        "sidequest_farawaytown_anniversarychoco.hero": {
+          "originalName": "sidequest_farawaytown_anniversarychoco.HERO",
+          "type": "file",
+          "base": 3692279,
+          "length": 8439
+        },
+        "sidequest_farawaytown_anniversarychoco.yaml": {
+          "originalName": "sidequest_farawaytown_anniversarychoco.yaml",
+          "type": "file",
+          "base": 3700718,
+          "length": 8423
+        },
+        "sidequest_farawaytown_anniversarypizza.hero": {
+          "originalName": "sidequest_farawaytown_anniversarypizza.HERO",
+          "type": "file",
+          "base": 3709141,
+          "length": 3478
+        },
+        "sidequest_farawaytown_anniversarypizza.yaml": {
+          "originalName": "sidequest_farawaytown_anniversarypizza.yaml",
+          "type": "file",
+          "base": 3712619,
+          "length": 3462
+        },
+        "sidequest_farawaytown_artist.hero": {
+          "originalName": "sidequest_farawaytown_artist.HERO",
+          "type": "file",
+          "base": 3716081,
+          "length": 2938
+        },
+        "sidequest_farawaytown_artist.yaml": {
+          "originalName": "sidequest_farawaytown_artist.yaml",
+          "type": "file",
+          "base": 3719019,
+          "length": 2922
+        },
+        "sidequest_farawaytown_birthdaygift1.hero": {
+          "originalName": "sidequest_farawaytown_birthdaygift1.HERO",
+          "type": "file",
+          "base": 3721941,
+          "length": 3397
+        },
+        "sidequest_farawaytown_birthdaygift1.yaml": {
+          "originalName": "sidequest_farawaytown_birthdaygift1.yaml",
+          "type": "file",
+          "base": 3725338,
+          "length": 3381
+        },
+        "sidequest_farawaytown_birthdaygift2.hero": {
+          "originalName": "sidequest_farawaytown_birthdaygift2.HERO",
+          "type": "file",
+          "base": 3728719,
+          "length": 9431
+        },
+        "sidequest_farawaytown_birthdaygift2.yaml": {
+          "originalName": "sidequest_farawaytown_birthdaygift2.yaml",
+          "type": "file",
+          "base": 3738150,
+          "length": 9415
+        },
+        "sidequest_farawaytown_bringangel.hero": {
+          "originalName": "sidequest_farawaytown_bringangel.HERO",
+          "type": "file",
+          "base": 3747565,
+          "length": 4222
+        },
+        "sidequest_farawaytown_bringangel.yaml": {
+          "originalName": "sidequest_farawaytown_bringangel.yaml",
+          "type": "file",
+          "base": 3751787,
+          "length": 4206
+        },
+        "sidequest_farawaytown_brushteeth.hero": {
+          "originalName": "sidequest_farawaytown_brushteeth.HERO",
+          "type": "file",
+          "base": 3755993,
+          "length": 588
+        },
+        "sidequest_farawaytown_brushteeth.yaml": {
+          "originalName": "sidequest_farawaytown_brushteeth.yaml",
+          "type": "file",
+          "base": 3756581,
+          "length": 572
+        },
+        "sidequest_farawaytown_claus.hero": {
+          "originalName": "sidequest_farawaytown_claus.HERO",
+          "type": "file",
+          "base": 3757153,
+          "length": 2291
+        },
+        "sidequest_farawaytown_claus.yaml": {
+          "originalName": "sidequest_farawaytown_claus.yaml",
+          "type": "file",
+          "base": 3759444,
+          "length": 2275
+        },
+        "sidequest_farawaytown_cooking.hero": {
+          "originalName": "sidequest_farawaytown_cooking.HERO",
+          "type": "file",
+          "base": 3761719,
+          "length": 5772
+        },
+        "sidequest_farawaytown_cooking.yaml": {
+          "originalName": "sidequest_farawaytown_cooking.yaml",
+          "type": "file",
+          "base": 3767491,
+          "length": 5756
+        },
+        "sidequest_farawaytown_fixarcademachine.hero": {
+          "originalName": "sidequest_farawaytown_fixarcademachine.HERO",
+          "type": "file",
+          "base": 3773247,
+          "length": 1720
+        },
+        "sidequest_farawaytown_fixarcademachine.yaml": {
+          "originalName": "sidequest_farawaytown_fixarcademachine.yaml",
+          "type": "file",
+          "base": 3774967,
+          "length": 1704
+        },
+        "sidequest_farawaytown_fixpipe.hero": {
+          "originalName": "sidequest_farawaytown_fixpipe.HERO",
+          "type": "file",
+          "base": 3776671,
+          "length": 9353
+        },
+        "sidequest_farawaytown_fixpipe.yaml": {
+          "originalName": "sidequest_farawaytown_fixpipe.yaml",
+          "type": "file",
+          "base": 3786024,
+          "length": 9337
+        },
+        "sidequest_farawaytown_flower.hero": {
+          "originalName": "sidequest_farawaytown_flower.HERO",
+          "type": "file",
+          "base": 3795361,
+          "length": 496
+        },
+        "sidequest_farawaytown_flower.yaml": {
+          "originalName": "sidequest_farawaytown_flower.yaml",
+          "type": "file",
+          "base": 3795857,
+          "length": 480
+        },
+        "sidequest_farawaytown_forgotmeat.hero": {
+          "originalName": "sidequest_farawaytown_forgotmeat.HERO",
+          "type": "file",
+          "base": 3796337,
+          "length": 3009
+        },
+        "sidequest_farawaytown_forgotmeat.yaml": {
+          "originalName": "sidequest_farawaytown_forgotmeat.yaml",
+          "type": "file",
+          "base": 3799346,
+          "length": 2993
+        },
+        "sidequest_farawaytown_fruitwaradrian.hero": {
+          "originalName": "sidequest_farawaytown_fruitwaradrian.HERO",
+          "type": "file",
+          "base": 3802339,
+          "length": 3821
+        },
+        "sidequest_farawaytown_fruitwaradrian.yaml": {
+          "originalName": "sidequest_farawaytown_fruitwaradrian.yaml",
+          "type": "file",
+          "base": 3806160,
+          "length": 3805
+        },
+        "sidequest_farawaytown_fruitwarbrayden.hero": {
+          "originalName": "sidequest_farawaytown_fruitwarbrayden.HERO",
+          "type": "file",
+          "base": 3809965,
+          "length": 4097
+        },
+        "sidequest_farawaytown_fruitwarbrayden.yaml": {
+          "originalName": "sidequest_farawaytown_fruitwarbrayden.yaml",
+          "type": "file",
+          "base": 3814062,
+          "length": 4081
+        },
+        "sidequest_farawaytown_ginohighscore.hero": {
+          "originalName": "sidequest_farawaytown_ginohighscore.HERO",
+          "type": "file",
+          "base": 3818143,
+          "length": 2168
+        },
+        "sidequest_farawaytown_ginohighscore.yaml": {
+          "originalName": "sidequest_farawaytown_ginohighscore.yaml",
+          "type": "file",
+          "base": 3820311,
+          "length": 2152
+        },
+        "sidequest_farawaytown_ginojukebox.hero": {
+          "originalName": "sidequest_farawaytown_ginojukebox.HERO",
+          "type": "file",
+          "base": 3822463,
+          "length": 4014
+        },
+        "sidequest_farawaytown_ginojukebox.yaml": {
+          "originalName": "sidequest_farawaytown_ginojukebox.yaml",
+          "type": "file",
+          "base": 3826477,
+          "length": 3998
+        },
+        "sidequest_farawaytown_hobbeezhighscore.hero": {
+          "originalName": "sidequest_farawaytown_hobbeezhighscore.HERO",
+          "type": "file",
+          "base": 3830475,
+          "length": 1466
+        },
+        "sidequest_farawaytown_hobbeezhighscore.yaml": {
+          "originalName": "sidequest_farawaytown_hobbeezhighscore.yaml",
+          "type": "file",
+          "base": 3831941,
+          "length": 1450
+        },
+        "sidequest_farawaytown_hobbeezhighscore.yml": {
+          "originalName": "sidequest_farawaytown_hobbeezhighscore.yml",
+          "type": "file",
+          "base": 3833391,
+          "length": 1471
+        },
+        "sidequest_farawaytown_jackson.hero": {
+          "originalName": "sidequest_farawaytown_jackson.HERO",
+          "type": "file",
+          "base": 3834862,
+          "length": 1149
+        },
+        "sidequest_farawaytown_jackson.yaml": {
+          "originalName": "sidequest_farawaytown_jackson.yaml",
+          "type": "file",
+          "base": 3836011,
+          "length": 1133
+        },
+        "sidequest_farawaytown_lostlucas.hero": {
+          "originalName": "sidequest_farawaytown_lostlucas.HERO",
+          "type": "file",
+          "base": 3837144,
+          "length": 1214
+        },
+        "sidequest_farawaytown_lostlucas.yaml": {
+          "originalName": "sidequest_farawaytown_lostlucas.yaml",
+          "type": "file",
+          "base": 3838358,
+          "length": 1198
+        },
+        "sidequest_farawaytown_lostlucas.yml": {
+          "originalName": "sidequest_farawaytown_lostlucas.yml",
+          "type": "file",
+          "base": 3839556,
+          "length": 1178
+        },
+        "sidequest_farawaytown_medication.hero": {
+          "originalName": "sidequest_farawaytown_medication.HERO",
+          "type": "file",
+          "base": 3840734,
+          "length": 2822
+        },
+        "sidequest_farawaytown_medication.yaml": {
+          "originalName": "sidequest_farawaytown_medication.yaml",
+          "type": "file",
+          "base": 3843556,
+          "length": 2806
+        },
+        "sidequest_farawaytown_michaelslunch.hero": {
+          "originalName": "sidequest_farawaytown_michaelslunch.HERO",
+          "type": "file",
+          "base": 3846362,
+          "length": 4016
+        },
+        "sidequest_farawaytown_michaelslunch.yaml": {
+          "originalName": "sidequest_farawaytown_michaelslunch.yaml",
+          "type": "file",
+          "base": 3850378,
+          "length": 4000
+        },
+        "sidequest_farawaytown_michaelthemusician.hero": {
+          "originalName": "sidequest_farawaytown_michaelthemusician.HERO",
+          "type": "file",
+          "base": 3854378,
+          "length": 3157
+        },
+        "sidequest_farawaytown_michaelthemusician.yaml": {
+          "originalName": "sidequest_farawaytown_michaelthemusician.yaml",
+          "type": "file",
+          "base": 3857535,
+          "length": 3141
+        },
+        "sidequest_farawaytown_mincy.hero": {
+          "originalName": "sidequest_farawaytown_mincy.HERO",
+          "type": "file",
+          "base": 3860676,
+          "length": 13887
+        },
+        "sidequest_farawaytown_mincy.yaml": {
+          "originalName": "sidequest_farawaytown_mincy.yaml",
+          "type": "file",
+          "base": 3874563,
+          "length": 13871
+        },
+        "sidequest_farawaytown_missingshears.hero": {
+          "originalName": "sidequest_farawaytown_missingshears.HERO",
+          "type": "file",
+          "base": 3888434,
+          "length": 2645
+        },
+        "sidequest_farawaytown_missingshears.yaml": {
+          "originalName": "sidequest_farawaytown_missingshears.yaml",
+          "type": "file",
+          "base": 3891079,
+          "length": 2629
+        },
+        "sidequest_farawaytown_mypie.hero": {
+          "originalName": "sidequest_farawaytown_mypie.HERO",
+          "type": "file",
+          "base": 3893708,
+          "length": 1427
+        },
+        "sidequest_farawaytown_mypie.yaml": {
+          "originalName": "sidequest_farawaytown_mypie.yaml",
+          "type": "file",
+          "base": 3895135,
+          "length": 1411
+        },
+        "sidequest_farawaytown_oldhobo.hero": {
+          "originalName": "sidequest_farawaytown_oldhobo.HERO",
+          "type": "file",
+          "base": 3896546,
+          "length": 2505
+        },
+        "sidequest_farawaytown_oldhobo.yaml": {
+          "originalName": "sidequest_farawaytown_oldhobo.yaml",
+          "type": "file",
+          "base": 3899051,
+          "length": 2489
+        },
+        "sidequest_farawaytown_pickingpaint.hero": {
+          "originalName": "sidequest_farawaytown_pickingpaint.HERO",
+          "type": "file",
+          "base": 3901540,
+          "length": 4114
+        },
+        "sidequest_farawaytown_pickingpaint.yaml": {
+          "originalName": "sidequest_farawaytown_pickingpaint.yaml",
+          "type": "file",
+          "base": 3905654,
+          "length": 4098
+        },
+        "sidequest_farawaytown_pickupfurniture.hero": {
+          "originalName": "sidequest_farawaytown_pickupfurniture.HERO",
+          "type": "file",
+          "base": 3909752,
+          "length": 4051
+        },
+        "sidequest_farawaytown_pickupfurniture.yaml": {
+          "originalName": "sidequest_farawaytown_pickupfurniture.yaml",
+          "type": "file",
+          "base": 3913803,
+          "length": 4035
+        },
+        "sidequest_farawaytown_ringinthesink.hero": {
+          "originalName": "sidequest_farawaytown_ringinthesink.HERO",
+          "type": "file",
+          "base": 3917838,
+          "length": 3030
+        },
+        "sidequest_farawaytown_ringinthesink.yaml": {
+          "originalName": "sidequest_farawaytown_ringinthesink.yaml",
+          "type": "file",
+          "base": 3920868,
+          "length": 3014
+        },
+        "sidequest_farawaytown_seashells.hero": {
+          "originalName": "sidequest_farawaytown_seashells.HERO",
+          "type": "file",
+          "base": 3923882,
+          "length": 7428
+        },
+        "sidequest_farawaytown_seashells.yaml": {
+          "originalName": "sidequest_farawaytown_seashells.yaml",
+          "type": "file",
+          "base": 3931310,
+          "length": 7412
+        },
+        "sidequest_farawaytown_shutin.hero": {
+          "originalName": "sidequest_farawaytown_shutin.HERO",
+          "type": "file",
+          "base": 3938722,
+          "length": 836
+        },
+        "sidequest_farawaytown_shutin.yaml": {
+          "originalName": "sidequest_farawaytown_shutin.yaml",
+          "type": "file",
+          "base": 3939558,
+          "length": 820
+        },
+        "sidequest_farawaytown_smellyhobo.hero": {
+          "originalName": "sidequest_farawaytown_smellyhobo.HERO",
+          "type": "file",
+          "base": 3940378,
+          "length": 1742
+        },
+        "sidequest_farawaytown_smellyhobo.yaml": {
+          "originalName": "sidequest_farawaytown_smellyhobo.yaml",
+          "type": "file",
+          "base": 3942120,
+          "length": 1726
+        },
+        "sidequest_farawaytown_sneakingoutbrent.hero": {
+          "originalName": "sidequest_farawaytown_sneakingoutbrent.HERO",
+          "type": "file",
+          "base": 3943846,
+          "length": 2868
+        },
+        "sidequest_farawaytown_sneakingoutbrent.yaml": {
+          "originalName": "sidequest_farawaytown_sneakingoutbrent.yaml",
+          "type": "file",
+          "base": 3946714,
+          "length": 2852
+        },
+        "sidequest_farawaytown_sneakingoutjoy.hero": {
+          "originalName": "sidequest_farawaytown_sneakingoutjoy.HERO",
+          "type": "file",
+          "base": 3949566,
+          "length": 2613
+        },
+        "sidequest_farawaytown_sneakingoutjoy.yaml": {
+          "originalName": "sidequest_farawaytown_sneakingoutjoy.yaml",
+          "type": "file",
+          "base": 3952179,
+          "length": 2597
+        },
+        "sidequest_farawaytown_toiletseat.hero": {
+          "originalName": "sidequest_farawaytown_toiletseat.HERO",
+          "type": "file",
+          "base": 3954776,
+          "length": 438
+        },
+        "sidequest_farawaytown_toiletseat.yaml": {
+          "originalName": "sidequest_farawaytown_toiletseat.yaml",
+          "type": "file",
+          "base": 3955214,
+          "length": 422
+        },
+        "sidequest_farawaytown_trashpickup.hero": {
+          "originalName": "sidequest_farawaytown_trashpickup.HERO",
+          "type": "file",
+          "base": 3955636,
+          "length": 1951
+        },
+        "sidequest_farawaytown_trashpickup.yaml": {
+          "originalName": "sidequest_farawaytown_trashpickup.yaml",
+          "type": "file",
+          "base": 3957587,
+          "length": 1935
+        },
+        "sidequest_farawaytown_tutorbrent.hero": {
+          "originalName": "sidequest_farawaytown_tutorbrent.HERO",
+          "type": "file",
+          "base": 3959522,
+          "length": 6507
+        },
+        "sidequest_farawaytown_tutorbrent.yaml": {
+          "originalName": "sidequest_farawaytown_tutorbrent.yaml",
+          "type": "file",
+          "base": 3966029,
+          "length": 6491
+        },
+        "sidequest_farawaytown_tutorjoy.hero": {
+          "originalName": "sidequest_farawaytown_tutorjoy.HERO",
+          "type": "file",
+          "base": 3972520,
+          "length": 4230
+        },
+        "sidequest_farawaytown_tutorjoy.yaml": {
+          "originalName": "sidequest_farawaytown_tutorjoy.yaml",
+          "type": "file",
+          "base": 3976750,
+          "length": 4214
+        },
+        "sidequest_farawaytown_wherestheremote.hero": {
+          "originalName": "sidequest_farawaytown_wherestheremote.HERO",
+          "type": "file",
+          "base": 3980964,
+          "length": 4517
+        },
+        "sidequest_farawaytown_wherestheremote.yaml": {
+          "originalName": "sidequest_farawaytown_wherestheremote.yaml",
+          "type": "file",
+          "base": 3985481,
+          "length": 4501
+        },
+        "signs.hero": {
+          "originalName": "signs.HERO",
+          "type": "file",
+          "base": 3989982,
+          "length": 6958
+        },
+        "signs.yaml": {
+          "originalName": "signs.yaml",
+          "type": "file",
+          "base": 3996940,
+          "length": 6942
+        },
+        "skills.json": {
+          "originalName": "Skills.json",
+          "type": "file",
+          "base": 4003882,
+          "length": 695350
+        },
+        "slot_machine_minigame.hero": {
+          "originalName": "slot_machine_minigame.HERO",
+          "type": "file",
+          "base": 4699232,
+          "length": 728
+        },
+        "slot_machine_minigame.yaml": {
+          "originalName": "slot_machine_minigame.yaml",
+          "type": "file",
+          "base": 4699960,
+          "length": 712
+        },
+        "snaley_tragedy.hero": {
+          "originalName": "snaley_tragedy.HERO",
+          "type": "file",
+          "base": 4700672,
+          "length": 4893
+        },
+        "snaley_tragedy.yaml": {
+          "originalName": "snaley_tragedy.yaml",
+          "type": "file",
+          "base": 4705565,
+          "length": 4877
+        },
+        "system.hero": {
+          "originalName": "System.HERO",
+          "type": "file",
+          "base": 4710442,
+          "length": 58407
+        },
+        "system.yaml": {
+          "originalName": "System.yaml",
+          "type": "file",
+          "base": 4768849,
+          "length": 58391
+        },
+        "system.yaml.bak": {
+          "originalName": "System.yaml.bak",
+          "type": "file",
+          "base": 4827240,
+          "length": 57818
+        },
+        "system.yml.bak": {
+          "originalName": "System.yml.bak",
+          "type": "file",
+          "base": 4885058,
+          "length": 57784
+        },
+        "televisions.hero": {
+          "originalName": "televisions.HERO",
+          "type": "file",
+          "base": 4942842,
+          "length": 3387
+        },
+        "televisions.yaml": {
+          "originalName": "televisions.yaml",
+          "type": "file",
+          "base": 4946229,
+          "length": 3371
+        },
+        "test.hero": {
+          "originalName": "TEST.HERO",
+          "type": "file",
+          "base": 4949600,
+          "length": 1428
+        },
+        "test.yaml": {
+          "originalName": "TEST.yaml",
+          "type": "file",
+          "base": 4951028,
+          "length": 1412
+        },
+        "wtf.hero": {
+          "originalName": "wtf.HERO",
+          "type": "file",
+          "base": 4952440,
+          "length": 563
+        },
+        "wtf.yaml": {
+          "originalName": "wtf.yaml",
+          "type": "file",
+          "base": 4953003,
+          "length": 547
+        },
+        "xx_battle_text.hero": {
+          "originalName": "xx_battle_text.HERO",
+          "type": "file",
+          "base": 4953550,
+          "length": 69987
+        },
+        "xx_battle_text.yaml": {
+          "originalName": "xx_battle_text.yaml",
+          "type": "file",
+          "base": 5023537,
+          "length": 69971
+        },
+        "xx_blue.hero": {
+          "originalName": "XX_BLUE.HERO",
+          "type": "file",
+          "base": 5093508,
+          "length": 22064
+        },
+        "xx_blue.yaml": {
+          "originalName": "XX_BLUE.yaml",
+          "type": "file",
+          "base": 5115572,
+          "length": 22048
+        },
+        "xx_blue.yaml.bak": {
+          "originalName": "XX_BLUE.yaml.bak",
+          "type": "file",
+          "base": 5137620,
+          "length": 22059
+        },
+        "xx_cutscenes_ems.hero": {
+          "originalName": "xx_cutscenes_ems.HERO",
+          "type": "file",
+          "base": 5159679,
+          "length": 3865
+        },
+        "xx_cutscenes_ems.yaml": {
+          "originalName": "xx_cutscenes_ems.yaml",
+          "type": "file",
+          "base": 5163544,
+          "length": 3849
+        },
+        "xx_general.hero": {
+          "originalName": "XX_GENERAL.HERO",
+          "type": "file",
+          "base": 5167393,
+          "length": 8354
+        },
+        "xx_general.yaml": {
+          "originalName": "XX_GENERAL.yaml",
+          "type": "file",
+          "base": 5175747,
+          "length": 8338
+        },
+        "xx_general.yaml.bak": {
+          "originalName": "XX_GENERAL.yaml.bak",
+          "type": "file",
+          "base": 5184085,
+          "length": 8281
+        },
+        "xx_item_get.hero": {
+          "originalName": "XX_ITEM_GET.HERO",
+          "type": "file",
+          "base": 5192366,
+          "length": 687
+        },
+        "xx_item_get.yaml": {
+          "originalName": "XX_ITEM_GET.yaml",
+          "type": "file",
+          "base": 5193053,
+          "length": 671
+        },
+        "xx_map_expansion.hero": {
+          "originalName": "xx_map_expansion.HERO",
+          "type": "file",
+          "base": 5193724,
+          "length": 50802
+        },
+        "xx_map_expansion.yaml": {
+          "originalName": "xx_map_expansion.yaml",
+          "type": "file",
+          "base": 5244526,
+          "length": 50786
+        },
+        "xx_mari_locations.hero": {
+          "originalName": "XX_MARI_LOCATIONS.HERO",
+          "type": "file",
+          "base": 5295312,
+          "length": 19398
+        },
+        "xx_mari_locations.yaml": {
+          "originalName": "XX_MARI_LOCATIONS.yaml",
+          "type": "file",
+          "base": 5314710,
+          "length": 19382
+        },
+        "xx_melon.hero": {
+          "originalName": "XX_MELON.HERO",
+          "type": "file",
+          "base": 5334092,
+          "length": 99266
+        },
+        "xx_melon.yaml": {
+          "originalName": "XX_MELON.yaml",
+          "type": "file",
+          "base": 5433358,
+          "length": 99250
+        },
+        "xx_ocean.hero": {
+          "originalName": "XX_OCEAN.HERO",
+          "type": "file",
+          "base": 5532608,
+          "length": 53442
+        },
+        "xx_ocean.yaml": {
+          "originalName": "XX_OCEAN.yaml",
+          "type": "file",
+          "base": 5586050,
+          "length": 53426
+        },
+        "xx_quest.hero": {
+          "originalName": "XX_QUEST.HERO",
+          "type": "file",
+          "base": 5639476,
+          "length": 42260
+        },
+        "xx_quest.yaml": {
+          "originalName": "XX_QUEST.yaml",
+          "type": "file",
+          "base": 5681736,
+          "length": 42244
+        },
+        "xx_quest_tracker.hero": {
+          "originalName": "XX_QUEST_TRACKER.HERO",
+          "type": "file",
+          "base": 5723980,
+          "length": 13309
+        },
+        "xx_quest_tracker.yaml": {
+          "originalName": "XX_QUEST_TRACKER.yaml",
+          "type": "file",
+          "base": 5737289,
+          "length": 13293
+        },
+        "xx_skill_get.hero": {
+          "originalName": "XX_SKILL_GET.HERO",
+          "type": "file",
+          "base": 5750582,
+          "length": 2014
+        },
+        "xx_skill_get.yaml": {
+          "originalName": "XX_SKILL_GET.yaml",
+          "type": "file",
+          "base": 5752596,
+          "length": 1998
+        },
+        "xx_system.hero": {
+          "originalName": "XX_SYSTEM.HERO",
+          "type": "file",
+          "base": 5754594,
+          "length": 5131
+        },
+        "xx_system.yaml": {
+          "originalName": "XX_SYSTEM.yaml",
+          "type": "file",
+          "base": 5759725,
+          "length": 5115
+        },
+        "xx_tagreject.hero": {
+          "originalName": "XX_TAGREJECT.HERO",
+          "type": "file",
+          "base": 5764840,
+          "length": 1094
+        },
+        "xx_tagreject.yaml": {
+          "originalName": "XX_TAGREJECT.yaml",
+          "type": "file",
+          "base": 5765934,
+          "length": 1078
+        },
+        "xx_tombstones.hero": {
+          "originalName": "xx_tombstones.HERO",
+          "type": "file",
+          "base": 5767012,
+          "length": 2886
+        },
+        "xx_tombstones.yaml": {
+          "originalName": "xx_tombstones.yaml",
+          "type": "file",
+          "base": 5769898,
+          "length": 2870
+        }
+      }
+    },
+    "farawaytown_extras_mavericks.yaml": {
+      "originalName": "farawaytown_extras_mavericks.yaml",
+      "type": "file",
+      "base": 5772768,
+      "length": 5869
+    },
+    "omori base.js": {
+      "originalName": "Omori BASE.js",
+      "type": "file",
+      "base": 5778637,
+      "length": 268912
+    },
+    "omori blacklettermenu.js": {
+      "originalName": "Omori BlackLetterMenu.js",
+      "type": "file",
+      "base": 6047549,
+      "length": 44506
+    },
+    "omori item shop.js": {
+      "originalName": "Omori Item Shop.js",
+      "type": "file",
+      "base": 6092055,
+      "length": 44321
+    },
+    "omori main menu - scene equip.js": {
+      "originalName": "Omori Main Menu - Scene Equip.js",
+      "type": "file",
+      "base": 6136376,
+      "length": 41726
+    },
+    "omori main menu - scene options.js": {
+      "originalName": "Omori Main Menu - Scene Options.js",
+      "type": "file",
+      "base": 6178102,
+      "length": 76640
+    },
+    "omori main menu - scene skill.js": {
+      "originalName": "Omori Main Menu - Scene Skill.js",
+      "type": "file",
+      "base": 6254742,
+      "length": 42524
+    },
+    "omori save & load.js": {
+      "originalName": "Omori Save & Load.js",
+      "type": "file",
+      "base": 6297266,
+      "length": 31415
+    },
+    "skills.json": {
+      "originalName": "Skills.json",
+      "type": "file",
+      "base": 6328681,
+      "length": 758794
+    },
+    "xx_blue.yaml": {
+      "originalName": "XX_BLUE.yaml",
+      "type": "file",
+      "base": 7087475,
+      "length": 22159
+    },
+    "xx_blue.yml": {
+      "originalName": "XX_BLUE.yml",
+      "type": "file",
+      "base": 7109634,
+      "length": 22249
+    }
+  }
+}
