@@ -481,164 +481,7 @@
     "plugin": {
       "originalName": "plugin",
       "type": "dir",
-      "children": {
-        "basil rush.js": {
-          "originalName": "Basil Rush.js",
-          "type": "file",
-          "base": 11081833,
-          "length": 1495
-        },
-        "custom battle action text.js": {
-          "originalName": "Custom Battle Action Text.js",
-          "type": "file",
-          "base": 11083328,
-          "length": 131972
-        },
-        "custom battle action text.js.bak": {
-          "originalName": "Custom Battle Action Text.js.bak",
-          "type": "file",
-          "base": 11215300,
-          "length": 128363
-        },
-        "dgt_badges.js": {
-          "originalName": "DGT_Badges.js",
-          "type": "file",
-          "base": 11343663,
-          "length": 46077
-        },
-        "dgt_badges.js.bak": {
-          "originalName": "DGT_Badges.js.bak",
-          "type": "file",
-          "base": 11389740,
-          "length": 46064
-        },
-        "gtp_omorifixes.js": {
-          "originalName": "GTP_OmoriFixes.js",
-          "type": "file",
-          "base": 11435804,
-          "length": 123355
-        },
-        "gtp_omorifixes.js.bak": {
-          "originalName": "GTP_OmoriFixes.js.bak",
-          "type": "file",
-          "base": 11559159,
-          "length": 123353
-        },
-        "omori base.js": {
-          "originalName": "Omori BASE.js",
-          "type": "file",
-          "base": 11682512,
-          "length": 270853
-        },
-        "omori base.js.bak": {
-          "originalName": "Omori BASE.js.bak",
-          "type": "file",
-          "base": 11953365,
-          "length": 270853
-        },
-        "omori battle system.js": {
-          "originalName": "Omori Battle System.js",
-          "type": "file",
-          "base": 12224218,
-          "length": 215176
-        },
-        "omori blacklettermap.js": {
-          "originalName": "Omori BlackLetterMap.js",
-          "type": "file",
-          "base": 12439394,
-          "length": 14001
-        },
-        "omori blacklettermenu.js": {
-          "originalName": "Omori BlackLetterMenu.js",
-          "type": "file",
-          "base": 12453395,
-          "length": 44626
-        },
-        "omori blacklettermenu.js.bak": {
-          "originalName": "Omori BlackLetterMenu.js.bak",
-          "type": "file",
-          "base": 12498021,
-          "length": 44626
-        },
-        "omori fake photo album.js": {
-          "originalName": "Omori Fake Photo Album.js",
-          "type": "file",
-          "base": 12542647,
-          "length": 807
-        },
-        "omori main menu - scene equip.js": {
-          "originalName": "Omori Main Menu - Scene Equip.js",
-          "type": "file",
-          "base": 12543454,
-          "length": 41736
-        },
-        "omori main menu - scene item.js": {
-          "originalName": "Omori Main Menu - Scene Item.js",
-          "type": "file",
-          "base": 12585190,
-          "length": 38992
-        },
-        "omori main menu.js": {
-          "originalName": "Omori Main Menu.js",
-          "type": "file",
-          "base": 12624182,
-          "length": 83542
-        },
-        "omori main menu.js.bak": {
-          "originalName": "Omori Main Menu.js.bak",
-          "type": "file",
-          "base": 12707724,
-          "length": 83542
-        },
-        "omori title screen.js": {
-          "originalName": "Omori Title Screen.js",
-          "type": "file",
-          "base": 12791266,
-          "length": 49484
-        },
-        "omori title screen.js.bak": {
-          "originalName": "Omori Title Screen.js.bak",
-          "type": "file",
-          "base": 12840750,
-          "length": 49453
-        },
-        "rph.macrorebind.js": {
-          "originalName": "rph.macrorebind.js",
-          "type": "file",
-          "base": 12890203,
-          "length": 2815
-        },
-        "rph.macrorebind.js.bak": {
-          "originalName": "rph.macrorebind.js.bak",
-          "type": "file",
-          "base": 12893018,
-          "length": 2767
-        },
-        "slotmachine.js": {
-          "originalName": "SlotMachine.js",
-          "type": "file",
-          "base": 12895785,
-          "length": 59218
-        },
-        "tds text effects.js": {
-          "originalName": "TDS Text Effects.js",
-          "type": "file",
-          "base": 12955003,
-          "length": 27344
-        },
-        "tds text effects.js.bak": {
-          "originalName": "TDS Text Effects.js.bak",
-          "type": "file",
-          "base": 12982347,
-          "length": 27254
-        },
-        "zzz_fixbattlechoices.js": {
-          "originalName": "zzz_fixbattlechoices.js",
-          "type": "file",
-          "base": 13009601,
-          "length": 611
-        }
-      }
+      "children": {}
     },
     "plugins": {
       "originalName": "plugins",
@@ -647,2109 +490,2181 @@
         "--------------------.js": {
           "originalName": "--------------------.js",
           "type": "file",
-          "base": 13010212,
+          "base": 11081833,
           "length": 278
         },
         "--------------------.omori": {
           "originalName": "--------------------.OMORI",
           "type": "file",
-          "base": 13010490,
+          "base": 11082111,
           "length": 294
         },
         "---------battle--------- .js": {
           "originalName": "---------BATTLE--------- .js",
           "type": "file",
-          "base": 13010784,
+          "base": 11082405,
           "length": 0
         },
         "---------battle--------- .omori": {
           "originalName": "---------BATTLE--------- .OMORI",
           "type": "file",
-          "base": 13010784,
+          "base": 11082405,
           "length": 16
         },
         "---------battle_core---------.js": {
           "originalName": "---------BATTLE_CORE---------.js",
           "type": "file",
-          "base": 13010800,
+          "base": 11082421,
           "length": 0
         },
         "---------battle_core---------.omori": {
           "originalName": "---------BATTLE_CORE---------.OMORI",
           "type": "file",
-          "base": 13010800,
+          "base": 11082421,
           "length": 16
         },
         "---------core---------.js": {
           "originalName": "---------CORE---------.js",
           "type": "file",
-          "base": 13010816,
+          "base": 11082437,
           "length": 0
         },
         "---------core---------.omori": {
           "originalName": "---------CORE---------.OMORI",
           "type": "file",
-          "base": 13010816,
+          "base": 11082437,
           "length": 16
         },
         "---------eventer---------.js": {
           "originalName": "---------EVENTER---------.js",
           "type": "file",
-          "base": 13010832,
+          "base": 11082453,
           "length": 0
         },
         "---------eventer---------.omori": {
           "originalName": "---------EVENTER---------.OMORI",
           "type": "file",
-          "base": 13010832,
+          "base": 11082453,
           "length": 16
         },
         "---------items---------.js": {
           "originalName": "---------ITEMS---------.js",
           "type": "file",
-          "base": 13010848,
+          "base": 11082469,
           "length": 0
         },
         "---------items---------.omori": {
           "originalName": "---------ITEMS---------.OMORI",
           "type": "file",
-          "base": 13010848,
+          "base": 11082469,
           "length": 16
         },
         "---------map---------.js": {
           "originalName": "---------MAP---------.js",
           "type": "file",
-          "base": 13010864,
+          "base": 11082485,
           "length": 0
         },
         "---------map---------.omori": {
           "originalName": "---------MAP---------.OMORI",
           "type": "file",
-          "base": 13010864,
+          "base": 11082485,
           "length": 16
         },
         "---------map_movement---------.js": {
           "originalName": "---------MAP_MOVEMENT---------.js",
           "type": "file",
-          "base": 13010880,
+          "base": 11082501,
           "length": 0
         },
         "---------map_movement---------.omori": {
           "originalName": "---------MAP_MOVEMENT---------.OMORI",
           "type": "file",
-          "base": 13010880,
+          "base": 11082501,
           "length": 16
         },
         "---------menu---------.js": {
           "originalName": "---------MENU---------.js",
           "type": "file",
-          "base": 13010896,
+          "base": 11082517,
           "length": 0
         },
         "---------menu---------.omori": {
           "originalName": "---------MENU---------.OMORI",
           "type": "file",
-          "base": 13010896,
+          "base": 11082517,
           "length": 16
         },
         "---------message---------.js": {
           "originalName": "---------MESSAGE---------.js",
           "type": "file",
-          "base": 13010912,
+          "base": 11082533,
           "length": 0
         },
         "---------message---------.omori": {
           "originalName": "---------MESSAGE---------.OMORI",
           "type": "file",
-          "base": 13010912,
+          "base": 11082533,
           "length": 16
         },
         "---------omori----------.js": {
           "originalName": "---------OMORI----------.js",
           "type": "file",
-          "base": 13010928,
+          "base": 11082549,
           "length": 0
         },
         "---------omori----------.omori": {
           "originalName": "---------OMORI----------.OMORI",
           "type": "file",
-          "base": 13010928,
+          "base": 11082549,
           "length": 16
         },
         "---------skills---------.js": {
           "originalName": "---------SKILLS---------.js",
           "type": "file",
-          "base": 13010944,
+          "base": 11082565,
           "length": 0
         },
         "---------skills---------.omori": {
           "originalName": "---------SKILLS---------.OMORI",
           "type": "file",
-          "base": 13010944,
+          "base": 11082565,
           "length": 16
         },
         "---------utility---------.js": {
           "originalName": "---------UTILITY---------.js",
           "type": "file",
-          "base": 13010960,
+          "base": 11082581,
           "length": 0
         },
         "---------utility---------.omori": {
           "originalName": "---------UTILITY---------.OMORI",
           "type": "file",
-          "base": 13010960,
+          "base": 11082581,
           "length": 16
         },
         "active chain skills.js": {
           "originalName": "Active Chain Skills.js",
           "type": "file",
-          "base": 13010976,
+          "base": 11082597,
           "length": 31131
         },
         "active chain skills.omori": {
           "originalName": "Active Chain Skills.OMORI",
           "type": "file",
-          "base": 13042107,
+          "base": 11113728,
           "length": 31147
         },
         "ael_tilesetpropertyregions.js": {
           "originalName": "AEL_TilesetPropertyRegions.js",
           "type": "file",
-          "base": 13073254,
+          "base": 11144875,
           "length": 4642
         },
         "ael_tilesetpropertyregions.omori": {
           "originalName": "AEL_TilesetPropertyRegions.OMORI",
           "type": "file",
-          "base": 13077896,
+          "base": 11149517,
           "length": 4658
         },
         "aetherflow_preloadeverything.js": {
           "originalName": "Aetherflow_PreloadEverything.js",
           "type": "file",
-          "base": 13082554,
+          "base": 11154175,
           "length": 28037
         },
         "aetherflow_preloadeverything.omori": {
           "originalName": "Aetherflow_PreloadEverything.OMORI",
           "type": "file",
-          "base": 13110591,
+          "base": 11182212,
           "length": 28053
         },
         "anti fail actions.js": {
           "originalName": "Anti Fail Actions.js",
           "type": "file",
-          "base": 13138644,
+          "base": 11210265,
           "length": 1211
         },
         "anti fail actions.omori": {
           "originalName": "Anti Fail Actions.OMORI",
           "type": "file",
-          "base": 13139855,
+          "base": 11211476,
           "length": 1227
         },
         "archeia_corechanges.js": {
           "originalName": "Archeia_CoreChanges.js",
           "type": "file",
-          "base": 13141082,
+          "base": 11212703,
           "length": 9058
         },
         "archeia_corechanges.omori": {
           "originalName": "Archeia_CoreChanges.OMORI",
           "type": "file",
-          "base": 13150140,
+          "base": 11221761,
           "length": 9074
         },
         "archeia_messagecodes.js": {
           "originalName": "Archeia_MessageCodes.js",
           "type": "file",
-          "base": 13159214,
+          "base": 11230835,
           "length": 9639
         },
         "archeia_messagecodes.omori": {
           "originalName": "Archeia_MessageCodes.OMORI",
           "type": "file",
-          "base": 13168853,
+          "base": 11240474,
           "length": 9655
         },
         "archeia_steamworks.js": {
           "originalName": "Archeia_Steamworks.js",
           "type": "file",
-          "base": 13178508,
+          "base": 11250129,
           "length": 48143
         },
         "archeia_steamworks.omori": {
           "originalName": "Archeia_Steamworks.OMORI",
           "type": "file",
-          "base": 13226651,
+          "base": 11298272,
           "length": 48159
         },
         "aries001_animationscreeneffects.js": {
           "originalName": "Aries001_AnimationScreenEffects.js",
           "type": "file",
-          "base": 13274810,
+          "base": 11346431,
           "length": 123557
         },
         "aries001_animationscreeneffects.omori": {
           "originalName": "Aries001_AnimationScreenEffects.OMORI",
           "type": "file",
-          "base": 13398367,
+          "base": 11469988,
           "length": 123573
         },
         "aries003_weathercontrol.js": {
           "originalName": "Aries003_WeatherControl.js",
           "type": "file",
-          "base": 13521940,
+          "base": 11593561,
           "length": 38809
         },
         "aries003_weathercontrol.omori": {
           "originalName": "Aries003_WeatherControl.OMORI",
           "type": "file",
-          "base": 13560749,
+          "base": 11632370,
           "length": 38825
         },
         "atlas loader.js": {
           "originalName": "Atlas Loader.js",
           "type": "file",
-          "base": 13599574,
+          "base": 11671195,
           "length": 19960
         },
         "atlas loader.omori": {
           "originalName": "Atlas Loader.OMORI",
           "type": "file",
-          "base": 13619534,
+          "base": 11691155,
           "length": 19976
         },
         "audiostreaming.js": {
           "originalName": "AudioStreaming.js",
           "type": "file",
-          "base": 13639510,
+          "base": 11711131,
           "length": 36469
         },
         "audiostreaming.omori": {
           "originalName": "AudioStreaming.OMORI",
           "type": "file",
-          "base": 13675979,
+          "base": 11747600,
           "length": 36485
+        },
+        "basil rush.js": {
+          "originalName": "Basil Rush.js",
+          "type": "file",
+          "base": 11784085,
+          "length": 1495
         },
         "battle commands list.js": {
           "originalName": "Battle Commands List.js",
           "type": "file",
-          "base": 13712464,
+          "base": 11785580,
           "length": 16078
         },
         "battle commands list.omori": {
           "originalName": "Battle Commands List.OMORI",
           "type": "file",
-          "base": 13728542,
+          "base": 11801658,
           "length": 16094
         },
         "character_movement_graphics.js": {
           "originalName": "Character_Movement_Graphics.js",
           "type": "file",
-          "base": 13744636,
+          "base": 11817752,
           "length": 21321
         },
         "character_movement_graphics.omori": {
           "originalName": "Character_Movement_Graphics.OMORI",
           "type": "file",
-          "base": 13765957,
+          "base": 11839073,
           "length": 21337
         },
         "community_basic.js": {
           "originalName": "Community_Basic.js",
           "type": "file",
-          "base": 13787294,
+          "base": 11860410,
           "length": 8609
         },
         "community_basic.omori": {
           "originalName": "Community_Basic.OMORI",
           "type": "file",
-          "base": 13795903,
+          "base": 11869019,
           "length": 8625
         },
         "custom battle action text.js": {
           "originalName": "Custom Battle Action Text.js",
           "type": "file",
-          "base": 13804528,
-          "length": 120244
+          "base": 11877644,
+          "length": 131972
+        },
+        "custom battle action text.js.bak": {
+          "originalName": "Custom Battle Action Text.js.bak",
+          "type": "file",
+          "base": 12009616,
+          "length": 128363
         },
         "custom battle action text.omori": {
           "originalName": "Custom Battle Action Text.OMORI",
           "type": "file",
-          "base": 13924772,
+          "base": 12137979,
           "length": 120260
         },
         "custom picture controls.js": {
           "originalName": "Custom Picture Controls.js",
           "type": "file",
-          "base": 14045032,
+          "base": 12258239,
           "length": 15045
         },
         "custom picture controls.omori": {
           "originalName": "Custom Picture Controls.OMORI",
           "type": "file",
-          "base": 14060077,
+          "base": 12273284,
           "length": 15061
         },
         "custom_character_rectangles.js": {
           "originalName": "Custom_Character_Rectangles.js",
           "type": "file",
-          "base": 14075138,
+          "base": 12288345,
           "length": 7730
         },
         "custom_character_rectangles.omori": {
           "originalName": "Custom_Character_Rectangles.OMORI",
           "type": "file",
-          "base": 14082868,
+          "base": 12296075,
           "length": 7746
         },
         "custom_picture_controls.js": {
           "originalName": "Custom_Picture_Controls.js",
           "type": "file",
-          "base": 14090614,
+          "base": 12303821,
           "length": 15426
         },
         "custom_picture_controls.omori": {
           "originalName": "Custom_Picture_Controls.OMORI",
           "type": "file",
-          "base": 14106040,
+          "base": 12319247,
           "length": 15442
         },
         "disablemouse.js": {
           "originalName": "DisableMouse.js",
           "type": "file",
-          "base": 14121482,
+          "base": 12334689,
           "length": 957
         },
         "disablemouse.omori": {
           "originalName": "DisableMouse.OMORI",
           "type": "file",
-          "base": 14122439,
+          "base": 12335646,
           "length": 973
         },
         "exhydra_followercontrol.js": {
           "originalName": "Exhydra_FollowerControl.js",
           "type": "file",
-          "base": 14123412,
+          "base": 12336619,
           "length": 32927
         },
         "exhydra_followercontrol.omori": {
           "originalName": "Exhydra_FollowerControl.OMORI",
           "type": "file",
-          "base": 14156339,
+          "base": 12369546,
           "length": 32943
         },
         "external notes.js": {
           "originalName": "External Notes.js",
           "type": "file",
-          "base": 14189282,
+          "base": 12402489,
           "length": 3432
         },
         "external notes.omori": {
           "originalName": "External Notes.OMORI",
           "type": "file",
-          "base": 14192714,
+          "base": 12405921,
           "length": 3448
         },
         "extramovementframes.js": {
           "originalName": "ExtraMovementFrames.js",
           "type": "file",
-          "base": 14196162,
+          "base": 12409369,
           "length": 14711
         },
         "extramovementframes.omori": {
           "originalName": "ExtraMovementFrames.OMORI",
           "type": "file",
-          "base": 14210873,
+          "base": 12424080,
           "length": 14727
         },
         "extra_followers.js": {
           "originalName": "Extra_Followers.js",
           "type": "file",
-          "base": 14225600,
+          "base": 12438807,
           "length": 11452
         },
         "extra_followers.omori": {
           "originalName": "Extra_Followers.OMORI",
           "type": "file",
-          "base": 14237052,
+          "base": 12450259,
           "length": 11468
         },
         "filtercontroller.js": {
           "originalName": "FilterController.js",
           "type": "file",
-          "base": 14248520,
+          "base": 12461727,
           "length": 149325
         },
         "filtercontroller.omori": {
           "originalName": "FilterController.OMORI",
           "type": "file",
-          "base": 14397845,
+          "base": 12611052,
           "length": 149341
         },
         "filtercontrollerblurpatch.js": {
           "originalName": "FilterControllerBlurPatch.js",
           "type": "file",
-          "base": 14547186,
+          "base": 12760393,
           "length": 715
         },
         "filtercontrollerblurpatch.omori": {
           "originalName": "FilterControllerBlurPatch.OMORI",
           "type": "file",
-          "base": 14547901,
+          "base": 12761108,
           "length": 731
         },
         "follower_control.js": {
           "originalName": "Follower_Control.js",
           "type": "file",
-          "base": 14548632,
+          "base": 12761839,
           "length": 8091
         },
         "follower_control.omori": {
           "originalName": "Follower_Control.OMORI",
           "type": "file",
-          "base": 14556723,
+          "base": 12769930,
           "length": 8107
         },
         "fuku_eventtremble.js": {
           "originalName": "fuku_EventTremble.js",
           "type": "file",
-          "base": 14564830,
+          "base": 12778037,
           "length": 5065
         },
         "fuku_eventtremble.omori": {
           "originalName": "fuku_EventTremble.OMORI",
           "type": "file",
-          "base": 14569895,
+          "base": 12783102,
           "length": 5081
         },
         "fuku_testpack.js": {
           "originalName": "fuku_testpack.js",
           "type": "file",
-          "base": 14574976,
+          "base": 12788183,
           "length": 2154
         },
         "fuku_testpack.omori": {
           "originalName": "fuku_testpack.OMORI",
           "type": "file",
-          "base": 14577130,
+          "base": 12790337,
           "length": 2170
         },
         "gacha.js": {
           "originalName": "Gacha.js",
           "type": "file",
-          "base": 14579300,
+          "base": 12792507,
           "length": 18879
         },
         "gacha.omori": {
           "originalName": "Gacha.OMORI",
           "type": "file",
-          "base": 14598179,
+          "base": 12811386,
           "length": 18895
         },
         "gachabook.js": {
           "originalName": "GachaBook.js",
           "type": "file",
-          "base": 14617074,
+          "base": 12830281,
           "length": 15850
         },
         "gachabook.omori": {
           "originalName": "GachaBook.OMORI",
           "type": "file",
-          "base": 14632924,
+          "base": 12846131,
           "length": 15866
         },
         "galv_animatedsplashscreens.js": {
           "originalName": "GALV_AnimatedSplashScreens.js",
           "type": "file",
-          "base": 14648790,
+          "base": 12861997,
           "length": 9094
         },
         "galv_animatedsplashscreens.omori": {
           "originalName": "GALV_AnimatedSplashScreens.OMORI",
           "type": "file",
-          "base": 14657884,
+          "base": 12871091,
           "length": 9110
         },
         "galv_camcontrol.js": {
           "originalName": "GALV_CamControl.js",
           "type": "file",
-          "base": 14666994,
+          "base": 12880201,
           "length": 10041
         },
         "galv_camcontrol.omori": {
           "originalName": "GALV_CamControl.OMORI",
           "type": "file",
-          "base": 14677035,
+          "base": 12890242,
           "length": 10057
         },
         "galv_eventdetectors.js": {
           "originalName": "GALV_EventDetectors.js",
           "type": "file",
-          "base": 14687092,
+          "base": 12900299,
           "length": 18518
         },
         "galv_eventdetectors.omori": {
           "originalName": "GALV_EventDetectors.OMORI",
           "type": "file",
-          "base": 14705610,
+          "base": 12918817,
           "length": 18534
         },
         "galv_moverouteextras.js": {
           "originalName": "GALV_MoveRouteExtras.js",
           "type": "file",
-          "base": 14724144,
+          "base": 12937351,
           "length": 9669
         },
         "galv_moverouteextras.omori": {
           "originalName": "GALV_MoveRouteExtras.OMORI",
           "type": "file",
-          "base": 14733813,
+          "base": 12947020,
           "length": 9685
         },
         "gtp_coreupdates.js": {
           "originalName": "GTP_CoreUpdates.js",
           "type": "file",
-          "base": 14743498,
+          "base": 12956705,
           "length": 6626
         },
         "gtp_coreupdates.omori": {
           "originalName": "GTP_CoreUpdates.OMORI",
           "type": "file",
-          "base": 14750124,
+          "base": 12963331,
           "length": 6642
         },
         "gtp_omorifixes.js": {
           "originalName": "GTP_OmoriFixes.js",
           "type": "file",
-          "base": 14756766,
-          "length": 123320
+          "base": 12969973,
+          "length": 123355
+        },
+        "gtp_omorifixes.js.bak": {
+          "originalName": "GTP_OmoriFixes.js.bak",
+          "type": "file",
+          "base": 13093328,
+          "length": 123353
         },
         "gtp_omorifixes.omori": {
           "originalName": "GTP_OmoriFixes.OMORI",
           "type": "file",
-          "base": 14880086,
+          "base": 13216681,
           "length": 123336
         },
         "hime_enemyreinforcements.js": {
           "originalName": "HIME_EnemyReinforcements.js",
           "type": "file",
-          "base": 15003422,
+          "base": 13340017,
           "length": 12651
         },
         "hime_enemyreinforcements.omori": {
           "originalName": "HIME_EnemyReinforcements.OMORI",
           "type": "file",
-          "base": 15016073,
+          "base": 13352668,
           "length": 12667
         },
         "ken_picturebelowchars.js": {
           "originalName": "KEN_PictureBelowChars.js",
           "type": "file",
-          "base": 15028740,
+          "base": 13365335,
           "length": 1113
         },
         "ken_picturebelowchars.omori": {
           "originalName": "KEN_PictureBelowChars.OMORI",
           "type": "file",
-          "base": 15029853,
+          "base": 13366448,
           "length": 1129
         },
         "liquid_eventdata.js": {
           "originalName": "Liquid_EventData.js",
           "type": "file",
-          "base": 15030982,
+          "base": 13367577,
           "length": 6611
         },
         "liquid_eventdata.omori": {
           "originalName": "Liquid_EventData.OMORI",
           "type": "file",
-          "base": 15037593,
+          "base": 13374188,
           "length": 6627
         },
         "liquid_eventicons.js": {
           "originalName": "Liquid_EventIcons.js",
           "type": "file",
-          "base": 15044220,
+          "base": 13380815,
           "length": 11944
         },
         "liquid_eventicons.omori": {
           "originalName": "Liquid_EventIcons.OMORI",
           "type": "file",
-          "base": 15056164,
+          "base": 13392759,
           "length": 11960
         },
         "map_character_tag.js": {
           "originalName": "Map_Character_Tag.js",
           "type": "file",
-          "base": 15068124,
+          "base": 13404719,
           "length": 26322
         },
         "map_character_tag.omori": {
           "originalName": "Map_Character_Tag.OMORI",
           "type": "file",
-          "base": 15094446,
+          "base": 13431041,
           "length": 26338
         },
         "oggonly.js": {
           "originalName": "OggOnly.js",
           "type": "file",
-          "base": 15120784,
+          "base": 13457379,
           "length": 5064
         },
         "oggonly.omori": {
           "originalName": "OggOnly.OMORI",
           "type": "file",
-          "base": 15125848,
+          "base": 13462443,
           "length": 5080
         },
         "olivia_horroreffects.js": {
           "originalName": "Olivia_HorrorEffects.js",
           "type": "file",
-          "base": 15130928,
+          "base": 13467523,
           "length": 138862
         },
         "olivia_horroreffects.omori": {
           "originalName": "Olivia_HorrorEffects.OMORI",
           "type": "file",
-          "base": 15269790,
+          "base": 13606385,
           "length": 138878
         },
         "olivia_mapdisplaynamecore.js": {
           "originalName": "Olivia_MapDisplayNameCore.js",
           "type": "file",
-          "base": 15408668,
+          "base": 13745263,
           "length": 12203
         },
         "olivia_mapdisplaynamecore.omori": {
           "originalName": "Olivia_MapDisplayNameCore.OMORI",
           "type": "file",
-          "base": 15420871,
+          "base": 13757466,
           "length": 12219
         },
         "olivia_skipcutscene.js": {
           "originalName": "Olivia_SkipCutscene.js",
           "type": "file",
-          "base": 15433090,
+          "base": 13769685,
           "length": 16770
         },
         "olivia_skipcutscene.omori": {
           "originalName": "Olivia_SkipCutscene.OMORI",
           "type": "file",
-          "base": 15449860,
+          "base": 13786455,
           "length": 16786
         },
         "omori base.js": {
           "originalName": "Omori BASE.js",
           "type": "file",
-          "base": 15466646,
-          "length": 270851
+          "base": 13803241,
+          "length": 270853
+        },
+        "omori base.js.bak": {
+          "originalName": "Omori BASE.js.bak",
+          "type": "file",
+          "base": 14074094,
+          "length": 270853
         },
         "omori base.omori": {
           "originalName": "Omori BASE.OMORI",
           "type": "file",
-          "base": 15737497,
+          "base": 14344947,
           "length": 270867
         },
         "omori battle system.js": {
           "originalName": "Omori Battle System.js",
           "type": "file",
-          "base": 16008364,
-          "length": 215096
+          "base": 14615814,
+          "length": 215176
         },
         "omori battle system.omori": {
           "originalName": "Omori Battle System.OMORI",
           "type": "file",
-          "base": 16223460,
+          "base": 14830990,
           "length": 215112
         },
         "omori bestiary.js": {
           "originalName": "Omori Bestiary.js",
           "type": "file",
-          "base": 16438572,
+          "base": 15046102,
           "length": 30795
         },
         "omori bestiary.omori": {
           "originalName": "Omori Bestiary.OMORI",
           "type": "file",
-          "base": 16469367,
+          "base": 15076897,
           "length": 30811
         },
         "omori blacklettermap.js": {
           "originalName": "Omori BlackLetterMap.js",
           "type": "file",
-          "base": 16500178,
-          "length": 13971
+          "base": 15107708,
+          "length": 14001
         },
         "omori blacklettermap.omori": {
           "originalName": "Omori BlackLetterMap.OMORI",
           "type": "file",
-          "base": 16514149,
+          "base": 15121709,
           "length": 13987
         },
         "omori blacklettermenu.js": {
           "originalName": "Omori BlackLetterMenu.js",
           "type": "file",
-          "base": 16528136,
-          "length": 44621
+          "base": 15135696,
+          "length": 44626
+        },
+        "omori blacklettermenu.js.bak": {
+          "originalName": "Omori BlackLetterMenu.js.bak",
+          "type": "file",
+          "base": 15180322,
+          "length": 44626
         },
         "omori blacklettermenu.omori": {
           "originalName": "Omori BlackLetterMenu.OMORI",
           "type": "file",
-          "base": 16572757,
+          "base": 15224948,
           "length": 44637
+        },
+        "omori fake photo album.js": {
+          "originalName": "Omori Fake Photo Album.js",
+          "type": "file",
+          "base": 15269585,
+          "length": 807
         },
         "omori item shop.js": {
           "originalName": "Omori Item Shop.js",
           "type": "file",
-          "base": 16617394,
+          "base": 15270392,
           "length": 44591
         },
         "omori item shop.omori": {
           "originalName": "Omori Item Shop.OMORI",
           "type": "file",
-          "base": 16661985,
+          "base": 15314983,
           "length": 44607
         },
         "omori main menu - scene equip.js": {
           "originalName": "Omori Main Menu - Scene Equip.js",
           "type": "file",
-          "base": 16706592,
-          "length": 41732
+          "base": 15359590,
+          "length": 41736
         },
         "omori main menu - scene equip.omori": {
           "originalName": "Omori Main Menu - Scene Equip.OMORI",
           "type": "file",
-          "base": 16748324,
+          "base": 15401326,
           "length": 41748
         },
         "omori main menu - scene item.js": {
           "originalName": "Omori Main Menu - Scene Item.js",
           "type": "file",
-          "base": 16790072,
+          "base": 15443074,
           "length": 38992
         },
         "omori main menu - scene item.omori": {
           "originalName": "Omori Main Menu - Scene Item.OMORI",
           "type": "file",
-          "base": 16829064,
+          "base": 15482066,
           "length": 39008
         },
         "omori main menu - scene options.js": {
           "originalName": "Omori Main Menu - Scene Options.js",
           "type": "file",
-          "base": 16868072,
+          "base": 15521074,
           "length": 77405
         },
         "omori main menu - scene options.omori": {
           "originalName": "Omori Main Menu - Scene Options.OMORI",
           "type": "file",
-          "base": 16945477,
+          "base": 15598479,
           "length": 77421
         },
         "omori main menu - scene skill.js": {
           "originalName": "Omori Main Menu - Scene Skill.js",
           "type": "file",
-          "base": 17022898,
+          "base": 15675900,
           "length": 43030
         },
         "omori main menu - scene skill.omori": {
           "originalName": "Omori Main Menu - Scene Skill.OMORI",
           "type": "file",
-          "base": 17065928,
+          "base": 15718930,
           "length": 43046
         },
         "omori main menu.js": {
           "originalName": "Omori Main Menu.js",
           "type": "file",
-          "base": 17108974,
+          "base": 15761976,
+          "length": 83542
+        },
+        "omori main menu.js.bak": {
+          "originalName": "Omori Main Menu.js.bak",
+          "type": "file",
+          "base": 15845518,
           "length": 83542
         },
         "omori main menu.omori": {
           "originalName": "Omori Main Menu.OMORI",
           "type": "file",
-          "base": 17192516,
+          "base": 15929060,
           "length": 83558
         },
         "omori map qte.js": {
           "originalName": "Omori Map QTE.js",
           "type": "file",
-          "base": 17276074,
+          "base": 16012618,
           "length": 33768
         },
         "omori map qte.omori": {
           "originalName": "Omori Map QTE.OMORI",
           "type": "file",
-          "base": 17309842,
+          "base": 16046386,
           "length": 33784
         },
         "omori name input.js": {
           "originalName": "Omori Name Input.js",
           "type": "file",
-          "base": 17343626,
+          "base": 16080170,
           "length": 72712
         },
         "omori name input.omori": {
           "originalName": "Omori Name Input.OMORI",
           "type": "file",
-          "base": 17416338,
+          "base": 16152882,
           "length": 72728
         },
         "omori photo album.js": {
           "originalName": "Omori Photo Album.js",
           "type": "file",
-          "base": 17489066,
+          "base": 16225610,
           "length": 110368
         },
         "omori photo album.omori": {
           "originalName": "Omori Photo Album.OMORI",
           "type": "file",
-          "base": 17599434,
+          "base": 16335978,
           "length": 110384
         },
         "omori quest menu.js": {
           "originalName": "Omori Quest Menu.js",
           "type": "file",
-          "base": 17709818,
+          "base": 16446362,
           "length": 32077
         },
         "omori quest menu.omori": {
           "originalName": "Omori Quest Menu.OMORI",
           "type": "file",
-          "base": 17741895,
+          "base": 16478439,
           "length": 32093
         },
         "omori save & load.js": {
           "originalName": "Omori Save & Load.js",
           "type": "file",
-          "base": 17773988,
+          "base": 16510532,
           "length": 32763
         },
         "omori save & load.omori": {
           "originalName": "Omori Save & Load.OMORI",
           "type": "file",
-          "base": 17806751,
+          "base": 16543295,
           "length": 32779
         },
         "omori title screen.js": {
           "originalName": "Omori Title Screen.js",
           "type": "file",
-          "base": 17839530,
-          "length": 50255
+          "base": 16576074,
+          "length": 49484
+        },
+        "omori title screen.js.bak": {
+          "originalName": "Omori Title Screen.js.bak",
+          "type": "file",
+          "base": 16625558,
+          "length": 49453
         },
         "omori title screen.omori": {
           "originalName": "Omori Title Screen.OMORI",
           "type": "file",
-          "base": 17889785,
+          "base": 16675011,
           "length": 50271
         },
         "omori_battleformulas.js": {
           "originalName": "OMORI_BattleFormulas.js",
           "type": "file",
-          "base": 17940056,
+          "base": 16725282,
           "length": 613
         },
         "omori_battleformulas.omori": {
           "originalName": "OMORI_BattleFormulas.OMORI",
           "type": "file",
-          "base": 17940669,
+          "base": 16725895,
           "length": 629
         },
         "presetanimations.js": {
           "originalName": "PresetAnimations.js",
           "type": "file",
-          "base": 17941298,
+          "base": 16726524,
           "length": 225925
         },
         "presetanimations.omori": {
           "originalName": "PresetAnimations.OMORI",
           "type": "file",
-          "base": 18167223,
+          "base": 16952449,
           "length": 225941
         },
         "regionrandomize.js": {
           "originalName": "RegionRandomize.js",
           "type": "file",
-          "base": 18393164,
+          "base": 17178390,
           "length": 936
         },
         "regionrandomize.omori": {
           "originalName": "RegionRandomize.OMORI",
           "type": "file",
-          "base": 18394100,
+          "base": 17179326,
           "length": 952
         },
         "rotatepictureex.js": {
           "originalName": "RotatePictureEx.js",
           "type": "file",
-          "base": 18395052,
+          "base": 17180278,
           "length": 6199
         },
         "rotatepictureex.omori": {
           "originalName": "RotatePictureEx.OMORI",
           "type": "file",
-          "base": 18401251,
+          "base": 17186477,
           "length": 6215
+        },
+        "rph.macrorebind.js": {
+          "originalName": "rph.macrorebind.js",
+          "type": "file",
+          "base": 17192692,
+          "length": 2815
+        },
+        "rph.macrorebind.js.bak": {
+          "originalName": "rph.macrorebind.js.bak",
+          "type": "file",
+          "base": 17195507,
+          "length": 2767
         },
         "simpleeventfade.js": {
           "originalName": "SimpleEventFade.js",
           "type": "file",
-          "base": 18407466,
+          "base": 17198274,
           "length": 3998
         },
         "simpleeventfade.omori": {
           "originalName": "SimpleEventFade.OMORI",
           "type": "file",
-          "base": 18411464,
+          "base": 17202272,
           "length": 4014
         },
         "sketchbook.js": {
           "originalName": "Sketchbook.js",
           "type": "file",
-          "base": 18415478,
+          "base": 17206286,
           "length": 9778
         },
         "sketchbook.omori": {
           "originalName": "Sketchbook.OMORI",
           "type": "file",
-          "base": 18425256,
+          "base": 17216064,
           "length": 9794
         },
         "slotmachine.js": {
           "originalName": "SlotMachine.js",
           "type": "file",
-          "base": 18435050,
-          "length": 59217
+          "base": 17225858,
+          "length": 59218
         },
         "slotmachine.omori": {
           "originalName": "SlotMachine.OMORI",
           "type": "file",
-          "base": 18494267,
+          "base": 17285076,
           "length": 59233
         },
         "smart_path_mv.js": {
           "originalName": "smart_path_mv.js",
           "type": "file",
-          "base": 18553500,
+          "base": 17344309,
           "length": 3256
         },
         "smart_path_mv.omori": {
           "originalName": "smart_path_mv.OMORI",
           "type": "file",
-          "base": 18556756,
+          "base": 17347565,
           "length": 3272
         },
         "spaghetticode.js": {
           "originalName": "SpaghettiCode.js",
           "type": "file",
-          "base": 18560028,
+          "base": 17350837,
           "length": 1782
         },
         "spaghetticode.omori": {
           "originalName": "SpaghettiCode.OMORI",
           "type": "file",
-          "base": 18561810,
+          "base": 17352619,
           "length": 1798
         },
         "srd_waitoptions.js": {
           "originalName": "SRD_WaitOptions.js",
           "type": "file",
-          "base": 18563608,
+          "base": 17354417,
           "length": 5640
         },
         "srd_waitoptions.omori": {
           "originalName": "SRD_WaitOptions.OMORI",
           "type": "file",
-          "base": 18569248,
+          "base": 17360057,
           "length": 5656
         },
         "stbvorbis.js": {
           "originalName": "stbvorbis.js",
           "type": "file",
-          "base": 18574904,
+          "base": 17365713,
           "length": 126269
         },
         "stbvorbis.omori": {
           "originalName": "stbvorbis.OMORI",
           "type": "file",
-          "base": 18701173,
+          "base": 17491982,
           "length": 126285
         },
         "stbvorbis_asm.js": {
           "originalName": "stbvorbis_asm.js",
           "type": "file",
-          "base": 18827458,
+          "base": 17618267,
           "length": 201794
         },
         "stbvorbis_asm.omori": {
           "originalName": "stbvorbis_asm.OMORI",
           "type": "file",
-          "base": 19029252,
+          "base": 17820061,
           "length": 201810
         },
         "stbvorbis_stream.js": {
           "originalName": "stbvorbis_stream.js",
           "type": "file",
-          "base": 19231062,
+          "base": 18021871,
           "length": 133599
         },
         "stbvorbis_stream.omori": {
           "originalName": "stbvorbis_stream.OMORI",
           "type": "file",
-          "base": 19364661,
+          "base": 18155470,
           "length": 133615
         },
         "stbvorbis_stream_asm.js": {
           "originalName": "stbvorbis_stream_asm.js",
           "type": "file",
-          "base": 19498276,
+          "base": 18289085,
           "length": 210681
         },
         "stbvorbis_stream_asm.omori": {
           "originalName": "stbvorbis_stream_asm.OMORI",
           "type": "file",
-          "base": 19708957,
+          "base": 18499766,
           "length": 210697
         },
         "tddp_animationcurves.js": {
           "originalName": "TDDP_AnimationCurves.js",
           "type": "file",
-          "base": 19919654,
+          "base": 18710463,
           "length": 27499
         },
         "tddp_animationcurves.omori": {
           "originalName": "TDDP_AnimationCurves.OMORI",
           "type": "file",
-          "base": 19947153,
+          "base": 18737962,
           "length": 27515
         },
         "tddp_movepictureex.js": {
           "originalName": "TDDP_MovePictureEx.js",
           "type": "file",
-          "base": 19974668,
+          "base": 18765477,
           "length": 11610
         },
         "tddp_movepictureex.omori": {
           "originalName": "TDDP_MovePictureEx.OMORI",
           "type": "file",
-          "base": 19986278,
+          "base": 18777087,
           "length": 11626
         },
         "tddp_nofastforward.js": {
           "originalName": "TDDP_NoFastForward.js",
           "type": "file",
-          "base": 19997904,
+          "base": 18788713,
           "length": 5234
         },
         "tddp_nofastforward.omori": {
           "originalName": "TDDP_NoFastForward.OMORI",
           "type": "file",
-          "base": 20003138,
+          "base": 18793947,
           "length": 5250
         },
         "tds footprints.js": {
           "originalName": "TDS Footprints.js",
           "type": "file",
-          "base": 20008388,
+          "base": 18799197,
           "length": 22176
         },
         "tds footprints.omori": {
           "originalName": "TDS Footprints.OMORI",
           "type": "file",
-          "base": 20030564,
+          "base": 18821373,
           "length": 22192
         },
         "tds map fog.js": {
           "originalName": "TDS Map Fog.js",
           "type": "file",
-          "base": 20052756,
+          "base": 18843565,
           "length": 19328
         },
         "tds map fog.omori": {
           "originalName": "TDS Map Fog.OMORI",
           "type": "file",
-          "base": 20072084,
+          "base": 18862893,
           "length": 19344
         },
         "tds parallax pictures.js": {
           "originalName": "TDS Parallax Pictures.js",
           "type": "file",
-          "base": 20091428,
+          "base": 18882237,
           "length": 6722
         },
         "tds parallax pictures.omori": {
           "originalName": "TDS Parallax Pictures.OMORI",
           "type": "file",
-          "base": 20098150,
+          "base": 18888959,
           "length": 6738
         },
         "tds particles.js": {
           "originalName": "TDS Particles.js",
           "type": "file",
-          "base": 20104888,
+          "base": 18895697,
           "length": 11349
         },
         "tds particles.omori": {
           "originalName": "TDS Particles.OMORI",
           "type": "file",
-          "base": 20116237,
+          "base": 18907046,
           "length": 11365
         },
         "tds text effects.js": {
           "originalName": "TDS Text Effects.js",
           "type": "file",
-          "base": 20127602,
-          "length": 27017
+          "base": 18918411,
+          "length": 27344
+        },
+        "tds text effects.js.bak": {
+          "originalName": "TDS Text Effects.js.bak",
+          "type": "file",
+          "base": 18945755,
+          "length": 27254
         },
         "tds text effects.omori": {
           "originalName": "TDS Text Effects.OMORI",
           "type": "file",
-          "base": 20154619,
+          "base": 18973009,
           "length": 27033
         },
         "text_languageprocessor_missingyamlcrashprevent.js": {
           "originalName": "Text_LanguageProcessor_MissingYAMLCrashPrevent.js",
           "type": "file",
-          "base": 20181652,
+          "base": 19000042,
           "length": 720
         },
         "text_languageprocessor_missingyamlcrashprevent.omori": {
           "originalName": "Text_LanguageProcessor_MissingYAMLCrashPrevent.OMORI",
           "type": "file",
-          "base": 20182372,
+          "base": 19000762,
           "length": 736
         },
         "text_language_processor.js": {
           "originalName": "Text_Language_Processor.js",
           "type": "file",
-          "base": 20183108,
+          "base": 19001498,
           "length": 23414
         },
         "text_language_processor.omori": {
           "originalName": "Text_Language_Processor.OMORI",
           "type": "file",
-          "base": 20206522,
+          "base": 19024912,
           "length": 23430
         },
         "waitfps.js": {
           "originalName": "WaitFPS.js",
           "type": "file",
-          "base": 20229952,
+          "base": 19048342,
           "length": 4422
         },
         "waitfps.omori": {
           "originalName": "WaitFPS.OMORI",
           "type": "file",
-          "base": 20234374,
+          "base": 19052764,
           "length": 4438
         },
         "yed_sideviewbattler.js": {
           "originalName": "YED_SideviewBattler.js",
           "type": "file",
-          "base": 20238812,
+          "base": 19057202,
           "length": 27073
         },
         "yed_sideviewbattler.omori": {
           "originalName": "YED_SideviewBattler.OMORI",
           "type": "file",
-          "base": 20265885,
+          "base": 19084275,
           "length": 27089
         },
         "yed_sideviewbattler_mirror.js": {
           "originalName": "YED_SideviewBattler_MIRROR.js",
           "type": "file",
-          "base": 20292974,
+          "base": 19111364,
           "length": 1323
         },
         "yed_sideviewbattler_mirror.omori": {
           "originalName": "YED_SideviewBattler_MIRROR.OMORI",
           "type": "file",
-          "base": 20294297,
+          "base": 19112687,
           "length": 1339
         },
         "yed_tiled.js": {
           "originalName": "YED_Tiled.js",
           "type": "file",
-          "base": 20295636,
+          "base": 19114026,
           "length": 88760
         },
         "yed_tiled.omori": {
           "originalName": "YED_Tiled.OMORI",
           "type": "file",
-          "base": 20384396,
+          "base": 19202786,
           "length": 88776
         },
         "yep_autopassivestates.js": {
           "originalName": "YEP_AutoPassiveStates.js",
           "type": "file",
-          "base": 20473172,
+          "base": 19291562,
           "length": 25201
         },
         "yep_autopassivestates.omori": {
           "originalName": "YEP_AutoPassiveStates.OMORI",
           "type": "file",
-          "base": 20498373,
+          "base": 19316763,
           "length": 25217
         },
         "yep_basetroopevents.js": {
           "originalName": "YEP_BaseTroopEvents.js",
           "type": "file",
-          "base": 20523590,
+          "base": 19341980,
           "length": 3400
         },
         "yep_basetroopevents.omori": {
           "originalName": "YEP_BaseTroopEvents.OMORI",
           "type": "file",
-          "base": 20526990,
+          "base": 19345380,
           "length": 3416
         },
         "yep_battleaicore.js": {
           "originalName": "YEP_BattleAICore.js",
           "type": "file",
-          "base": 20530406,
+          "base": 19348796,
           "length": 63793
         },
         "yep_battleaicore.omori": {
           "originalName": "YEP_BattleAICore.OMORI",
           "type": "file",
-          "base": 20594199,
+          "base": 19412589,
           "length": 63809
         },
         "yep_battleenginecore.js": {
           "originalName": "YEP_BattleEngineCore.js",
           "type": "file",
-          "base": 20658008,
+          "base": 19476398,
           "length": 192005
         },
         "yep_battleenginecore.omori": {
           "originalName": "YEP_BattleEngineCore.OMORI",
           "type": "file",
-          "base": 20850013,
+          "base": 19668403,
           "length": 192021
         },
         "yep_buffsstatescore.js": {
           "originalName": "YEP_BuffsStatesCore.js",
           "type": "file",
-          "base": 21042034,
+          "base": 19860424,
           "length": 77783
         },
         "yep_buffsstatescore.omori": {
           "originalName": "YEP_BuffsStatesCore.OMORI",
           "type": "file",
-          "base": 21119817,
+          "base": 19938207,
           "length": 77799
         },
         "yep_callevent.js": {
           "originalName": "YEP_CallEvent.js",
           "type": "file",
-          "base": 21197616,
+          "base": 20016006,
           "length": 5684
         },
         "yep_callevent.omori": {
           "originalName": "YEP_CallEvent.OMORI",
           "type": "file",
-          "base": 21203300,
+          "base": 20021690,
           "length": 5700
         },
         "yep_coreengine.js": {
           "originalName": "YEP_CoreEngine.js",
           "type": "file",
-          "base": 21209000,
+          "base": 20027390,
           "length": 95301
         },
         "yep_coreengine.omori": {
           "originalName": "YEP_CoreEngine.OMORI",
           "type": "file",
-          "base": 21304301,
+          "base": 20122691,
           "length": 95317
         },
         "yep_damagecore.js": {
           "originalName": "YEP_DamageCore.js",
           "type": "file",
-          "base": 21399618,
+          "base": 20218008,
           "length": 51433
         },
         "yep_damagecore.omori": {
           "originalName": "YEP_DamageCore.OMORI",
           "type": "file",
-          "base": 21451051,
+          "base": 20269441,
           "length": 51449
         },
         "yep_dashtoggle.js": {
           "originalName": "YEP_DashToggle.js",
           "type": "file",
-          "base": 21502500,
+          "base": 20320890,
           "length": 7352
         },
         "yep_dashtoggle.omori": {
           "originalName": "YEP_DashToggle.OMORI",
           "type": "file",
-          "base": 21509852,
+          "base": 20328242,
           "length": 7368
         },
         "yep_debugger.js": {
           "originalName": "YEP_Debugger.js",
           "type": "file",
-          "base": 21517220,
+          "base": 20335610,
           "length": 149197
         },
         "yep_debugger.omori": {
           "originalName": "YEP_Debugger.OMORI",
           "type": "file",
-          "base": 21666417,
+          "base": 20484807,
           "length": 149213
         },
         "yep_equipcore.js": {
           "originalName": "YEP_EquipCore.js",
           "type": "file",
-          "base": 21815630,
+          "base": 20634020,
           "length": 41081
         },
         "yep_equipcore.omori": {
           "originalName": "YEP_EquipCore.OMORI",
           "type": "file",
-          "base": 21856711,
+          "base": 20675101,
           "length": 41097
         },
         "yep_eventchaseplayer.js": {
           "originalName": "YEP_EventChasePlayer.js",
           "type": "file",
-          "base": 21897808,
+          "base": 20716198,
           "length": 14813
         },
         "yep_eventchaseplayer.omori": {
           "originalName": "YEP_EventChasePlayer.OMORI",
           "type": "file",
-          "base": 21912621,
+          "base": 20731011,
           "length": 14829
         },
         "yep_eventcopier.js": {
           "originalName": "YEP_EventCopier.js",
           "type": "file",
-          "base": 21927450,
+          "base": 20745840,
           "length": 17149
         },
         "yep_eventcopier.omori": {
           "originalName": "YEP_EventCopier.OMORI",
           "type": "file",
-          "base": 21944599,
+          "base": 20762989,
           "length": 17165
         },
         "yep_eventencounteraid.js": {
           "originalName": "YEP_EventEncounterAid.js",
           "type": "file",
-          "base": 21961764,
+          "base": 20780154,
           "length": 12822
         },
         "yep_eventencounteraid.omori": {
           "originalName": "YEP_EventEncounterAid.OMORI",
           "type": "file",
-          "base": 21974586,
+          "base": 20792976,
           "length": 12838
         },
         "yep_eventhitboxresize.js": {
           "originalName": "YEP_EventHitboxResize.js",
           "type": "file",
-          "base": 21987424,
+          "base": 20805814,
           "length": 6165
         },
         "yep_eventhitboxresize.omori": {
           "originalName": "YEP_EventHitboxResize.OMORI",
           "type": "file",
-          "base": 21993589,
+          "base": 20811979,
           "length": 6181
         },
         "yep_eventminilabel.js": {
           "originalName": "YEP_EventMiniLabel.js",
           "type": "file",
-          "base": 21999770,
+          "base": 20818160,
           "length": 18817
         },
         "yep_eventminilabel.omori": {
           "originalName": "YEP_EventMiniLabel.OMORI",
           "type": "file",
-          "base": 22018587,
+          "base": 20836977,
           "length": 18833
         },
         "yep_eventmorpher.js": {
           "originalName": "YEP_EventMorpher.js",
           "type": "file",
-          "base": 22037420,
+          "base": 20855810,
           "length": 19217
         },
         "yep_eventmorpher.omori": {
           "originalName": "YEP_EventMorpher.OMORI",
           "type": "file",
-          "base": 22056637,
+          "base": 20875027,
           "length": 19233
         },
         "yep_eventproxactivate.js": {
           "originalName": "YEP_EventProxActivate.js",
           "type": "file",
-          "base": 22075870,
+          "base": 20894260,
           "length": 10141
         },
         "yep_eventproxactivate.omori": {
           "originalName": "YEP_EventProxActivate.OMORI",
           "type": "file",
-          "base": 22086011,
+          "base": 20904401,
           "length": 10157
         },
         "yep_eventspawner.js": {
           "originalName": "YEP_EventSpawner.js",
           "type": "file",
-          "base": 22096168,
+          "base": 20914558,
           "length": 27310
         },
         "yep_eventspawner.omori": {
           "originalName": "YEP_EventSpawner.OMORI",
           "type": "file",
-          "base": 22123478,
+          "base": 20941868,
           "length": 27326
         },
         "yep_eventspriteoffset.js": {
           "originalName": "YEP_EventSpriteOffset.js",
           "type": "file",
-          "base": 22150804,
+          "base": 20969194,
           "length": 9017
         },
         "yep_eventspriteoffset.omori": {
           "originalName": "YEP_EventSpriteOffset.OMORI",
           "type": "file",
-          "base": 22159821,
+          "base": 20978211,
           "length": 9033
         },
         "yep_eventstepaniopt.js": {
           "originalName": "YEP_EventStepAniOpt.js",
           "type": "file",
-          "base": 22168854,
+          "base": 20987244,
           "length": 6673
         },
         "yep_eventstepaniopt.omori": {
           "originalName": "YEP_EventStepAniOpt.OMORI",
           "type": "file",
-          "base": 22175527,
+          "base": 20993917,
           "length": 6689
         },
         "yep_eventtimercontrol.js": {
           "originalName": "YEP_EventTimerControl.js",
           "type": "file",
-          "base": 22182216,
+          "base": 21000606,
           "length": 16811
         },
         "yep_eventtimercontrol.omori": {
           "originalName": "YEP_EventTimerControl.OMORI",
           "type": "file",
-          "base": 22199027,
+          "base": 21017417,
           "length": 16827
         },
         "yep_extraenemydrops.js": {
           "originalName": "YEP_ExtraEnemyDrops.js",
           "type": "file",
-          "base": 22215854,
+          "base": 21034244,
           "length": 43835
         },
         "yep_extraenemydrops.omori": {
           "originalName": "YEP_ExtraEnemyDrops.OMORI",
           "type": "file",
-          "base": 22259689,
+          "base": 21078079,
           "length": 43851
         },
         "yep_footstepsounds.js": {
           "originalName": "YEP_FootstepSounds.js",
           "type": "file",
-          "base": 22303540,
+          "base": 21121930,
           "length": 17903
         },
         "yep_footstepsounds.omori": {
           "originalName": "YEP_FootstepSounds.OMORI",
           "type": "file",
-          "base": 22321443,
+          "base": 21139833,
           "length": 17919
         },
         "yep_improvedbattlebacks.js": {
           "originalName": "YEP_ImprovedBattlebacks.js",
           "type": "file",
-          "base": 22339362,
+          "base": 21157752,
           "length": 27120
         },
         "yep_improvedbattlebacks.omori": {
           "originalName": "YEP_ImprovedBattlebacks.OMORI",
           "type": "file",
-          "base": 22366482,
+          "base": 21184872,
           "length": 27136
         },
         "yep_lifesteal.js": {
           "originalName": "YEP_LifeSteal.js",
           "type": "file",
-          "base": 22393618,
+          "base": 21212008,
           "length": 28370
         },
         "yep_lifesteal.omori": {
           "originalName": "YEP_LifeSteal.OMORI",
           "type": "file",
-          "base": 22421988,
+          "base": 21240378,
           "length": 28386
         },
         "yep_loadcustomfonts.js": {
           "originalName": "YEP_LoadCustomFonts.js",
           "type": "file",
-          "base": 22450374,
+          "base": 21268764,
           "length": 4249
         },
         "yep_loadcustomfonts.omori": {
           "originalName": "YEP_LoadCustomFonts.OMORI",
           "type": "file",
-          "base": 22454623,
+          "base": 21273013,
           "length": 4265
         },
         "yep_messagecore.js": {
           "originalName": "YEP_MessageCore.js",
           "type": "file",
-          "base": 22458888,
+          "base": 21277278,
           "length": 50331
         },
         "yep_messagecore.omori": {
           "originalName": "YEP_MessageCore.OMORI",
           "type": "file",
-          "base": 22509219,
+          "base": 21327609,
           "length": 50347
         },
         "yep_moveroutecore.js": {
           "originalName": "YEP_MoveRouteCore.js",
           "type": "file",
-          "base": 22559566,
+          "base": 21377956,
           "length": 39248
         },
         "yep_moveroutecore.omori": {
           "originalName": "YEP_MoveRouteCore.OMORI",
           "type": "file",
-          "base": 22598814,
+          "base": 21417204,
           "length": 39264
         },
         "yep_regionbattlebacks.js": {
           "originalName": "YEP_RegionBattlebacks.js",
           "type": "file",
-          "base": 22638078,
+          "base": 21456468,
           "length": 13297
         },
         "yep_regionbattlebacks.omori": {
           "originalName": "YEP_RegionBattlebacks.OMORI",
           "type": "file",
-          "base": 22651375,
+          "base": 21469765,
           "length": 13313
         },
         "yep_regionevents.js": {
           "originalName": "YEP_RegionEvents.js",
           "type": "file",
-          "base": 22664688,
+          "base": 21483078,
           "length": 63953
         },
         "yep_regionevents.omori": {
           "originalName": "YEP_RegionEvents.OMORI",
           "type": "file",
-          "base": 22728641,
+          "base": 21547031,
           "length": 63969
         },
         "yep_regionrestrictions.js": {
           "originalName": "YEP_RegionRestrictions.js",
           "type": "file",
-          "base": 22792610,
+          "base": 21611000,
           "length": 17192
         },
         "yep_regionrestrictions.omori": {
           "originalName": "YEP_RegionRestrictions.OMORI",
           "type": "file",
-          "base": 22809802,
+          "base": 21628192,
           "length": 17208
         },
         "yep_saveeventlocations.js": {
           "originalName": "YEP_SaveEventLocations.js",
           "type": "file",
-          "base": 22827010,
+          "base": 21645400,
           "length": 10331
         },
         "yep_saveeventlocations.omori": {
           "originalName": "YEP_SaveEventLocations.OMORI",
           "type": "file",
-          "base": 22837341,
+          "base": 21655731,
           "length": 10347
         },
         "yep_skillcore.js": {
           "originalName": "YEP_SkillCore.js",
           "type": "file",
-          "base": 22847688,
+          "base": 21666078,
           "length": 47912
         },
         "yep_skillcore.omori": {
           "originalName": "YEP_SkillCore.OMORI",
           "type": "file",
-          "base": 22895600,
+          "base": 21713990,
           "length": 47928
         },
         "yep_slipperytiles.js": {
           "originalName": "YEP_SlipperyTiles.js",
           "type": "file",
-          "base": 22943528,
+          "base": 21761918,
           "length": 6841
         },
         "yep_slipperytiles.omori": {
           "originalName": "YEP_SlipperyTiles.OMORI",
           "type": "file",
-          "base": 22950369,
+          "base": 21768759,
           "length": 6857
         },
         "yep_smartjump.js": {
           "originalName": "YEP_SmartJump.js",
           "type": "file",
-          "base": 22957226,
+          "base": 21775616,
           "length": 13954
         },
         "yep_smartjump.omori": {
           "originalName": "YEP_SmartJump.OMORI",
           "type": "file",
-          "base": 22971180,
+          "base": 21789570,
           "length": 13970
         },
         "yep_stealsnatch.js": {
           "originalName": "YEP_StealSnatch.js",
           "type": "file",
-          "base": 22985150,
+          "base": 21803540,
           "length": 55167
         },
         "yep_stealsnatch.omori": {
           "originalName": "YEP_StealSnatch.OMORI",
           "type": "file",
-          "base": 23040317,
+          "base": 21858707,
           "length": 55183
         },
         "yep_stopmapmovement.js": {
           "originalName": "YEP_StopMapMovement.js",
           "type": "file",
-          "base": 23095500,
+          "base": 21913890,
           "length": 6676
         },
         "yep_stopmapmovement.omori": {
           "originalName": "YEP_StopMapMovement.OMORI",
           "type": "file",
-          "base": 23102176,
+          "base": 21920566,
           "length": 6692
         },
         "yep_swapenemies.js": {
           "originalName": "YEP_SwapEnemies.js",
           "type": "file",
-          "base": 23108868,
+          "base": 21927258,
           "length": 6385
         },
         "yep_swapenemies.omori": {
           "originalName": "YEP_SwapEnemies.OMORI",
           "type": "file",
-          "base": 23115253,
+          "base": 21933643,
           "length": 6401
         },
         "yep_taunt.js": {
           "originalName": "YEP_Taunt.js",
           "type": "file",
-          "base": 23121654,
+          "base": 21940044,
           "length": 18712
         },
         "yep_taunt.omori": {
           "originalName": "YEP_Taunt.OMORI",
           "type": "file",
-          "base": 23140366,
+          "base": 21958756,
           "length": 18728
         },
         "yep_testplayassist.js": {
           "originalName": "YEP_TestPlayAssist.js",
           "type": "file",
-          "base": 23159094,
+          "base": 21977484,
           "length": 7434
         },
         "yep_testplayassist.omori": {
           "originalName": "YEP_TestPlayAssist.OMORI",
           "type": "file",
-          "base": 23166528,
+          "base": 21984918,
           "length": 7450
         },
         "yep_utilitycommonevents.js": {
           "originalName": "YEP_UtilityCommonEvents.js",
           "type": "file",
-          "base": 23173978,
+          "base": 21992368,
           "length": 9932
         },
         "yep_utilitycommonevents.omori": {
           "originalName": "YEP_UtilityCommonEvents.OMORI",
           "type": "file",
-          "base": 23183910,
+          "base": 22002300,
           "length": 9948
         },
         "yep_x_actseqpack1.js": {
           "originalName": "YEP_X_ActSeqPack1.js",
           "type": "file",
-          "base": 23193858,
+          "base": 22012248,
           "length": 64029
         },
         "yep_x_actseqpack1.omori": {
           "originalName": "YEP_X_ActSeqPack1.OMORI",
           "type": "file",
-          "base": 23257887,
+          "base": 22076277,
           "length": 64045
         },
         "yep_x_actseqpack2.js": {
           "originalName": "YEP_X_ActSeqPack2.js",
           "type": "file",
-          "base": 23321932,
+          "base": 22140322,
           "length": 57367
         },
         "yep_x_actseqpack2.omori": {
           "originalName": "YEP_X_ActSeqPack2.OMORI",
           "type": "file",
-          "base": 23379299,
+          "base": 22197689,
           "length": 57383
         },
         "yep_x_actseqpack3.js": {
           "originalName": "YEP_X_ActSeqPack3.js",
           "type": "file",
-          "base": 23436682,
+          "base": 22255072,
           "length": 38956
         },
         "yep_x_actseqpack3.omori": {
           "originalName": "YEP_X_ActSeqPack3.OMORI",
           "type": "file",
-          "base": 23475638,
+          "base": 22294028,
           "length": 38972
         },
         "yep_x_animatedsvenemies.js": {
           "originalName": "YEP_X_AnimatedSVEnemies.js",
           "type": "file",
-          "base": 23514610,
+          "base": 22333000,
           "length": 83492
         },
         "yep_x_animatedsvenemies.omori": {
           "originalName": "YEP_X_AnimatedSVEnemies.OMORI",
           "type": "file",
-          "base": 23598102,
+          "base": 22416492,
           "length": 83508
         },
         "yep_x_countercontrol.js": {
           "originalName": "YEP_X_CounterControl.js",
           "type": "file",
-          "base": 23681610,
+          "base": 22500000,
           "length": 76591
         },
         "yep_x_countercontrol.omori": {
           "originalName": "YEP_X_CounterControl.OMORI",
           "type": "file",
-          "base": 23758201,
+          "base": 22576591,
           "length": 76607
         },
         "yep_x_criticalcontrol.js": {
           "originalName": "YEP_X_CriticalControl.js",
           "type": "file",
-          "base": 23834808,
+          "base": 22653198,
           "length": 27977
         },
         "yep_x_criticalcontrol.omori": {
           "originalName": "YEP_X_CriticalControl.OMORI",
           "type": "file",
-          "base": 23862785,
+          "base": 22681175,
           "length": 27993
         },
         "yep_x_extmespack1.js": {
           "originalName": "YEP_X_ExtMesPack1.js",
           "type": "file",
-          "base": 23890778,
+          "base": 22709168,
           "length": 67194
         },
         "yep_x_extmespack1.omori": {
           "originalName": "YEP_X_ExtMesPack1.OMORI",
           "type": "file",
-          "base": 23957972,
+          "base": 22776362,
           "length": 67210
         },
         "yep_x_extmespack2.js": {
           "originalName": "YEP_X_ExtMesPack2.js",
           "type": "file",
-          "base": 24025182,
+          "base": 22843572,
           "length": 78713
         },
         "yep_x_extmespack2.omori": {
           "originalName": "YEP_X_ExtMesPack2.OMORI",
           "type": "file",
-          "base": 24103895,
+          "base": 22922285,
           "length": 78729
         },
         "yep_x_extmovepack1.js": {
           "originalName": "YEP_X_ExtMovePack1.js",
           "type": "file",
-          "base": 24182624,
+          "base": 23001014,
           "length": 13800
         },
         "yep_x_extmovepack1.omori": {
           "originalName": "YEP_X_ExtMovePack1.OMORI",
           "type": "file",
-          "base": 24196424,
+          "base": 23014814,
           "length": 13816
         },
         "yep_x_messagemacros1.js": {
           "originalName": "YEP_X_MessageMacros1.js",
           "type": "file",
-          "base": 24210240,
+          "base": 23028630,
           "length": 43647
         },
         "yep_x_messagemacros1.omori": {
           "originalName": "YEP_X_MessageMacros1.OMORI",
           "type": "file",
-          "base": 24253887,
+          "base": 23072277,
           "length": 43663
         },
         "yep_x_messagemacros2.js": {
           "originalName": "YEP_X_MessageMacros2.js",
           "type": "file",
-          "base": 24297550,
+          "base": 23115940,
           "length": 38522
         },
         "yep_x_messagemacros2.omori": {
           "originalName": "YEP_X_MessageMacros2.OMORI",
           "type": "file",
-          "base": 24336072,
+          "base": 23154462,
           "length": 38538
         },
         "yep_x_messagemacros3.js": {
           "originalName": "YEP_X_MessageMacros3.js",
           "type": "file",
-          "base": 24374610,
+          "base": 23193000,
           "length": 38522
         },
         "yep_x_messagemacros3.omori": {
           "originalName": "YEP_X_MessageMacros3.OMORI",
           "type": "file",
-          "base": 24413132,
+          "base": 23231522,
           "length": 38538
         },
         "yep_x_messagemacros4.js": {
           "originalName": "YEP_X_MessageMacros4.js",
           "type": "file",
-          "base": 24451670,
+          "base": 23270060,
           "length": 38522
         },
         "yep_x_messagemacros4.omori": {
           "originalName": "YEP_X_MessageMacros4.OMORI",
           "type": "file",
-          "base": 24490192,
+          "base": 23308582,
           "length": 38538
         },
         "yep_x_messagemacros5.js": {
           "originalName": "YEP_X_MessageMacros5.js",
           "type": "file",
-          "base": 24528730,
+          "base": 23347120,
           "length": 38522
         },
         "yep_x_messagemacros5.omori": {
           "originalName": "YEP_X_MessageMacros5.OMORI",
           "type": "file",
-          "base": 24567252,
+          "base": 23385642,
           "length": 38538
         },
         "yep_x_passiveauras.js": {
           "originalName": "YEP_X_PassiveAuras.js",
           "type": "file",
-          "base": 24605790,
+          "base": 23424180,
           "length": 21342
         },
         "yep_x_passiveauras.omori": {
           "originalName": "YEP_X_PassiveAuras.OMORI",
           "type": "file",
-          "base": 24627132,
+          "base": 23445522,
           "length": 21358
         },
         "yep_x_statecategories.js": {
           "originalName": "YEP_X_StateCategories.js",
           "type": "file",
-          "base": 24648490,
+          "base": 23466880,
           "length": 16972
         },
         "yep_x_statecategories.omori": {
           "originalName": "YEP_X_StateCategories.OMORI",
           "type": "file",
-          "base": 24665462,
+          "base": 23483852,
           "length": 16988
         },
         "yep_z_passivecases.js": {
           "originalName": "YEP_Z_PassiveCases.js",
           "type": "file",
-          "base": 24682450,
+          "base": 23500840,
           "length": 27078
         },
         "yep_z_passivecases.omori": {
           "originalName": "YEP_Z_PassiveCases.OMORI",
           "type": "file",
-          "base": 24709528,
+          "base": 23527918,
           "length": 27094
         },
         "yin - minigame - blackjack.js": {
           "originalName": "YIN - Minigame - Blackjack.js",
           "type": "file",
-          "base": 24736622,
+          "base": 23555012,
           "length": 38641
         },
         "yin - minigame - blackjack.omori": {
           "originalName": "YIN - Minigame - Blackjack.OMORI",
           "type": "file",
-          "base": 24775263,
+          "base": 23593653,
           "length": 38657
         },
         "yin - minigame - hardwareshop.js": {
           "originalName": "YIN - Minigame - HardwareShop.js",
           "type": "file",
-          "base": 24813920,
+          "base": 23632310,
           "length": 13338
         },
         "yin - minigame - hardwareshop.omori": {
           "originalName": "YIN - Minigame - HardwareShop.OMORI",
           "type": "file",
-          "base": 24827258,
+          "base": 23645648,
           "length": 13354
         },
         "yin - minigame - homealone.js": {
           "originalName": "YIN - Minigame - HomeAlone.js",
           "type": "file",
-          "base": 24840612,
+          "base": 23659002,
           "length": 12381
         },
         "yin - minigame - homealone.omori": {
           "originalName": "YIN - Minigame - HomeAlone.OMORI",
           "type": "file",
-          "base": 24852993,
+          "base": 23671383,
           "length": 12397
         },
         "yin - minigame - jukebox.js": {
           "originalName": "YIN - Minigame - Jukebox.js",
           "type": "file",
-          "base": 24865390,
+          "base": 23683780,
           "length": 8089
         },
         "yin - minigame - jukebox.omori": {
           "originalName": "YIN - Minigame - Jukebox.OMORI",
           "type": "file",
-          "base": 24873479,
+          "base": 23691869,
           "length": 8105
         },
         "yin - minigame - petrocks.js": {
           "originalName": "YIN - Minigame - PetRocks.js",
           "type": "file",
-          "base": 24881584,
+          "base": 23699974,
           "length": 22019
         },
         "yin - minigame - petrocks.omori": {
           "originalName": "YIN - Minigame - PetRocks.OMORI",
           "type": "file",
-          "base": 24903603,
+          "base": 23721993,
           "length": 22035
         },
         "yin - minigame - pizzadelivery.js": {
           "originalName": "YIN - Minigame - PizzaDelivery.js",
           "type": "file",
-          "base": 24925638,
+          "base": 23744028,
           "length": 7962
         },
         "yin - minigame - pizzadelivery.omori": {
           "originalName": "YIN - Minigame - PizzaDelivery.OMORI",
           "type": "file",
-          "base": 24933600,
+          "base": 23751990,
           "length": 7978
         },
         "yin - minigame - snake.js": {
           "originalName": "YIN - Minigame - Snake.js",
           "type": "file",
-          "base": 24941578,
+          "base": 23759968,
           "length": 22811
         },
         "yin - minigame - snake.omori": {
           "originalName": "YIN - Minigame - Snake.OMORI",
           "type": "file",
-          "base": 24964389,
+          "base": 23782779,
           "length": 22827
         },
         "yin - minigame - spaceinvaders.js": {
           "originalName": "YIN - Minigame - SpaceInvaders.js",
           "type": "file",
-          "base": 24987216,
+          "base": 23805606,
           "length": 41547
         },
         "yin - minigame - spaceinvaders.omori": {
           "originalName": "YIN - Minigame - SpaceInvaders.OMORI",
           "type": "file",
-          "base": 25028763,
+          "base": 23847153,
           "length": 41563
         },
         "yin_omorifixes.js": {
           "originalName": "YIN_OmoriFixes.js",
           "type": "file",
-          "base": 25070326,
+          "base": 23888716,
           "length": 20852
         },
         "yin_omorifixes.omori": {
           "originalName": "YIN_OmoriFixes.OMORI",
           "type": "file",
-          "base": 25091178,
+          "base": 23909568,
           "length": 20868
         },
         "ysp_videoplayer.js": {
           "originalName": "YSP_VideoPlayer.js",
           "type": "file",
-          "base": 25112046,
+          "base": 23930436,
           "length": 8320
         },
         "ysp_videoplayer.omori": {
           "originalName": "YSP_VideoPlayer.OMORI",
           "type": "file",
-          "base": 25120366,
+          "base": 23938756,
           "length": 8336
+        },
+        "zzz_fixbattlechoices.js": {
+          "originalName": "zzz_fixbattlechoices.js",
+          "type": "file",
+          "base": 23947092,
+          "length": 611
         }
       }
     },
     "plugins.js": {
       "originalName": "plugins.js",
       "type": "file",
-      "base": 25128702,
+      "base": 23947703,
       "length": 283574
     },
     "rpg_core.js": {
       "originalName": "rpg_core.js",
       "type": "file",
-      "base": 25412276,
+      "base": 24231277,
       "length": 244396
     },
     "rpg_managers.js": {
       "originalName": "rpg_managers.js",
       "type": "file",
-      "base": 25656672,
+      "base": 24475673,
       "length": 85402
     },
     "rpg_objects.js": {
       "originalName": "rpg_objects.js",
       "type": "file",
-      "base": 25742074,
+      "base": 24561075,
       "length": 312145
     },
     "rpg_scenes.js": {
       "originalName": "rpg_scenes.js",
       "type": "file",
-      "base": 26054219,
+      "base": 24873220,
       "length": 81404
     },
     "rpg_sprites.js": {
       "originalName": "rpg_sprites.js",
       "type": "file",
-      "base": 26135623,
+      "base": 24954624,
       "length": 80558
     },
     "rpg_windows.js": {
       "originalName": "rpg_windows.js",
       "type": "file",
-      "base": 26216181,
+      "base": 25035182,
       "length": 182790
     }
   }
